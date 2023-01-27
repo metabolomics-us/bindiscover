@@ -1,0 +1,889 @@
+InChIKey	Status	Kingdom	Superclass	Class	Subclass	direct_parent_1	direct_parent_2	direct_parent_3	direct_parent_4	direct_parent_5
+JGHZJRVDZXSNKQ-UHFFFAOYSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty acid esters	Fatty acid methyl esters				
+AEMOLEFTQBMNLQ-DTEWXJGMSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Sugar acids and derivatives	Glucuronic acid derivatives			
+AAWZDTNXLSGCEK-LNVDRNJUSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Alcohols and polyols	Cyclic alcohols and derivatives	Cyclitols and derivatives	Quinic acids and derivatives		
+ZAZKJZBWRNNLDS-UHFFFAOYSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty acid esters	Fatty acid methyl esters				
+UCMIRNVEIXFBKS-UHFFFAOYSA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Beta amino acids and derivatives			
+CGSJXLIKVBJVRY-XTGBIJOFSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Steroids and steroid derivatives	Cholestane steroids	Cholesterols and derivatives				
+KRKNYBCHXYNGOX-UHFFFAOYSA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Tricarboxylic acids and derivatives	Tricarboxylic acids and derivatives				
+DUUGKQCEGZLZNO-UHFFFAOYSA-M	Completed	Organic compounds	Organoheterocyclic compounds	Indoles and derivatives	Indolyl carboxylic acids and derivatives	Indole-3-acetic acid derivatives				
+AEMRFAOFKBGASW-UHFFFAOYSA-N	Completed	Organic compounds	Organic acids and derivatives	Hydroxy acids and derivatives	Alpha hydroxy acids and derivatives	Alpha hydroxy acids and derivatives				
+UCTWMZQNUQWSLP-VIFPVBQESA-N	Completed	Organic compounds	Benzenoids	Phenols	Benzenediols	Catechols				
+KZSHODFDDQCIMT-ZOQUXTDFSA-N	Completed	Organic compounds	Nucleosides, nucleotides, and analogues	Pyrimidine nucleotides	Pyrimidine ribonucleotides	Pyrimidine ribonucleoside monophosphates				
+NGFMICBWJRZIBI-UJPOAAIJSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Glycosyl compounds	Phenolic glycosides			
+IKMKBKLESWIEFA-UHFFFAOYSA-N	Completed	Organic compounds	Organoheterocyclic compounds	Lactones	Gamma butyrolactones	Gamma butyrolactones				
+CDAWCLOXVUBKRW-UHFFFAOYSA-N	Completed	Organic compounds	Benzenoids	Benzene and substituted derivatives	Aniline and substituted anilines	Aniline and substituted anilines				
+JRLGPAXAGHMNOL-LURJTMIESA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Alpha amino acids and derivatives	N-acyl-alpha amino acids and derivatives	N-acyl-alpha amino acids	N-acyl-L-alpha-amino acids
+BJHIKXHVCXFQLS-ZXEDONINSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Monosaccharides				
+AHLPHDHHMVZTML-BYPYZUCNSA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Alpha amino acids and derivatives	Alpha amino acids	L-alpha-amino acids	
+QCMUGKOFXVYNCF-UHFFFAOYSA-N	Completed	Organic compounds	Benzenoids	Phenol ethers	Anisoles	Anisoles				
+ARXKVVRQIIOZGF-UHFFFAOYSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Alcohols and polyols	Secondary alcohols				
+AVXURJPOCDRRFD-UHFFFAOYSA-N	Completed	Inorganic compounds	Homogeneous non-metal compounds	Homogeneous other non-metal compounds		Homogeneous other non-metal compounds				
+ZKHOYAKAFALNQD-UHFFFAOYSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty acid esters	Fatty acid methyl esters				
+AWUCVROLDVIAJX-UHFFFAOYSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Glycerophospholipids	Glycerophosphates	Glycerophosphates				
+PPBRXRYQALVLMV-UHFFFAOYSA-N	Completed	Organic compounds	Benzenoids	Benzene and substituted derivatives	Styrenes	Styrenes				
+TZBJGXHYKVUXJN-UHFFFAOYSA-N	Completed	Organic compounds	Phenylpropanoids and polyketides	Isoflavonoids	Isoflav-2-enes	Isoflavones				
+JSJWCHRYRHKBBW-UHFFFAOYSA-N	Completed	Organic compounds	Organic acids and derivatives	Organic carbonic acids and derivatives	Ureas	Ureas				
+GZLZRPNUDBIQBM-UHFFFAOYSA-N	Completed	Organic compounds	Organoheterocyclic compounds	Diazines	Pyrimidines and pyrimidine derivatives	Pyrimidones				
+AYFVYJQAPQTCCC-GBXIJSLDSA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Alpha amino acids and derivatives	Alpha amino acids	L-alpha-amino acids	
+BHHGXPLMPWCGHP-UHFFFAOYSA-N	Completed	Organic compounds	Benzenoids	Benzene and substituted derivatives	Phenethylamines	Phenethylamines				
+CXMXRPHRNRROMY-UHFFFAOYSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates	Medium-chain fatty acids				
+VSLXJOHTVOZTNF-UHFFFAOYSA-N	Completed	Organic compounds	Organoheterocyclic compounds	Pyridines and derivatives	Methylpyridines	Methylpyridines				
+HKQYGTCOTHHOMP-UHFFFAOYSA-N	Completed	Organic compounds	Phenylpropanoids and polyketides	Isoflavonoids	O-methylated isoflavonoids	4'-O-methylated isoflavonoids	4'-O-methylisoflavones			
+VVIUBCNYACGLLV-UHFFFAOYSA-N	Completed	Organic compounds	Organic acids and derivatives	Sulfinic acids and derivatives	Sulfinic acids	Sulfinic acids				
+BKAJNAXTPSGJCU-UHFFFAOYSA-N	Completed	Organic compounds	Organic acids and derivatives	Keto acids and derivatives	Short-chain keto acids and derivatives	Short-chain keto acids and derivatives				
+OVRNDRQMDRJTHS-ZTVVOAFPSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Aminosaccharides	Amino sugars	Acylaminosugars		
+BPMFZUMJYQTVII-UHFFFAOYSA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Alpha amino acids and derivatives			
+SRBFZHDQGSBBOR-IOVATXLUSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Monosaccharides	Pentoses			
+XZOYHFBNQHPJRQ-UHFFFAOYSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates	Medium-chain fatty acids				
+PYMYPHUHKUWMLA-VPENINKCSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Monosaccharides	Pentoses			
+CDAISMWEOUEBRE-UHFFFAOYSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Alcohols and polyols	Secondary alcohols	Cyclohexanols			
+CFFZDZCDUFSOFZ-UHFFFAOYSA-N	Completed	Organic compounds	Benzenoids	Phenols	Benzenediols	Catechols				
+QRMZSPFSDQBLIX-UHFFFAOYSA-N	Completed	Organic compounds	Benzenoids	Phenols	Methoxyphenols	Methoxyphenols				
+CWVRJTMFETXNAD-JUHZACGLSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Alcohols and polyols	Cyclic alcohols and derivatives	Cyclitols and derivatives	Quinic acids and derivatives		
+CWVRJTMFETXNAD-NXLLHMKUSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Alcohols and polyols	Cyclic alcohols and derivatives	Cyclitols and derivatives	Quinic acids and derivatives		
+JRHWHSJDIILJAT-UHFFFAOYSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates	Hydroxy fatty acids				
+KZNQNBZMBZJQJO-YFKPBYRVSA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Peptides	Dipeptides			
+DCBSHORRWZKAKO-UHFFFAOYSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Glycerolipids	Monoradylglycerols	Monoacylglycerols	1-monoacylglycerols			
+FHQRDEDZJIFJAL-UHFFFAOYSA-N	Completed	Organic compounds	Organoheterocyclic compounds	Oxazinanes	Morpholines	Phenylmorpholines				
+FBPFZTCFMRRESA-JGWLITMVSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Sugar alcohols				
+DCXYFEDJOCDNAF-REOHCLBHSA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Alpha amino acids and derivatives	Asparagine and derivatives		
+VHRGRCVQAFMJIZ-UHFFFAOYSA-N	Completed	Organic compounds	Organic nitrogen compounds	Organonitrogen compounds	Amines	Primary amines	Monoalkylamines			
+QEFRNWWLZKMPFJ-YGVKFDHGSA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Alpha amino acids and derivatives	Alpha amino acids	L-alpha-amino acids	
+UNXHWFMMPAWVPI-QWWZWVQMSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Sugar alcohols				
+XFNJVJPLKCPIBV-UHFFFAOYSA-N	Completed	Organic compounds	Organic nitrogen compounds	Organonitrogen compounds	Amines	Primary amines	Monoalkylamines			
+PAJPWUMXBYXFCZ-UHFFFAOYSA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Alpha amino acids and derivatives	Alpha amino acids		
+UKFXDFUAPNAMPJ-UHFFFAOYSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates	Branched fatty acids				
+KDXKERNSBIXSRK-YFKPBYRVSA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Alpha amino acids and derivatives	Alpha amino acids	L-alpha-amino acids	
+DGADNPLBVRLJGD-UHFFFAOYSA-N	Completed	Organic compounds	Organic acids and derivatives	Hydroxy acids and derivatives	Beta hydroxy acids and derivatives	Beta hydroxy acids and derivatives				
+DHMQDGOQFOQNFH-UHFFFAOYSA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Alpha amino acids and derivatives	Alpha amino acids		
+DJDSLBVSSOQSLW-UHFFFAOYSA-N	Completed	Organic compounds	Benzenoids	Benzene and substituted derivatives	Benzoic acids and derivatives	Benzoic acid esters				
+FUOOLUPWFVMBKG-UHFFFAOYSA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Alpha amino acids and derivatives	Alpha amino acids		
+DLRVVLDZNNYCBX-ABXHMFFYSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Glycosyl compounds	O-glycosyl compounds			
+LEHOTFFKMJEONL-UHFFFAOYSA-N	Completed	Organic compounds	Organoheterocyclic compounds	Imidazopyrimidines	Purines and purine derivatives	Xanthines				
+DLRVVLDZNNYCBX-LIZSDCNHSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Glycosyl compounds	O-glycosyl compounds			
+YPZMPEPLWKRVLD-PJEQPVAWSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Monosaccharides	Heptoses			
+NBIIXXVUZAFLBC-UHFFFAOYSA-N	Completed	Inorganic compounds	Homogeneous non-metal compounds	Non-metal oxoanionic compounds	Non-metal phosphates	Non-metal phosphates				
+XSQUKJJJFZCRTK-UHFFFAOYSA-N	Completed	Organic compounds	Organic acids and derivatives	Organic carbonic acids and derivatives	Ureas	Ureas				
+DRTQHJPVMGBUCF-XVFCMESISA-N	Completed	Organic compounds	Nucleosides, nucleotides, and analogues	Pyrimidine nucleosides		Pyrimidine nucleosides				
+QNAYBMKLOCPYGJ-REOHCLBHSA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Alpha amino acids and derivatives	Alanine and derivatives		
+GYDJEQRTZSCIOI-UHFFFAOYSA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Amino acids			
+GQHUSRBBMNYHIF-UHFFFAOYSA-N	Completed	Organic compounds	Benzenoids	Naphthalenes		Naphthalenes				
+DTBNBXWJWCWCIK-UHFFFAOYSA-N	Completed	Organic compounds	Organic acids and derivatives	Organic phosphoric acids and derivatives	Phosphate esters	Phosphate esters				
+DZAUWHJDUNRCTF-UHFFFAOYSA-N	Completed	Organic compounds	Phenylpropanoids and polyketides	Phenylpropanoic acids		Phenylpropanoic acids				
+RQFUZUMFPRMVDX-UHFFFAOYSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Alcohols and polyols	Primary alcohols				
+DZGWFCGJZKJUFP-UHFFFAOYSA-N	Completed	Organic compounds	Benzenoids	Benzene and substituted derivatives	Phenethylamines	Phenethylamines				
+TYFQFVWCELRYAO-UHFFFAOYSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates	Medium-chain fatty acids				
+ATNNLHXCRAAGJS-QZQOTICOSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates	Very long-chain fatty acids				
+FBPFZTCFMRRESA-UHFFFAOYSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Sugar alcohols				
+IYRMWMYZSQPJKC-UHFFFAOYSA-N	Completed	Organic compounds	Phenylpropanoids and polyketides	Flavonoids	Flavones	Flavonols				
+OLXZPDWKRNYJJZ-UHFFFAOYSA-N	Completed	Organic compounds	Nucleosides, nucleotides, and analogues	Purine nucleosides	Purine 2'-deoxyribonucleosides	Purine 2'-deoxyribonucleosides				
+JLYXXMFPNIAWKQ-UHFFFAOYSA-N	Completed	Organic compounds	Organohalogen compounds	Alkyl halides	Cyclohexyl halides	Cyclohexyl halides				
+FEWJPZIEWOKRBE-JCYAYHJZSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Sugar acids and derivatives				
+YRCWQPVGYLYSOX-UHFFFAOYSA-N	Completed	Organic compounds	Benzenoids	Phenols	1-hydroxy-2-unsubstituted benzenoids	1-hydroxy-2-unsubstituted benzenoids				
+FLIACVVOZYBSBS-UHFFFAOYSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty acid esters	Fatty acid methyl esters				
+FLKPEMZONWLCSK-UHFFFAOYSA-N	Completed	Organic compounds	Benzenoids	Benzene and substituted derivatives	Benzoic acids and derivatives	Benzoic acid esters				
+JTEJPPKMYBDEMY-UHFFFAOYSA-N	Completed	Organic compounds	Organoheterocyclic compounds	Indoles and derivatives	Tryptamines and derivatives	Tryptamines and derivatives				
+BGEBZHIAGXMEMV-UHFFFAOYSA-N	Completed	Organic compounds	Phenylpropanoids and polyketides	Coumarins and derivatives	Furanocoumarins	Linear furanocoumarins	Psoralens	5-methoxypsoralens		
+SLXKOJJOQWFEFD-UHFFFAOYSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates	Medium-chain fatty acids				
+FVMDYYGIDFPZAX-UHFFFAOYSA-N	Completed	Organic compounds	Benzenoids	Phenols	1-hydroxy-4-unsubstituted benzenoids	1-hydroxy-4-unsubstituted benzenoids				
+FYCWLJLGIAUCCL-DMTCNVIQSA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Alpha amino acids and derivatives	Alpha amino acids	L-alpha-amino acids	
+FYGDTMLNYKFZSV-DZOUCCHMSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Oligosaccharides				
+OGBUMNBNEWYMNJ-UHFFFAOYSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Glycerolipids	Monoradylglycerols	Monoalkylglycerols				
+QWCKQJZIFLGMSD-UHFFFAOYSA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Alpha amino acids and derivatives	Alpha amino acids		
+GCNTZFIIOFTKIY-UHFFFAOYSA-N	Completed	Organic compounds	Organoheterocyclic compounds	Pyridines and derivatives	Hydropyridines	Dihydropyridines				
+GGNQRNBDZQJCCN-UHFFFAOYSA-N	Completed	Organic compounds	Benzenoids	Phenols	Benzenetriols and derivatives	Hydroxyquinols and derivatives				
+GLDQAMYCGOIJDV-UHFFFAOYSA-N	Completed	Organic compounds	Benzenoids	Benzene and substituted derivatives	Benzoic acids and derivatives	Hydroxybenzoic acid derivatives	Salicylic acid and derivatives	Salicylic acids		
+GPLRAVKSCUXZTP-UHFFFAOYSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Glycerolipids	Monoradylglycerols	Monoalkylglycerols				
+GRFNBEZIAWKNCO-UHFFFAOYSA-N	Completed	Organic compounds	Organoheterocyclic compounds	Pyridines and derivatives	Hydroxypyridines	Hydroxypyridines				
+GUBGYTABKSRVRQ-PICCSMPSSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Glycosyl compounds	O-glycosyl compounds			
+UKMSUNONTOPOIO-UHFFFAOYSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates	Very long-chain fatty acids				
+GUBGYTABKSRVRQ-QUYVBRFLSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Glycosyl compounds	O-glycosyl compounds			
+MPXDAIBTYWGBSL-UHFFFAOYSA-N	Completed	Organic compounds	Benzenoids	Benzene and substituted derivatives	Halobenzenes	Fluorobenzenes				
+ZONJATNKKGGVSU-UHFFFAOYSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates	Long-chain fatty acids				
+HEFNNWSXXWATRW-UHFFFAOYSA-N	Completed	Organic compounds	Phenylpropanoids and polyketides	Phenylpropanoic acids		Phenylpropanoic acids				
+RFSUNEUAIZKAJO-ARQDHWQXSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Glycosyl compounds	C-glycosyl compounds			
+GUBGYTABKSRVRQ-XLOQQCSPSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Glycosyl compounds	O-glycosyl compounds			
+HDYANYHVCAPMJV-LXQIFKJMSA-N	Completed	Organic compounds	Nucleosides, nucleotides, and analogues	Pyrimidine nucleotides	Pyrimidine nucleotide sugars	Pyrimidine nucleotide sugars				
+SHZGCJCMOBCMKK-GASJEMHNSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Monosaccharides	Hexoses			
+HEBKCHPVOIAQTA-UHFFFAOYSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Sugar alcohols				
+HLKXYZVTANABHZ-REOHCLBHSA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Alpha amino acids and derivatives	Aspartic acid and derivatives		
+HMFHBZSHGGEWLO-SOOFDHNKSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Monosaccharides	Pentoses			
+HOVAGTYPODGVJG-VOQCIKJUSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Glycosyl compounds	O-glycosyl compounds			
+HNEGQIOMVPPMNR-IHWYPQMZSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates	Branched fatty acids	Methyl-branched fatty acids			
+HPEUJPJOZXNMSJ-UHFFFAOYSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty acid esters	Fatty acid methyl esters				
+HWXBTNAVRSUOJR-UHFFFAOYSA-N	Completed	Organic compounds	Organic acids and derivatives	Hydroxy acids and derivatives	Short-chain hydroxy acids and derivatives	Short-chain hydroxy acids and derivatives				
+HXACOUQIXZGNBF-UHFFFAOYSA-N	Completed	Organic compounds	Organoheterocyclic compounds	Pyridines and derivatives	Pyridinecarboxylic acids and derivatives	Pyridinecarboxylic acids				
+YVGGHNCTFXOJCH-UHFFFAOYSA-N	Completed	Organic compounds	Benzenoids	Benzene and substituted derivatives	Diphenylmethanes	Diphenylmethanes				
+GOLXRNDWAUTYKT-UHFFFAOYSA-N	Completed	Organic compounds	Organoheterocyclic compounds	Indoles and derivatives	Indolyl carboxylic acids and derivatives	Indolyl carboxylic acids and derivatives				
+FBJQEBRMDXPWNX-FYHZSNTMSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Oligosaccharides				
+INAPMGSXUVUWAF-GFWFORPUSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Alcohols and polyols	Cyclic alcohols and derivatives	Cyclitols and derivatives	Inositol phosphates		
+IJXHLVMUNBOGRR-UHFFFAOYSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty acid esters	Fatty acid methyl esters				
+XYBSIYMGXVUVGY-UHFFFAOYSA-N	Completed	Organic compounds	Benzenoids	Benzene and substituted derivatives	Diphenylethers	Bromodiphenyl ethers				
+WECGLUPZRHILCT-HZJYTTRNSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Lineolic acids and derivatives	Lineolic acids and derivatives				
+OOWQBDFWEXAXPB-UHFFFAOYSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Glycerolipids	Monoradylglycerols	Monoalkylglycerols				
+QCDYQQDYXPDABM-UHFFFAOYSA-N	Completed	Organic compounds	Benzenoids	Phenols	Benzenetriols and derivatives	Phloroglucinols and derivatives				
+UBORTCNDUKBEOP-UUOKFMHZSA-N	Completed	Organic compounds	Nucleosides, nucleotides, and analogues	Purine nucleosides		Purine nucleosides				
+WTTJVINHCBCLGX-NQLNTKRDSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Lineolic acids and derivatives	Lineolic acids and derivatives				
+ZUOUZKKEUPVFJK-UHFFFAOYSA-N	Completed	Organic compounds	Benzenoids	Benzene and substituted derivatives	Biphenyls and derivatives	Biphenyls and derivatives				
+AMAXBIKMKZRFCE-UHFFFAOYSA-N	Completed	Organic compounds	Organoheterocyclic compounds	Quinolines and derivatives	Benzoquinolines	Phenanthridines and derivatives				
+JBKVHLHDHHXQEQ-UHFFFAOYSA-N	Completed	Organic compounds	Organoheterocyclic compounds	Lactams	Caprolactams	Caprolactams				
+JCQLYHFGKNRPGE-FCVZTGTOSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Glycosyl compounds	O-glycosyl compounds			
+REZQBEBOWJAQKS-UHFFFAOYSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty alcohols	Fatty alcohols				
+WGYKZJWCGVVSQN-UHFFFAOYSA-N	Completed	Organic compounds	Organic nitrogen compounds	Organonitrogen compounds	Amines	Primary amines	Monoalkylamines			
+FFDGPVCHZBVARC-UHFFFAOYSA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Alpha amino acids and derivatives	Alpha amino acids		
+JMSVCTWVEWCHDZ-UHFFFAOYSA-N	Completed	Organic compounds	Benzenoids	Benzene and substituted derivatives	Benzoic acids and derivatives	Hydroxybenzoic acid derivatives	Gallic acid and derivatives			
+RBNPOMFGQQGHHO-UHFFFAOYSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Sugar acids and derivatives				
+JPIJQSOTBSSVTP-PWNYCUMCSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Sugar acids and derivatives				
+RFMMMVDNIPUKGG-UHFFFAOYSA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Alpha amino acids and derivatives	Glutamic acid and derivatives		
+GLKCOBIIZKYKFN-UHFFFAOYSA-N	Completed	Organic compounds	Organoheterocyclic compounds	Pteridines and derivatives	Pterins and derivatives	Pterins and derivatives				
+JWFRNGYBHLBCMB-NGJCXOISSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Monosaccharides	Hexoses			
+WPYMKLBDIGXBTP-UHFFFAOYSA-N	Completed	Organic compounds	Benzenoids	Benzene and substituted derivatives	Benzoic acids and derivatives	Benzoic acids				
+SITLTJHOQZFJGG-XPUUQOCRSA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Peptides	Dipeptides			
+ZAQJHHRNXZUBTE-NQXXGFSBSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Monosaccharides	Pentoses			
+IIUXHTGBZYEGHI-UHFFFAOYSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates	Long-chain fatty acids				
+SAOKZLXYCUGLFA-UHFFFAOYSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty acid esters	Fatty acid esters				
+BGWGXPAPYGQALX-ARQDHWQXSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Monosaccharides	Pentoses	Pentose phosphates		
+AEMOLEFTQBMNLQ-BKBMJHBISA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Sugar acids and derivatives	Glucuronic acid derivatives			
+PESKGJQREUXSRR-JDIFZLMISA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Steroids and steroid derivatives	Cholestane steroids	Cholesterols and derivatives				
+KEMQGTRYUADPNZ-UHFFFAOYSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates	Long-chain fatty acids				
+KIDHWZJUCRJVML-UHFFFAOYSA-N	Completed	Organic compounds	Organic nitrogen compounds	Organonitrogen compounds	Amines	Primary amines	Monoalkylamines			
+AHWDQDMGFXRVFB-UHFFFAOYSA-N	Completed	Organic compounds	Organoheterocyclic compounds	Triazines	Triazinones	Triazinones				
+UHDGCWIWMRVCDJ-XVFCMESISA-N	Completed	Organic compounds	Nucleosides, nucleotides, and analogues	Pyrimidine nucleosides		Pyrimidine nucleosides				
+KKADPXVIOXHVKN-UHFFFAOYSA-N	Completed	Organic compounds	Benzenoids	Benzene and substituted derivatives	Phenylpyruvic acid derivatives	Phenylpyruvic acid derivatives				
+BRGMHAYQAZFZDJ-RTRLPJTCSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Aminosaccharides	Amino sugars	Acylaminosugars		
+BXRLWGXPSRYJDZ-VKHMYHEASA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Alpha amino acids and derivatives	Alpha amino acids	L-alpha-amino acids	
+KLZGKIDSEJWEDW-UHFFFAOYSA-N	Completed	Organic compounds	Organic acids and derivatives	Carboximidic acids and derivatives	Carboximidic acids	Carboximidic acids				
+BSWWXRFVMJHFBN-UHFFFAOYSA-N	Completed	Organic compounds	Benzenoids	Phenols	Halophenols	Bromophenols	P-bromophenols			
+OVRNDRQMDRJTHS-FMDGEEDCSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Aminosaccharides	Amino sugars	Acylaminosugars		
+KSEBMYQBYZTDHS-HWKANZROSA-N	Completed	Organic compounds	Phenylpropanoids and polyketides	Cinnamic acids and derivatives	Hydroxycinnamic acids and derivatives	Hydroxycinnamic acids				
+QXKAIJAYHKCRRA-BXXZVTAOSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Sugar acids and derivatives				
+KTVPXOYAKDPRHY-SOOFDHNKSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Monosaccharides	Pentoses	Pentose phosphates		
+KWOLFJPFCHCOCG-UHFFFAOYSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbonyl compounds	Ketones	Aryl ketones	Phenylketones	Alkyl-phenylketones	
+GOSSJMUDZXUZOY-UHFFFAOYSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty acid esters	Fatty acid esters				
+KZSNJWFQEVHDMF-BYPYZUCNSA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Alpha amino acids and derivatives	Valine and derivatives		
+LABSPYBHMPDTEL-LIZSDCNHSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Disaccharides	Disaccharide phosphates			
+PTJWIQPHWPFNBW-GBNDHIKLSA-N	Completed	Organic compounds	Nucleosides, nucleotides, and analogues	Nucleoside and nucleotide analogues		Nucleoside and nucleotide analogues				
+LENZDBCJOHFCAS-UHFFFAOYSA-N	Completed	Organic compounds	Organic nitrogen compounds	Organonitrogen compounds	Amines	Alkanolamines	1,2-aminoalcohols			
+RGHNJXZEOKUKBD-UHFFFAOYSA-N	Completed	Organic compounds	Organic acids and derivatives	Hydroxy acids and derivatives	Medium-chain hydroxy acids and derivatives	Medium-chain hydroxy acids and derivatives				
+BCVUYVOMXUKYFC-UHFFFAOYSA-N	Completed	Organic compounds	Organoheterocyclic compounds	Pteridines and derivatives		Pteridines and derivatives				
+LFTYTUAZOPRMMI-CFRASDGPSA-N	Completed	Organic compounds	Nucleosides, nucleotides, and analogues	Pyrimidine nucleotides	Pyrimidine nucleotide sugars	Pyrimidine nucleotide sugars				
+LNQVTSROQXJCDD-KQYNXXCUSA-N	Completed	Organic compounds	Nucleosides, nucleotides, and analogues	Ribonucleoside 3'-phosphates		Ribonucleoside 3'-phosphates				
+LOLKAJARZKDJTD-UHFFFAOYSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty acid esters	Fatty acid esters				
+RFMMMVDNIPUKGG-YFKPBYRVSA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Alpha amino acids and derivatives	Glutamic acid and derivatives		
+XSAYZAUNJMRRIR-UHFFFAOYSA-N	Completed	Organic compounds	Benzenoids	Naphthalenes		Naphthalenes				
+XPPKVPWEQAFLFU-UHFFFAOYSA-N	Completed	Inorganic compounds	Homogeneous non-metal compounds	Non-metal oxoanionic compounds	Non-metal pyrophosphates	Non-metal pyrophosphates				
+MBIQENSCDNJOIY-UHFFFAOYSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates	Hydroxy fatty acids				
+MSPCIZMDDUQPGJ-UHFFFAOYSA-N	Completed	Organic compounds	Organometallic compounds	Organometalloid compounds	Organosilicon compounds	Organoheterosilanes	Trialkylheterosilanes			
+MSWZFWKMSRAUBD-IVMDWMLBSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Monosaccharides	Hexoses			
+MTXSIJUGVMTTMU-UHFFFAOYSA-N	Completed	Organic compounds	Alkaloids and derivatives			Alkaloids and derivatives				
+MXNRLFUSFKVQSK-QMMMGPOBSA-O	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Alpha amino acids and derivatives	Alpha amino acids		
+RJKFOVLPORLFTN-LEKSSAKUSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Steroids and steroid derivatives	Pregnane steroids	Gluco/mineralocorticoids, progestogins and derivatives				
+LVHBHZANLOWSRM-UHFFFAOYSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates	Branched fatty acids				
+NBSCHQHZLSJFNQ-SVZMEOIVSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Monosaccharides	Hexoses	Hexose phosphates		
+NBSCHQHZLSJFNQ-VFUOTHLCSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Monosaccharides	Hexoses	Hexose phosphates		
+XWEMGFGRWJFXST-ONEGZZNKSA-N	Completed	Organic compounds	Benzenoids	Benzene and substituted derivatives	Halobenzenes	Chlorobenzenes	Dichlorobenzenes			
+NYHBQMYGNKIUIF-UUOKFMHZSA-N	Completed	Organic compounds	Nucleosides, nucleotides, and analogues	Purine nucleosides		Purine nucleosides				
+VCKPUUFAIGNJHC-UHFFFAOYSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbonyl compounds	Ketones	Aryl ketones	Phenylketones	Alkyl-phenylketones	
+ODBLHEXUDAPZAU-ZAFYKAAXSA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Tricarboxylic acids and derivatives	Tricarboxylic acids and derivatives				
+OFOBLEOULBTSOW-UHFFFAOYSA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Dicarboxylic acids and derivatives	Dicarboxylic acids and derivatives				
+OGNSCSPNOLGXSM-VKHMYHEASA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Alpha amino acids and derivatives	Alpha amino acids	L-alpha-amino acids	
+ONIBWKKTOPOVIA-BYPYZUCNSA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Alpha amino acids and derivatives	Proline and derivatives		
+ONJSZLXSECQROL-UHFFFAOYSA-N	Completed	Organic compounds	Benzenoids	Benzene and substituted derivatives	Benzoic acids and derivatives	Benzamides	Hippuric acids and derivatives	Hippuric acids		
+GTZCVFVGUGFEME-HNQUOIGGSA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Tricarboxylic acids and derivatives	Tricarboxylic acids and derivatives				
+OTTXIFWBPRRYOG-UHFFFAOYSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates	Medium-chain fatty acids				
+HIWPGCMGAMJNRG-BTLHAWITSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Glycosyl compounds	O-glycosyl compounds			
+OUYCCCASQSFEME-QMMMGPOBSA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Alpha amino acids and derivatives	Tyrosine and derivatives		
+OVRNDRQMDRJTHS-JAJWTYFOSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Aminosaccharides	Amino sugars	Acylaminosugars		
+PYUSHNKNPOHWEZ-YFKPBYRVSA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Alpha amino acids and derivatives	Methionine and derivatives		
+OWBTYPJTUOEWEK-UHFFFAOYSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Alcohols and polyols	Polyols	1,2-diols			
+PAFZNILMFXTMIY-UHFFFAOYSA-N	Completed	Organic compounds	Organic nitrogen compounds	Organonitrogen compounds	Cyclohexylamines	Cyclohexylamines				
+PCSKKIUURRTAEM-UHFFFAOYSA-N	Completed	Organic compounds	Organoheterocyclic compounds	Furans	Furoic acid and derivatives	Furoic acids				
+POOSGDOYLQNASK-UHFFFAOYSA-N	Completed	Organic compounds	Hydrocarbons	Saturated hydrocarbons	Alkanes	Alkanes				
+PEEHTFAAVSWFBL-UHFFFAOYSA-N	Completed	Organic compounds	Organoheterocyclic compounds	Pyrrolidines	Pyrrolidones	Maleimides				
+WWUZIQQURGPMPG-KRWOKUGFSA-N	Completed	Organic compounds	Organic nitrogen compounds	Organonitrogen compounds	Amines	Alkanolamines	1,2-aminoalcohols			
+RHKKZBWRNHGJEZ-VRPWFDPXSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Monosaccharides	Hexoses	Hexose phosphates		
+PMMYEEVYMWASQN-DMTCNVIQSA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Alpha amino acids and derivatives	Proline and derivatives		
+NOOLISFMXDJSKH-UHFFFAOYSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Prenol lipids	Monoterpenoids	Menthane monoterpenoids				
+KXDAEFPNCMNJSK-UHFFFAOYSA-N	Completed	Organic compounds	Benzenoids	Benzene and substituted derivatives	Benzoic acids and derivatives	Benzamides				
+WHUUTDBJXJRKMK-VKHMYHEASA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Alpha amino acids and derivatives	Glutamic acid and derivatives		
+YCOZIPAWZNQLMR-UHFFFAOYSA-N	Completed	Organic compounds	Hydrocarbons	Saturated hydrocarbons	Alkanes	Alkanes				
+UQDUPQYQJKYHQI-UHFFFAOYSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty acid esters	Fatty acid methyl esters				
+JPIJQSOTBSSVTP-GBXIJSLDSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Sugar acids and derivatives				
+CGQCWMIAEPEHNQ-UHFFFAOYSA-N	Completed	Organic compounds	Benzenoids	Phenols	Methoxyphenols	Methoxyphenols				
+QAIPRVGONGVQAS-DUXPYHPUSA-N	Completed	Organic compounds	Phenylpropanoids and polyketides	Cinnamic acids and derivatives	Hydroxycinnamic acids and derivatives	Hydroxycinnamic acids				
+RUDATBOHQWOJDD-BSWAIDMHSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Steroids and steroid derivatives	Bile acids, alcohols and derivatives	Hydroxy bile acids, alcohols and derivatives	Dihydroxy bile acids, alcohols and derivatives			
+QAOWNCQODCNURD-UHFFFAOYSA-N	Completed	Inorganic compounds	Homogeneous non-metal compounds	Non-metal oxoanionic compounds	Non-metal sulfates	Non-metal sulfates				
+ZQPPMHVWECSIRJ-KTKRTIGZSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates	Long-chain fatty acids				
+QCHPKSFMDHPSNR-UHFFFAOYSA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Beta amino acids and derivatives			
+BEBCJVAWIBVWNZ-UHFFFAOYSA-N	Completed	Organic compounds	Organic acids and derivatives	Carboximidic acids and derivatives	Carboximidic acids	Carboximidic acids				
+YTBSYETUWUMLBZ-IUYQGCFVSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Monosaccharides				
+POULHZVOKOAJMA-UHFFFAOYSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates	Medium-chain fatty acids				
+ZWLPBLYKEWSWPD-UHFFFAOYSA-N	Completed	Organic compounds	Benzenoids	Benzene and substituted derivatives	Benzoic acids and derivatives	Benzoic acids				
+QGBRLVONZXHAKJ-UHFFFAOYSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty acid esters	Fatty acid methyl esters				
+FFFHZYDWPBMWHY-VKHMYHEASA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Alpha amino acids and derivatives	Alpha amino acids	L-alpha-amino acids	
+OYHQOLUKZRVURQ-HZJYTTRNSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Lineolic acids and derivatives	Lineolic acids and derivatives				
+DLRVVLDZNNYCBX-RTPHMHGBSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Glycosyl compounds	O-glycosyl compounds			
+CQRYARSYNCAZFO-UHFFFAOYSA-N	Completed	Organic compounds	Benzenoids	Benzene and substituted derivatives	Benzyl alcohols	Benzyl alcohols				
+MVAWJSIDNICKHF-UHFFFAOYSA-N	Completed	Organic compounds	Organoheterocyclic compounds	Indoles and derivatives	Hydroxyindoles	Hydroxyindoles				
+QRAXLHLYZJCAKB-UHFFFAOYSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty alcohols	Fatty alcohols				
+KRGPXXHMOXVMMM-CIUDSAMLSA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Alpha amino acids and derivatives	Alpha amino acids	L-alpha-amino acids	
+DOIRQSBPFJWKBE-UHFFFAOYSA-N	Completed	Organic compounds	Benzenoids	Benzene and substituted derivatives	Benzoic acids and derivatives	Benzoic acid esters				
+ZFLIKDUSUDBGCD-UHFFFAOYSA-N	Completed	Organic compounds	Organoheterocyclic compounds	Azolines	Imidazolines	Imidazolinones				
+HEBKCHPVOIAQTA-ZXFHETKHSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Sugar alcohols				
+RGHNJXZEOKUKBD-MGCNEYSASA-N	Completed	Organic compounds	Organic acids and derivatives	Hydroxy acids and derivatives	Medium-chain hydroxy acids and derivatives	Medium-chain hydroxy acids and derivatives				
+FFEARJCKVFRZRR-BYPYZUCNSA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Alpha amino acids and derivatives	Methionine and derivatives		
+JJIHLJJYMXLCOY-BYPYZUCNSA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Alpha amino acids and derivatives	N-acyl-alpha amino acids and derivatives	N-acyl-alpha amino acids	N-acyl-L-alpha-amino acids
+RHGKLRLOHDJJDR-BYPYZUCNSA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Alpha amino acids and derivatives	Alpha amino acids	L-alpha-amino acids	
+RADKZDMFGJYCBB-UHFFFAOYSA-N	Completed	Organic compounds	Organoheterocyclic compounds	Pyridines and derivatives	Pyridine carboxaldehydes	Pyridoxals and derivatives				
+WXUAQHNMJWJLTG-UHFFFAOYSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates	Branched fatty acids	Methyl-branched fatty acids			
+PFURGBBHAOXLIO-UHFFFAOYSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Alcohols and polyols	Secondary alcohols	Cyclohexanols			
+RODXRVNMMDRFIK-UHFFFAOYSA-N	Completed	Organic compounds	Phenylpropanoids and polyketides	Coumarins and derivatives	Hydroxycoumarins	7-hydroxycoumarins				
+ROHFNLRQFUQHCH-YFKPBYRVSA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Alpha amino acids and derivatives	Leucine and derivatives		
+JYTUSYBCFIZPBE-AMTLMPIISA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl glycosides	Fatty acyl glycosides of mono- and disaccharides				
+SHZGCJCMOBCMKK-FPRJBGLDSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Monosaccharides	Hexoses			
+SJZRECIVHVDYJC-UHFFFAOYSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates	Hydroxy fatty acids				
+SKCKOFZKJLZSFA-JGWLITMVSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Monosaccharides	Hexoses			
+SLWWJZMPHJJOPH-PHDIDXHHSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbonyl compounds	Ketones	Cyclic ketones	Cyclohexenones		
+VHJLVAABSRFDPM-IMJSIDKUSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Alcohols and polyols	Polyols	1,2-diols			
+SOWBFZRMHSNYGE-UHFFFAOYSA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Alpha amino acids and derivatives			
+RHYBFKMFHLPQPH-UHFFFAOYSA-N	Completed	Organic compounds	Organoheterocyclic compounds	Azolines	Imidazolines	Imidazolines				
+AYFVYJQAPQTCCC-HRFVKAFMSA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Alpha amino acids and derivatives	Alpha amino acids	L-alpha-amino acids	
+SUHOOTKUPISOBE-UHFFFAOYSA-N	Completed	Organic compounds	Organic acids and derivatives	Organic phosphoric acids and derivatives	Phosphate esters	Phosphoethanolamines				
+TXXHDPDFNKHHGW-CCAGOZQPSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates	Medium-chain fatty acids				
+UBQKCCHYAOITMY-UHFFFAOYSA-N	Completed	Organic compounds	Organoheterocyclic compounds	Pyridines and derivatives	Hydropyridines	Pyridinones				
+TWNIBLMWSKIRAT-VFUOTHLCSA-N	Completed	Organic compounds	Organoheterocyclic compounds	Oxepanes		Oxepanes				
+GHVNFZFCNZKVNT-UHFFFAOYSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates	Medium-chain fatty acids				
+UFYKDFXCZBTLOO-TXICZTDVSA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Alpha amino acids and derivatives	Alpha amino acids	D-alpha-amino acids	
+UGQMRVRMYYASKQ-KQYNXXCUSA-N	Completed	Organic compounds	Nucleosides, nucleotides, and analogues	Purine nucleosides		Purine nucleosides				
+UKAUYVFTDYCKQA-VKHMYHEASA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Alpha amino acids and derivatives	Alpha amino acids	L-alpha-amino acids	
+CAHGCLMLTWQZNJ-BQNIITSRSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Prenol lipids	Triterpenoids	Triterpenoids				
+UPWGQKDVAURUGE-KTKRTIGZSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Glycerolipids	Monoradylglycerols	Monoacylglycerols	2-monoacylglycerols			
+VCWMRQDBPZKXKG-ZNVDUFQESA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Glycosyl compounds	O-glycosyl compounds			
+VQHSOMBJVWLPSR-JVCRWLNRSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl glycosides	Fatty acyl glycosides of mono- and disaccharides				
+VUCKYGJSXHHQOJ-UHFFFAOYSA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Dicarboxylic acids and derivatives	Dicarboxylic acids and derivatives				
+VZXPDPZARILFQX-BYPYZUCNSA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Alpha amino acids and derivatives	Alpha amino acids	L-alpha-amino acids	
+WGVKWNUPNGFDFJ-CBIUGAAKSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Prenol lipids	Quinone and hydroquinone lipids	Vitamin E compounds	Tocopherols			
+LQXVFWRQNMEDEE-PYHARJCCSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Monosaccharides	Pentoses			
+WJNGQIYEQLPJMN-IOSLPCCCSA-N	Completed	Organic compounds	Nucleosides, nucleotides, and analogues	Purine nucleosides		Purine nucleosides				
+WKOLLVMJNQIZCI-UHFFFAOYSA-N	Completed	Organic compounds	Benzenoids	Benzene and substituted derivatives	Benzoic acids and derivatives	Methoxybenzoic acids and derivatives	M-methoxybenzoic acids and derivatives			
+WLJVXDMOQOGPHL-UHFFFAOYSA-N	Completed	Organic compounds	Benzenoids	Benzene and substituted derivatives		Benzene and substituted derivatives				
+KBPLFHHGFOOTCA-UHFFFAOYSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty alcohols	Fatty alcohols				
+WQZGKKKJIJFFOK-PHYPRBDBSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Monosaccharides	Hexoses			
+WQZGKKKJIJFFOK-VFUOTHLCSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Monosaccharides	Hexoses			
+WRHZVMBBRYBTKZ-UHFFFAOYSA-N	Completed	Organic compounds	Organoheterocyclic compounds	Pyrroles	Pyrrole carboxylic acids and derivatives	Pyrrole carboxylic acids	Pyrrole 2-carboxylic acids			
+WTDRDQBEARUVNC-LURJTMIESA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Alpha amino acids and derivatives	Tyrosine and derivatives		
+BZQFBWGGLXLEPQ-REOHCLBHSA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Alpha amino acids and derivatives	Alpha amino acids	L-alpha-amino acids	
+WBHHMMIMDMUBKC-QJWNTBNXSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates	Long-chain fatty acids				
+ZBCBWPMODOFKDW-UHFFFAOYSA-N	Completed	Organic compounds	Organic nitrogen compounds	Organonitrogen compounds	Amines	Alkanolamines	1,2-aminoalcohols			
+WEXRUCMBJFQVBZ-UHFFFAOYSA-N	Completed	Organic compounds	Organoheterocyclic compounds	Diazines	Pyrimidines and pyrimidine derivatives	Pyrimidones				
+FGSBNBBHOZHUBO-UHFFFAOYSA-N	Completed	Organic compounds	Organic acids and derivatives	Keto acids and derivatives	Medium-chain keto acids and derivatives	Medium-chain keto acids and derivatives				
+KDSNLYIMUZNERS-UHFFFAOYSA-N	Completed	Organic compounds	Organic nitrogen compounds	Organonitrogen compounds	Amines	Primary amines	Monoalkylamines			
+LMBGVVOJTGHJNP-FVUVGDFOSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Prenol lipids	Sesquiterpenoids	Sesquiterpenoids				
+UGJBHEZMOKVTIM-UHFFFAOYSA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Alpha amino acids and derivatives	N-formyl-alpha amino acids and derivatives	N-formyl-alpha amino acids	
+WDJHALXBUFZDSR-UHFFFAOYSA-N	Completed	Organic compounds	Organic acids and derivatives	Keto acids and derivatives	Short-chain keto acids and derivatives	Short-chain keto acids and derivatives				
+YCIMNLLNPGFGHC-UHFFFAOYSA-N	Completed	Organic compounds	Benzenoids	Phenols	Benzenediols	Catechols				
+YQEMORVAKMFKLG-UHFFFAOYSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Glycerolipids	Monoradylglycerols	Monoacylglycerols	2-monoacylglycerols			
+YXWOAJXNVLXPMU-ZXXMMSQZSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Monosaccharides	Pentoses	Pentose phosphates		
+YRHYCMZPEVDGFQ-UHFFFAOYSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty acid esters	Fatty acid methyl esters				
+YZJSUQQZGCHHNQ-BYPYZUCNSA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Alpha amino acids and derivatives	Alpha amino acids		
+YZXBAPSDXZZRGB-DOFZRALJSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates	Long-chain fatty acids				
+ZDGJAHTZVHVLOT-YUMQZZPRSA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Alpha amino acids and derivatives	Glutamic acid and derivatives		
+ZDAWZDFBPUUDAY-UHFFFAOYSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Alcohols and polyols	Secondary alcohols				
+ZDXPYRJPNDTMRX-VKHMYHEASA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Alpha amino acids and derivatives	Alpha amino acids	L-alpha-amino acids	
+ZHMWOVGZCINIHW-FTYOSCRSSA-N	Completed	Organic compounds	Organoheterocyclic compounds	Oxepanes		Oxepanes				
+ZIBGPFATKBEMQZ-UHFFFAOYSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Ethers	Dialkyl ethers	Polyethylene glycols			
+ZTQSAGDEMFDKMZ-UHFFFAOYSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbonyl compounds	Aldehydes	Alpha-hydrogen aldehydes			
+ZUKPVRWZDMRIEO-VKHMYHEASA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Peptides	Dipeptides			
+WZYRMLAWNVOIEX-BGPJRJDNSA-N	Completed	Organic compounds	Organoheterocyclic compounds	Tetrahydrofurans		Tetrahydrofurans				
+DSCFFEYYQKSRSV-FEPQRWDDSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Alcohols and polyols	Secondary alcohols	Cyclohexanols			
+HOVAGTYPODGVJG-UHFFFAOYSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Glycosyl compounds	O-glycosyl compounds			
+IGSYEZFZPOZFNC-LKIWRGPLSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Sugar acids and derivatives	Glucuronic acid derivatives	Glucuronides	O-glucuronides	
+KJTLQQUUPVSXIM-ZCFIWIBFSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates	Hydroxy fatty acids				
+MNWFXJYAOYHMED-UHFFFAOYSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates	Medium-chain fatty acids				
+BJHIKXHVCXFQLS-PUFIMZNGSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Monosaccharides				
+AGPKZVBTJJNPAG-WHFBIAKZSA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Alpha amino acids and derivatives	Isoleucine and derivatives		
+GYFFKZTYYAFCTR-AVXJPILUSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Alcohols and polyols	Cyclic alcohols and derivatives	Cyclitols and derivatives	Quinic acids and derivatives		
+GUBGYTABKSRVRQ-DCSYEGIMSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Glycosyl compounds	O-glycosyl compounds			
+MSWZFWKMSRAUBD-QZABAPFNSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Monosaccharides	Hexoses			
+SERLAGPUMNYUCK-DCUALPFSSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl glycosides	Fatty acyl glycosides of mono- and disaccharides				
+DLIKSSGEMUFQOK-SFTVRKLSSA-N	Completed	Organic compounds	Phenylpropanoids and polyketides	Flavonoids	Flavonoid glycosides	Flavonoid O-glycosides	Flavonoid-7-O-glycosides			
+DSLZVSRJTYRBFB-UHFFFAOYSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Sugar acids and derivatives	Glucuronic acid derivatives			
+CWVRJTMFETXNAD-DUXPYHPUSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Alcohols and polyols	Cyclic alcohols and derivatives	Cyclitols and derivatives	Quinic acids and derivatives		
+HYNQTSZBTIOFKH-UHFFFAOYSA-N	Completed	Organic compounds	Benzenoids	Benzene and substituted derivatives	Benzoic acids and derivatives	Hydroxybenzoic acid derivatives				
+POJWUDADGALRAB-UHFFFAOYSA-N	Completed	Organic compounds	Organoheterocyclic compounds	Azoles	Imidazoles	Imidazoles				
+WXTMDXOMEHJXQO-UHFFFAOYSA-N	Completed	Organic compounds	Benzenoids	Benzene and substituted derivatives	Benzoic acids and derivatives	Hydroxybenzoic acid derivatives				
+CBWALJHXHCJYTE-OAHLLOKOSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates	Long-chain fatty acids				
+UTYVDVLMYQPLQB-UHFFFAOYSA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Alpha amino acids and derivatives	N-acyl-alpha amino acids and derivatives	N-acyl-alpha amino acids	
+LUKBXSAWLPMMSZ-OWOJBTEDSA-N	Completed	Organic compounds	Phenylpropanoids and polyketides	Stilbenes		Stilbenes				
+PLIKAWJENQZMHA-UHFFFAOYSA-N	Completed	Organic compounds	Benzenoids	Benzene and substituted derivatives	Aniline and substituted anilines	Aniline and substituted anilines				
+LRQKBLKVPFOOQJ-YFKPBYRVSA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Alpha amino acids and derivatives	Alpha amino acids	L-alpha-amino acids	
+VVNCNSJFMMFHPL-VKHMYHEASA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Alpha amino acids and derivatives	Valine and derivatives		
+QKFAFSGJTMHRRY-OCFLFPRFSA-M	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Monosaccharides	Hexoses	Glucosinolates	Alkylglucosinolates	
+KVYUBFKSKZWZSV-FPLPWBNLSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Glycerolipids	Monoradylglycerols	Monoacylglycerols	1-monoacylglycerols			
+NUCLJNSWZCHRKL-UHFFFAOYSA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Alpha amino acids and derivatives	N-carbamoyl-alpha amino acids and derivatives	N-carbamoyl-alpha amino acids	
+XMOCLSLCDHWDHP-IUODEOHRSA-N	Completed	Organic compounds	Phenylpropanoids and polyketides	Flavonoids	Flavans	Flavan-3-ols	Catechins	Epigallocatechins		
+GZCGUPFRVQAUEE-ARQDHWQXSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Monosaccharides	Hexoses			
+HVYWMOMLDIMFJA-DPAQBDIFSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Steroids and steroid derivatives	Cholestane steroids	Cholesterols and derivatives				
+BLHCMGRVFXRYRN-UHFFFAOYSA-N	Completed	Organic compounds	Organoheterocyclic compounds	Pyridines and derivatives	Pyridinecarboxylic acids and derivatives	Pyridinecarboxylic acids				
+XGILAAMKEQUXLS-UHFFFAOYSA-N	Completed	Organic compounds	Organoheterocyclic compounds	Indoles and derivatives	Indolyl carboxylic acids and derivatives	Indolyl carboxylic acids and derivatives				
+GHMLBKRAJCXXBS-UHFFFAOYSA-N	Completed	Organic compounds	Benzenoids	Phenols	Benzenediols	Resorcinols				
+IJFXRHURBJZNAO-UHFFFAOYSA-N	Completed	Organic compounds	Benzenoids	Benzene and substituted derivatives	Benzoic acids and derivatives	Hydroxybenzoic acid derivatives				
+BBJIPMIXTXKYLZ-UHFFFAOYSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates	Amino fatty acids				
+ZRALSGWEFCBTJO-UHFFFAOYSA-N	Completed	Organic compounds	Organic nitrogen compounds	Organonitrogen compounds	Guanidines	Guanidines				
+LMYRWZFENFIFIT-UHFFFAOYSA-N	Completed	Organic compounds	Benzenoids	Benzene and substituted derivatives	Toluenes	Tosyl compounds	P-toluenesulfonamides			
+KXGVEGMKQFWNSR-LLQZFEROSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Steroids and steroid derivatives	Bile acids, alcohols and derivatives	Hydroxy bile acids, alcohols and derivatives	Dihydroxy bile acids, alcohols and derivatives			
+ATRNZOYKSNPPBF-UHFFFAOYSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates	Long-chain fatty acids				
+QYIXCDOBOSTCEI-FBVYSKEZSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Steroids and steroid derivatives	Cholestane steroids	Cholesterols and derivatives				
+PIGOPELHGLPKLL-YFKPBYRVSA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Alpha amino acids and derivatives	Alpha amino acids	L-alpha-amino acids	
+LWBHHRRTOZQPDM-UHFFFAOYSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates	Medium-chain fatty acids				
+OHHDIOKRWWOXMT-UHFFFAOYSA-N	Completed	Organic compounds	Organoheterocyclic compounds	Diazinanes	Piperazines	Phenylpiperazines				
+XMOCLSLCDHWDHP-SWLSCSKDSA-N	Completed	Organic compounds	Phenylpropanoids and polyketides	Flavonoids	Flavans	Flavan-3-ols	Catechins	Epigallocatechins		
+ZCLAHGAZPPEVDX-MQHGYYCBSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Oligosaccharides				
+HOOWCUZPEFNHDT-UHFFFAOYSA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Alpha amino acids and derivatives	Alpha amino acids		
+GZIFEOYASATJEH-VHFRWLAGSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Prenol lipids	Quinone and hydroquinone lipids	Vitamin E compounds	Tocopherols			
+YYVJAABUJYRQJO-UHFFFAOYSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates	Long-chain fatty acids				
+IOJUPLGTWVMSFF-UHFFFAOYSA-N	Completed	Organic compounds	Organoheterocyclic compounds	Benzothiazoles		Benzothiazoles				
+AFNUZVCFKQUDBJ-ZZWDRFIYSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Monosaccharides	Pentoses			
+RZVAJINKPMORJF-UHFFFAOYSA-N	Completed	Organic compounds	Benzenoids	Phenols	1-hydroxy-2-unsubstituted benzenoids	1-hydroxy-2-unsubstituted benzenoids				
+PFNFFQXMRSDOHW-UHFFFAOYSA-N	Completed	Organic compounds	Organic nitrogen compounds	Organonitrogen compounds	Amines	Secondary amines	Dialkylamines			
+NHJUPBDCSOGIKX-NTXXKDEISA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Glycerolipids	Glycosylglycerols	Glycosylglycerols				
+QKFAFSGJTMHRRY-ICSBZGNSSA-M	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Monosaccharides	Hexoses	Glucosinolates	Alkylglucosinolates	
+MBMBGCFOFBJSGT-KUBAVDMBSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates	Very long-chain fatty acids				
+DFPAKSUCGFBDDF-UHFFFAOYSA-N	Completed	Organic compounds	Organoheterocyclic compounds	Pyridines and derivatives	Pyridinecarboxylic acids and derivatives	Pyridinecarboxamides	Nicotinamides			
+BDJRBEYXGGNYIS-UHFFFAOYSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates	Medium-chain fatty acids				
+BITHHVVYSMSWAG-KTKRTIGZSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates	Long-chain fatty acids				
+GFYLSDSUCHVORB-IOSLPCCCSA-N	Completed	Organic compounds	Nucleosides, nucleotides, and analogues	Purine nucleosides		Purine nucleosides				
+INAPMGSXUVUWAF-UHFFFAOYSA-L	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Alcohols and polyols	Cyclic alcohols and derivatives	Cyclitols and derivatives	Inositol phosphates		
+XSXIVVZCUAHUJO-HZJYTTRNSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates	Long-chain fatty acids				
+WQZGKKKJIJFFOK-KMTOWNPSSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Monosaccharides	Hexoses			
+ORNBQBCIOKFOEO-QGVNFLHTSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Steroids and steroid derivatives	Pregnane steroids	Gluco/mineralocorticoids, progestogins and derivatives				
+XMGQYMWWDOXHJM-UHFFFAOYSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Prenol lipids	Monoterpenoids	Menthane monoterpenoids				
+QYIXCDOBOSTCEI-QCYZZNICSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Steroids and steroid derivatives	Cholestane steroids	Cholesterols and derivatives				
+BBNYCLAREVXOSG-UHFFFAOYSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Glycerolipids	Monoradylglycerols	Monoacylglycerols	2-monoacylglycerols			
+LXCFILQKKLGQFO-UHFFFAOYSA-N	Completed	Organic compounds	Benzenoids	Benzene and substituted derivatives	Benzoic acids and derivatives	Benzoic acid esters	p-Hydroxybenzoic acid esters	p-Hydroxybenzoic acid alkyl esters		
+QNAYBMKLOCPYGJ-IALWIIEESA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Alpha amino acids and derivatives	Alanine and derivatives		
+DKCPKDPYUFEZCP-UHFFFAOYSA-N	Completed	Organic compounds	Benzenoids	Benzene and substituted derivatives	Phenylpropanes	Phenylpropanes				
+DMCPFOBLJMLSNX-UHFFFAOYSA-N	Completed	Organic compounds	Organoheterocyclic compounds	Indoles and derivatives	Indoles	3-alkylindoles				
+DTOSIQBPPRVQHS-PDBXOOCHSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Lineolic acids and derivatives	Lineolic acids and derivatives				
+FBPFZTCFMRRESA-UNTFVMJOSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Sugar alcohols				
+FGKJLKRYENPLQH-UHFFFAOYSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates	Branched fatty acids	Methyl-branched fatty acids			
+HEBKCHPVOIAQTA-IMJSIDKUSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Sugar alcohols				
+WFZVBCSNPDDHDI-FNORWQNLSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty acid esters	Fatty acid esters				
+HNJBEVLQSNELDL-UHFFFAOYSA-N	Completed	Organic compounds	Organoheterocyclic compounds	Pyrrolidines	Pyrrolidones	Pyrrolidine-2-ones				
+SRBFZHDQGSBBOR-SOOFDHNKSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Monosaccharides	Pentoses			
+JVTAAEKCZFNVCJ-UHFFFAOYSA-N	Completed	Organic compounds	Organic acids and derivatives	Hydroxy acids and derivatives	Alpha hydroxy acids and derivatives	Alpha hydroxy acids and derivatives				
+KHTAGVZHYUZYMF-UHFFFAOYSA-N	Completed	Organic compounds	Phenylpropanoids and polyketides	Phenylpropanoic acids		Phenylpropanoic acids				
+MWKFXSUHUHTGQN-UHFFFAOYSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty alcohols	Fatty alcohols				
+OSJPPGNTCRNQQC-UHFFFAOYSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Sugar acids and derivatives				
+QVWAEZJXDYOKEH-UHFFFAOYSA-N	Completed	Organic compounds	Phenylpropanoids and polyketides	Phenylpropanoic acids		Phenylpropanoic acids				
+QWIZNVHXZXRPDR-WSCXOGSTSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Oligosaccharides				
+FSYKKLYZXJSNPZ-UHFFFAOYSA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Alpha amino acids and derivatives	Alpha amino acids		
+RULSWEULPANCDV-PIXUTMIVSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl glycosides	Fatty acyl glycosides of mono- and disaccharides				
+SMQUZDBALVYZAC-UHFFFAOYSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbonyl compounds	Aldehydes	Aryl-aldehydes	Benzaldehydes	Hydroxybenzaldehydes	
+AERBNCYCJBRYDG-KSZLIROESA-N	Completed	Organic compounds	Organic nitrogen compounds	Organonitrogen compounds	Amines	Alkanolamines	1,3-aminoalcohols			
+DCAYPVUWAIABOU-UHFFFAOYSA-N	Completed	Organic compounds	Hydrocarbons	Saturated hydrocarbons	Alkanes	Alkanes				
+NMHMNPHRMNGLLB-UHFFFAOYSA-N	Completed	Organic compounds	Phenylpropanoids and polyketides	Phenylpropanoic acids		Phenylpropanoic acids				
+VOXXWSYKYCBWHO-UHFFFAOYSA-N	Completed	Organic compounds	Phenylpropanoids and polyketides	Phenylpropanoic acids		Phenylpropanoic acids				
+NYHNVHGFPZAZGA-UHFFFAOYSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates	Medium-chain fatty acids				
+ZMKDEQUXYDZSNN-UTJQPWESSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Lineolic acids and derivatives	Lineolic acids and derivatives				
+LRFVTYWOQMYALW-UHFFFAOYSA-N	Completed	Organic compounds	Organoheterocyclic compounds	Imidazopyrimidines	Purines and purine derivatives	Xanthines				
+LISFMEBWQUVKPJ-UHFFFAOYSA-N	Completed	Organic compounds	Organoheterocyclic compounds	Quinolines and derivatives	Quinolones and derivatives	Hydroquinolones				
+RLSSMJSEOOYNOY-UHFFFAOYSA-N	Completed	Organic compounds	Benzenoids	Phenols	Cresols	Meta cresols				
+VVHOUVWJCQOYGG-REOHCLBHSA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Alpha amino acids and derivatives	Aspartic acid and derivatives		
+LQZZUXJYWNFBMV-UHFFFAOYSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty alcohols	Fatty alcohols				
+HXWNRESJYUCPRA-UHFFFAOYSA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Peptides	Dipeptides			
+AIHDCSAXVMAMJH-GFBKWZILSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Glycosyl compounds	O-glycosyl compounds			
+INJRDZMWIAYEMM-SOFGYWHQSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates	Medium-chain fatty acids				
+QXKAIJAYHKCRRA-UHFFFAOYSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Sugar acids and derivatives				
+IPROLSVTVHAQLE-BYNIDDHOSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Glycosyl compounds	Phenolic glycosides			
+CDRPUGZCRXZLFL-OWOJBTEDSA-N	Completed	Organic compounds	Phenylpropanoids and polyketides	Stilbenes		Stilbenes				
+FACUYWPMDKTVFU-BYPYZUCNSA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Alpha amino acids and derivatives	Alpha amino acids	L-alpha-amino acids	
+JFCQEDHGNNZCLN-UHFFFAOYSA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Dicarboxylic acids and derivatives	Dicarboxylic acids and derivatives				
+GTZCVFVGUGFEME-IWQZZHSRSA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Tricarboxylic acids and derivatives	Tricarboxylic acids and derivatives				
+SXZYCXMUPBBULW-LECHCGJUSA-N	Completed	Organic compounds	Organoheterocyclic compounds	Lactones	Gamma butyrolactones	Gamma butyrolactones				
+IWPOSDLLFZKGOW-WAYWQWQTSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates	Medium-chain fatty acids				
+QIGBRXMKCJKVMJ-UHFFFAOYSA-N	Completed	Organic compounds	Benzenoids	Phenols	Benzenediols	Hydroquinones				
+BXWNKGSJHAJOGX-UHFFFAOYSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty alcohols	Long-chain fatty alcohols				
+RKUNBYITZUJHSG-PJPHBNEVSA-N	Completed	Organic compounds	Alkaloids and derivatives	Tropane alkaloids		Tropane alkaloids				
+XFTRTWQBIOMVPK-UHFFFAOYSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates	Hydroxy fatty acids				
+WZYRMLAWNVOIEX-SLPGGIOYSA-N	Completed	Organic compounds	Organoheterocyclic compounds	Tetrahydrofurans		Tetrahydrofurans				
+OKMWKBLSFKFYGZ-UHFFFAOYSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Glycerolipids	Monoradylglycerols	Monoacylglycerols	1-monoacylglycerols			
+ZQPPMHVWECSIRJ-MDZDMXLPSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates	Long-chain fatty acids				
+QETLKNDKQOXZRP-XTGBIJOFSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Steroids and steroid derivatives	Cholestane steroids	Cholesterols and derivatives				
+BHQCQFFYRZLCQQ-UXWVVXDJSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Steroids and steroid derivatives	Bile acids, alcohols and derivatives	Hydroxy bile acids, alcohols and derivatives	Trihydroxy bile acids, alcohols and derivatives			
+QJRRBVNPIKYRQJ-UHFFFAOYSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates	Medium-chain fatty acids				
+PFTAWBLQPZVEMU-UKRRQHHQSA-N	Completed	Organic compounds	Phenylpropanoids and polyketides	Flavonoids	Flavans	Flavan-3-ols	Catechins			
+OVRNDRQMDRJTHS-OZRXBMAMSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Aminosaccharides	Amino sugars	Acylaminosugars		
+XLBVNMSMFQMKEY-BYPYZUCNSA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Alpha amino acids and derivatives	Glutamic acid and derivatives		
+GNGACRATGGDKBX-UHFFFAOYSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Monosaccharides	Monosaccharide phosphates			
+IZSRJDGCGRAUAR-MROZADKFSA-N	Completed	Organic compounds	Organic acids and derivatives	Hydroxy acids and derivatives	Medium-chain hydroxy acids and derivatives	Medium-chain hydroxy acids and derivatives				
+IRHTZOCLLONTOC-UHFFFAOYSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty alcohols	Fatty alcohols				
+YAXKTBLXMTYWDQ-UHFFFAOYSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Alcohols and polyols	Secondary alcohols				
+AAWZDTNXLSGCEK-ZHQZDSKASA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Alcohols and polyols	Cyclic alcohols and derivatives	Cyclitols and derivatives	Quinic acids and derivatives		
+DCOPUUMXTXDBNB-UHFFFAOYSA-N	Completed	Organic compounds	Benzenoids	Benzene and substituted derivatives	Halobenzenes	Chlorobenzenes	Dichlorobenzenes			
+YAADMLWHGMUGQL-VOTSOKGWSA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Alpha amino acids and derivatives	N-acyl-alpha amino acids and derivatives	N-acyl-alpha amino acids	
+SECPZKHBENQXJG-FPLPWBNLSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates	Long-chain fatty acids				
+LEVWYRKDKASIDU-UHFFFAOYSA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Alpha amino acids and derivatives	Cysteine and derivatives		
+HCXVJBMSMIARIN-PHZDYDNGSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Steroids and steroid derivatives	Stigmastanes and derivatives	Stigmastanes and derivatives				
+OYIFNHCXNCRBQI-BYPYZUCNSA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Alpha amino acids and derivatives	Alpha amino acids	L-alpha-amino acids	
+FUZZWVXGSFPDMH-UHFFFAOYSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates	Medium-chain fatty acids				
+BTFJIXJJCSYFAL-UHFFFAOYSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty alcohols	Long-chain fatty alcohols				
+QIAFMBKCNZACKA-UHFFFAOYSA-N	Completed	Organic compounds	Benzenoids	Benzene and substituted derivatives	Benzoic acids and derivatives	Benzamides	Hippuric acids and derivatives	Hippuric acids		
+CXUXMSACCLYMBI-FPLPWBNLSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Glycerolipids	Monoradylglycerols	Monoacylglycerols	2-monoacylglycerols			
+QSKPZDMBULYMDQ-KRWDZBQOSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Glycerolipids	Monoradylglycerols	Monoacylglycerols	1-monoacylglycerols			
+NPOAOTPXWNWTSH-UHFFFAOYSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates	Hydroxy fatty acids				
+PXQPEWDEAKTCGB-UHFFFAOYSA-N	Completed	Organic compounds	Organoheterocyclic compounds	Diazines	Pyrimidines and pyrimidine derivatives	Pyrimidinecarboxylic acids and derivatives	Pyrimidinecarboxylic acids			
+WQZGKKKJIJFFOK-UHFFFAOYSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Monosaccharides	Hexoses			
+BIRUBGLRQLAEFF-UHFFFAOYSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty acid esters	Fatty acid methyl esters				
+VQHSOMBJVWLPSR-WUJBLJFYSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl glycosides	Fatty acyl glycosides of mono- and disaccharides				
+DHCLVCXQIBBOPH-UHFFFAOYSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Glycerophospholipids	Glycerophosphates	Glycerophosphates				
+SWXVUIWOUIDPGS-UHFFFAOYSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbonyl compounds	Ketones	Beta-hydroxy ketones			
+VHUJBYYFFWDLNM-UHFFFAOYSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty acid esters	Fatty acid methyl esters				
+UDMBCSSLTHHNCD-KQYNXXCUSA-N	Completed	Organic compounds	Nucleosides, nucleotides, and analogues	Purine nucleotides	Purine ribonucleotides	Purine ribonucleoside monophosphates				
+WXNXCEHXYPACJF-ZETCQYMHSA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Alpha amino acids and derivatives	Leucine and derivatives		
+IPTVHOFZPYPBSY-DGOOAFQXSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Steroids and steroid derivatives	Vitamin D and derivatives	Vitamin D and derivatives				
+MPCAJMNYNOGXPB-SLPGGIOYSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Monosaccharides				
+IWYDHOAUDWTVEP-UHFFFAOYSA-N	Completed	Organic compounds	Benzenoids	Benzene and substituted derivatives		Benzene and substituted derivatives				
+AVEHMJVDRGMBHD-NQXXGFSBSA-L	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbonyl compounds	Ketones	Glycerone and derivatives	Glycerone phosphates		
+KKZFLSZAWCYPOC-VPENINKCSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Monosaccharides	Pentoses	Pentose phosphates		
+IQFYYKKMVGJFEH-XLPZGREQSA-N	Completed	Organic compounds	Nucleosides, nucleotides, and analogues	Pyrimidine nucleosides	Pyrimidine 2'-deoxyribonucleosides	Pyrimidine 2'-deoxyribonucleosides				
+RYYVLZVUVIJVGH-UHFFFAOYSA-N	Completed	Organic compounds	Organoheterocyclic compounds	Imidazopyrimidines	Purines and purine derivatives	Xanthines				
+GMKMEZVLHJARHF-UHFFFAOYSA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Alpha amino acids and derivatives	Alpha amino acids		
+YCCILVSKPBXVIP-UHFFFAOYSA-N	Completed	Organic compounds	Benzenoids	Phenols	Tyrosols and derivatives	Tyrosols				
+PVNIIMVLHYAWGP-UHFFFAOYSA-N	Completed	Organic compounds	Organoheterocyclic compounds	Pyridines and derivatives	Pyridinecarboxylic acids and derivatives	Pyridinecarboxylic acids				
+PBKONEOXTCPAFI-UHFFFAOYSA-N	Completed	Organic compounds	Benzenoids	Benzene and substituted derivatives	Halobenzenes	Chlorobenzenes				
+OILAIQUEIWYQPH-UHFFFAOYSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbonyl compounds	Ketones	Cyclic ketones			
+GDFAOVXKHJXLEI-VKHMYHEASA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Alpha amino acids and derivatives	Alanine and derivatives		
+MNQZXJOMYWMBOU-UHFFFAOYSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Monosaccharides				
+NOPFSRXAKWQILS-UHFFFAOYSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty alcohols	Fatty alcohols				
+VBICKXHEKHSIBG-UHFFFAOYSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Glycerolipids	Monoradylglycerols	Monoacylglycerols	1-monoacylglycerols			
+CNNRPFQICPFDPO-UHFFFAOYSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty alcohols	Fatty alcohols				
+RQFCJASXJCIDSX-UUOKFMHZSA-N	Completed	Organic compounds	Nucleosides, nucleotides, and analogues	Purine nucleotides	Purine ribonucleotides	Purine ribonucleoside monophosphates				
+ODHCTXKNWHHXJC-VKHMYHEASA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Alpha amino acids and derivatives			
+YKBGVTZYEHREMT-KVQBGUIXSA-N	Completed	Organic compounds	Nucleosides, nucleotides, and analogues	Purine nucleosides	Purine 2'-deoxyribonucleosides	Purine 2'-deoxyribonucleosides				
+PECYZEOJVXMISF-REOHCLBHSA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Alpha amino acids and derivatives	Alpha amino acids		
+PEDCQBHIVMGVHV-UHFFFAOYSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Sugar alcohols				
+LOUGYXZSURQALL-UHFFFAOYSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Sugar acids and derivatives				
+ZXZKYYHTWHJHFT-UHFFFAOYSA-N	Completed	Organic compounds	Organoheterocyclic compounds	Quinolines and derivatives	Quinolones and derivatives	Quinolones and derivatives				
+RWZYAGGXGHYGMB-UHFFFAOYSA-N	Completed	Organic compounds	Benzenoids	Benzene and substituted derivatives	Benzoic acids and derivatives	Aminobenzoic acids and derivatives	Aminobenzoic acids			
+DCNMIDLYWOTSGK-HSUXUTPPSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Monosaccharides	Hexoses			
+AQYCMVICBNBXNA-UHFFFAOYSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates	Branched fatty acids	Methyl-branched fatty acids			
+KHWCHTKSEGGWEX-RRKCRQDMSA-N	Completed	Organic compounds	Nucleosides, nucleotides, and analogues	Purine nucleotides	Purine deoxyribonucleotides	Purine deoxyribonucleoside monophosphates	Purine 2'-deoxyribonucleoside monophosphates			
+BITYXLXUCSKTJS-ZETCQYMHSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates	Hydroxy fatty acids				
+VBUYCZFBVCCYFD-JJYYJPOSSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Sugar acids and derivatives				
+SXFSQZDSUWACKX-UHFFFAOYSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates	Thia fatty acids				
+YQUVCSBJEUQKSH-UHFFFAOYSA-N	Completed	Organic compounds	Benzenoids	Benzene and substituted derivatives	Benzoic acids and derivatives	Hydroxybenzoic acid derivatives				
+YFMPSMITLLBENU-UHFFFAOYSA-N	Completed	Organic compounds	Benzenoids	Phenols	Benzenediols	Catechols				
+VZCNNAQIFXLAEZ-UHFFFAOYSA-N	Completed	Organic compounds	Organometallic compounds	Organometalloid compounds	Organosilicon compounds	Organoheterosilanes	Trialkylheterosilanes			
+CVSVTCORWBXHQV-UHFFFAOYSA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Alpha amino acids and derivatives			
+SYSZGJKBOHEMPB-FIVCZYLNSA-N	Completed	Organic compounds	Nucleosides, nucleotides, and analogues	Nucleoside and nucleotide analogues	Oligonucleotides	Oligonucleotides				
+NPWMTBZSRRLQNJ-UHFFFAOYSA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Alpha amino acids and derivatives			
+QXRCVKLRAOSZCP-UHFFFAOYSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbonyl compounds	Ketones	Aryl ketones	Phenylketones	Alkyl-phenylketones	
+RUIACMUVCHMOMF-UHFFFAOYSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty alcohols	Fatty alcohols				
+WHBMMWSBFZVSSR-GSVOUGTGSA-N	Completed	Organic compounds	Organic acids and derivatives	Hydroxy acids and derivatives	Beta hydroxy acids and derivatives	Beta hydroxy acids and derivatives				
+PAYRUJLWNCNPSJ-UHFFFAOYSA-N	Completed	Organic compounds	Benzenoids	Benzene and substituted derivatives	Aniline and substituted anilines	Aniline and substituted anilines				
+LGVJIYCMHMKTPB-UHFFFAOYSA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Alpha amino acids and derivatives	Alpha amino acids		
+ALRHLSYJTWAHJZ-UHFFFAOYSA-N	Completed	Organic compounds	Organic acids and derivatives	Hydroxy acids and derivatives	Beta hydroxy acids and derivatives	Beta hydroxy acids and derivatives				
+ALYNCZNDIQEVRV-UHFFFAOYSA-N	Completed	Organic compounds	Benzenoids	Benzene and substituted derivatives	Benzoic acids and derivatives	Aminobenzoic acids and derivatives	Aminobenzoic acids			
+DWKQIHQQZYILDB-CETRGASCSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Glycerolipids	Glycosylglycerols	Glycosylmonoradylglycerols	Glycosylmonoacylglycerols			
+FJKROLUGYXJWQN-UHFFFAOYSA-N	Completed	Organic compounds	Benzenoids	Benzene and substituted derivatives	Benzoic acids and derivatives	Hydroxybenzoic acid derivatives				
+ZBCATMYQYDCTIZ-UHFFFAOYSA-N	Completed	Organic compounds	Benzenoids	Phenols	Benzenediols	Catechols				
+WUUGFSXJNOTRMR-IOSLPCCCSA-N	Completed	Organic compounds	Nucleosides, nucleotides, and analogues	5'-deoxyribonucleosides	5'-deoxy-5'-thionucleosides	5'-deoxy-5'-thionucleosides				
+HSMNQINEKMPTIC-UHFFFAOYSA-N	Completed	Organic compounds	Benzenoids	Benzene and substituted derivatives	Benzoic acids and derivatives	Benzamides	Hippuric acids and derivatives	Hippuric acids		
+NGSWKAQJJWESNS-ZZXKWVIFSA-N	Completed	Organic compounds	Phenylpropanoids and polyketides	Cinnamic acids and derivatives	Hydroxycinnamic acids and derivatives	Hydroxycinnamic acids				
+ZMHLUFWWWPBTIU-UHFFFAOYSA-N	Completed	Organic compounds	Benzenoids	Benzene and substituted derivatives	Benzoic acids and derivatives	Benzamides	Hippuric acids and derivatives	Hippuric acids		
+NSYSSMYQPLSPOD-UHFFFAOYSA-N	Completed	Organic compounds	Organoheterocyclic compounds	Pyrans	Pyranones and derivatives	Pyranones and derivatives				
+WUADCCWRTIWANL-UHFFFAOYSA-N	Completed	Organic compounds	Phenylpropanoids and polyketides	Isoflavonoids	O-methylated isoflavonoids	4'-O-methylated isoflavonoids	4'-O-methylisoflavones			
+WDRISBUVHBMJEF-MROZADKFSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Monosaccharides				
+DUUGKQCEGZLZNO-UHFFFAOYSA-N	Completed	Organic compounds	Organoheterocyclic compounds	Indoles and derivatives	Indolyl carboxylic acids and derivatives	Indole-3-acetic acid derivatives				
+JNTPTNNCGDAGEJ-UHFFFAOYSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Alcohols and polyols	Primary alcohols				
+PNNNRSAQSRJVSB-JGWLITMVSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Monosaccharides	Hexoses			
+SKCKOFZKJLZSFA-UHFFFAOYSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Monosaccharides	Hexoses			
+FZWGECJQACGGTI-UHFFFAOYSA-N	Completed	Organic compounds	Organoheterocyclic compounds	Imidazopyrimidines	Purines and purine derivatives	Purinones	Hypoxanthines			
+QHBZHVUGQROELI-SOFGYWHQSA-N	Completed	Organic compounds	Organic acids and derivatives	Hydroxy acids and derivatives	Medium-chain hydroxy acids and derivatives	Medium-chain hydroxy acids and derivatives				
+HZAXFHJVJLSVMW-UHFFFAOYSA-N	Completed	Organic compounds	Organic nitrogen compounds	Organonitrogen compounds	Amines	Alkanolamines	1,2-aminoalcohols			
+GFFGJBXGBJISGV-UHFFFAOYSA-N	Completed	Organic compounds	Organoheterocyclic compounds	Imidazopyrimidines	Purines and purine derivatives	6-aminopurines				
+DEFJQIDDEAULHB-IMJSIDKUSA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Peptides	Dipeptides			
+WNLRTRBMVRJNCN-UHFFFAOYSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates	Medium-chain fatty acids				
+QYPPJABKJHAVHS-UHFFFAOYSA-N	Completed	Organic compounds	Organic nitrogen compounds	Organonitrogen compounds	Guanidines	Guanidines				
+BXTYRIKKNHXERN-UHFFFAOYSA-N	Completed	Organic compounds	Organoheterocyclic compounds	Azolidines	Imidazolidines	Imidazolidinones	Imidazolidinediones	Hydantoins		
+HJWLCRVIBGQPNF-UHFFFAOYSA-N	Completed	Organic compounds	Benzenoids	Benzene and substituted derivatives		Benzene and substituted derivatives				
+GVJHHUAWPYXKBD-IEOSBIPESA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Prenol lipids	Quinone and hydroquinone lipids	Vitamin E compounds	Tocopherols			
+BJRNKVDFDLYUGJ-RMPHRYRLSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Glycosyl compounds	Phenolic glycosides			
+NBSCHQHZLSJFNQ-UHFFFAOYSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Monosaccharides	Hexoses	Hexose phosphates		
+CKLJMWTZIZZHCS-REOHCLBHSA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Alpha amino acids and derivatives	Aspartic acid and derivatives		
+DDXCFDOPXBPUJC-SAYMMRJXSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl glycosides	Fatty acyl glycosides of mono- and disaccharides				
+ULBTUVJTXULMLP-UHFFFAOYSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty acid esters	Fatty acid esters				
+XUYPXLNMDZIRQH-LURJTMIESA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Alpha amino acids and derivatives	Methionine and derivatives		
+ZTHYODDOHIVTJV-UHFFFAOYSA-N	Completed	Organic compounds	Benzenoids	Benzene and substituted derivatives	Benzoic acids and derivatives	Hydroxybenzoic acid derivatives	Gallic acid and derivatives	Galloyl esters		
+WGQKYBSKWIADBV-UHFFFAOYSA-N	Completed	Organic compounds	Benzenoids	Benzene and substituted derivatives	Phenylmethylamines	Phenylmethylamines				
+PLDCWKCPEXNWJH-ZETCQYMHSA-N	Completed	Organic compounds	Organic acids and derivatives	Peptidomimetics	Hybrid peptides	Hybrid peptides				
+LHQIJBMDNUYRAM-AWFVSMACSA-N	Completed	Organic compounds	Organoheterocyclic compounds	Pteridines and derivatives	Pterins and derivatives	Biopterins and derivatives				
+QNAYBMKLOCPYGJ-MYSWAXPFSA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Alpha amino acids and derivatives	Alanine and derivatives		
+HQABUPZFAYXKJW-UHFFFAOYSA-N	Completed	Organic compounds	Organic nitrogen compounds	Organonitrogen compounds	Amines	Primary amines	Monoalkylamines			
+ARIWANIATODDMH-UHFFFAOYSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Glycerolipids	Monoradylglycerols	Monoacylglycerols	1-monoacylglycerols			
+WWZKQHOCKIZLMA-UHFFFAOYSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates	Medium-chain fatty acids				
+PFTAWBLQPZVEMU-DZGCQCFKSA-N	Completed	Organic compounds	Phenylpropanoids and polyketides	Flavonoids	Flavans	Flavan-3-ols	Catechins			
+NYOXRYYXRWJDKP-GYKMGIIDSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Steroids and steroid derivatives	Cholestane steroids	Cholesterols and derivatives				
+QIQXTHQIDYTFRH-UHFFFAOYSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates	Long-chain fatty acids				
+QQVDJLLNRSOCEL-UHFFFAOYSA-N	Completed	Organic compounds	Organic acids and derivatives	Organic phosphonic acids and derivatives	Organic phosphonic acids	Organic phosphonic acids				
+NGSWKAQJJWESNS-UTCJRWHESA-N	Completed	Organic compounds	Phenylpropanoids and polyketides	Cinnamic acids and derivatives	Hydroxycinnamic acids and derivatives	Hydroxycinnamic acids				
+PCMORTLOPMLEFB-ARJAWSKDSA-N	Completed	Organic compounds	Phenylpropanoids and polyketides	Cinnamic acids and derivatives	Hydroxycinnamic acids and derivatives	Hydroxycinnamic acids				
+DDRJAANPRJIHGJ-UHFFFAOYSA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Alpha amino acids and derivatives			
+NTYJJOPFIAHURM-UHFFFAOYSA-N	Completed	Organic compounds	Organic nitrogen compounds	Organonitrogen compounds	Amines	Primary amines	2-arylethylamines			
+SFLMUHDGSQZDOW-FAOXUISGSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Glycosyl compounds	Phenolic glycosides			
+NBGGEWGFZUDQKZ-UHFFFAOYSA-N	Completed	Organic compounds	Organometallic compounds	Organometalloid compounds	Organosilicon compounds	Siloxanes	Disiloxanes			
+ILRYLPWNYFXEMH-UHFFFAOYSA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Alpha amino acids and derivatives	Cysteine and derivatives		
+QYSXJUFSXHHAJI-YRZJJWOYSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Steroids and steroid derivatives	Vitamin D and derivatives	Vitamin D and derivatives				
+OPTASPLRGRRNAP-UHFFFAOYSA-N	Completed	Organic compounds	Organoheterocyclic compounds	Diazines	Pyrimidines and pyrimidine derivatives	Pyrimidones				
+QHZLMUACJMDIAE-UHFFFAOYSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Glycerolipids	Monoradylglycerols	Monoacylglycerols	1-monoacylglycerols			
+IERHLVCPSMICTF-XVFCMESISA-N	Completed	Organic compounds	Nucleosides, nucleotides, and analogues	Pyrimidine nucleotides	Pyrimidine ribonucleotides	Pyrimidine ribonucleoside monophosphates				
+ZQSIJRDFPHDXIC-UHFFFAOYSA-N	Completed	Organic compounds	Phenylpropanoids and polyketides	Isoflavonoids	Isoflav-2-enes	Isoflavones				
+DIOQZVSQGTUSAI-UHFFFAOYSA-N	Completed	Organic compounds	Hydrocarbons	Saturated hydrocarbons	Alkanes	Alkanes				
+SBJKKFFYIZUCET-JLAZNSOCSA-N	Completed	Organic compounds	Organoheterocyclic compounds	Lactones	Gamma butyrolactones	Gamma butyrolactones				
+FJGNTEKSQVNVTJ-UHFFFAOYSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Alcohols and polyols	Secondary alcohols				
+RXKJFZQQPQGTFL-UHFFFAOYSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Monosaccharides				
+UJPPXNXOEVDSRW-UHFFFAOYSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty acid esters	Fatty acid esters				
+HPTOSMWVVSKAGZ-DYYZXQNHSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Glycerolipids	Monoradylglycerols	Monoacylglycerols	1-monoacylglycerols			
+OBETXYAYXDNJHR-UHFFFAOYSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates	Medium-chain fatty acids				
+RNBGYGVWRKECFJ-ARQDHWQXSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Monosaccharides	Hexoses	Hexose phosphates		
+LVRFTAZAXQPQHI-UHFFFAOYSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates	Hydroxy fatty acids				
+VZCYOOQTPOCHFL-OWOJBTEDSA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Dicarboxylic acids and derivatives	Dicarboxylic acids and derivatives				
+RWSXRVCMGQZWBV-WDSKDSINSA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Peptides				
+KSPQDMRTZZYQLM-UHFFFAOYSA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Alpha amino acids and derivatives	N-acyl-alpha amino acids and derivatives	N-acyl-alpha amino acids	
+INKQLYSQWHBEGS-ISLYRVAYSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates	Long-chain fatty acids				
+MSWZFWKMSRAUBD-GASJEMHNSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Monosaccharides	Hexoses			
+HSNZZMHEPUFJNZ-SHUUEZRQSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Monosaccharides	Heptoses			
+PHOQVHQSTUBQQK-SQOUGZDYSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Monosaccharides	Hexoses	Gluconolactones		
+AYFVYJQAPQTCCC-WKHZCAFQSA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Alpha amino acids and derivatives	Alpha amino acids		
+MTCFGRXMJLQNBG-FUDHJZNOSA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Alpha amino acids and derivatives	Serine and derivatives		
+AEMOLEFTQBMNLQ-AQKNRBDQSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Sugar acids and derivatives	Glucuronic acid derivatives			
+KZSNJWFQEVHDMF-AYWPRJOCSA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Alpha amino acids and derivatives	Valine and derivatives		
+PCMORTLOPMLEFB-ONEGZZNKSA-N	Completed	Organic compounds	Phenylpropanoids and polyketides	Cinnamic acids and derivatives	Hydroxycinnamic acids and derivatives	Hydroxycinnamic acids				
+LXJXRIRHZLFYRP-UHFFFAOYSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Monosaccharides	Monosaccharide phosphates	Glyceraldehyde-3-phosphates		
+OIRDTQYFTABQOQ-KQYNXXCUSA-N	Completed	Organic compounds	Nucleosides, nucleotides, and analogues	Purine nucleosides		Purine nucleosides				
+KPGXRSRHYNQIFN-UHFFFAOYSA-N	Completed	Organic compounds	Organic acids and derivatives	Keto acids and derivatives	Gamma-keto acids and derivatives	Gamma-keto acids and derivatives				
+VKOBVWXKNCXXDE-UHFFFAOYSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates	Long-chain fatty acids				
+COLNVLDHVKWLRT-QMMMGPOBSA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Alpha amino acids and derivatives	Phenylalanine and derivatives		
+LNTHITQWFMADLM-UHFFFAOYSA-N	Completed	Organic compounds	Benzenoids	Benzene and substituted derivatives	Benzoic acids and derivatives	Hydroxybenzoic acid derivatives	Gallic acid and derivatives	Gallic acids		
+MXHRCPNRJAMMIM-SHYZEUOFSA-N	Completed	Organic compounds	Nucleosides, nucleotides, and analogues	Pyrimidine nucleosides	Pyrimidine 2'-deoxyribonucleosides	Pyrimidine 2'-deoxyribonucleosides				
+LNXRKRFGNHXANN-UHFFFAOYSA-N	Completed	Organic compounds	Organoheterocyclic compounds	Pteridines and derivatives	Pterins and derivatives	Pterins and derivatives				
+CZMRCDWAGMRECN-UGDNZRGBSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Glycosyl compounds	O-glycosyl compounds			
+KKEYFWRCBNTPAC-UHFFFAOYSA-N	Completed	Organic compounds	Benzenoids	Benzene and substituted derivatives	Benzoic acids and derivatives	Phthalic acid and derivatives	P-phthalic acid and derivatives			
+VAWYEUIPHLMNNF-OESPXIITSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Oligosaccharides				
+IAJILQKETJEXLJ-UHFFFAOYSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Sugar acids and derivatives	Glucuronic acid derivatives			
+HNDVDQJCIGZPNO-YFKPBYRVSA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Alpha amino acids and derivatives	Histidine and derivatives		
+ZTVZLYBCZNMWCF-UHFFFAOYSA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Alpha amino acids and derivatives	Alpha amino acids		
+XHUBSJRBOQIZNI-UHFFFAOYSA-N	Completed	Organic compounds	Benzenoids	Phenols	Methoxyphenols	Methoxyphenols				
+WJXSWCUQABXPFS-UHFFFAOYSA-N	Completed	Organic compounds	Benzenoids	Benzene and substituted derivatives	Benzoic acids and derivatives	Hydroxybenzoic acid derivatives				
+XMIIGOLPHOKFCH-UHFFFAOYSA-N	Completed	Organic compounds	Phenylpropanoids and polyketides	Phenylpropanoic acids		Phenylpropanoic acids				
+BOTWFXYSPFMFNR-PYDDKJGSSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Prenol lipids	Diterpenoids	Acyclic diterpenoids				
+BXFFHSIDQOFMLE-UHFFFAOYSA-N	Completed	Organic compounds	Organic acids and derivatives	Organic sulfuric acids and derivatives	Arylsulfates	Arylsulfates				
+BTVWZWFKMIUSGS-UHFFFAOYSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Alcohols and polyols	Tertiary alcohols				
+USHRADXTTYICIJ-UHFFFAOYSA-N	Completed	Organic compounds	Organoheterocyclic compounds	Diazines	Pyrazines	Pyrazines				
+XBGGUPMXALFZOT-VIFPVBQESA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Peptides				
+XOAAWQZATWQOTB-UHFFFAOYSA-N	Completed	Organic compounds	Organic acids and derivatives	Organic sulfonic acids and derivatives	Organosulfonic acids and derivatives	Organosulfonic acids				
+SXQFCVDSOLSHOQ-UHFFFAOYSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Alcohols and polyols	Secondary alcohols				
+QIVBCDIJIAJPQS-VIFPVBQESA-N	Completed	Organic compounds	Organoheterocyclic compounds	Indoles and derivatives	Indolyl carboxylic acids and derivatives	Indolyl carboxylic acids and derivatives				
+QURCVMIEKCOAJU-HWKANZROSA-N	Completed	Organic compounds	Phenylpropanoids and polyketides	Cinnamic acids and derivatives	Hydroxycinnamic acids and derivatives	Hydroxycinnamic acids				
+LDCYZAJDBXYCGN-UHFFFAOYSA-N	Completed	Organic compounds	Organoheterocyclic compounds	Indoles and derivatives	Tryptamines and derivatives	Serotonins				
+HJBWJAPEBGSQPR-UHFFFAOYSA-N	Completed	Organic compounds	Phenylpropanoids and polyketides	Cinnamic acids and derivatives	Hydroxycinnamic acids and derivatives	Coumaric acids and derivatives				
+GGOZGYRTNQBSSA-UHFFFAOYSA-N	Completed	Organic compounds	Organoheterocyclic compounds	Pyridines and derivatives	Hydropyridines	Pyridinones				
+WNWHHMBRJJOGFJ-UHFFFAOYSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty alcohols	Long-chain fatty alcohols				
+ZOCYQVNGROEVLU-UHFFFAOYSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates	Long-chain fatty acids				
+BPHPUYQFMNQIOC-NXRLNHOXSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Glycosyl compounds	Thioglycosides			
+RWGFKTVRMDUZSP-UHFFFAOYSA-N	Completed	Organic compounds	Benzenoids	Benzene and substituted derivatives	Cumenes	Cumenes				
+RGHNJXZEOKUKBD-QTBDOELSSA-N	Completed	Organic compounds	Organic acids and derivatives	Hydroxy acids and derivatives	Medium-chain hydroxy acids and derivatives	Medium-chain hydroxy acids and derivatives				
+SIOXPEMLGUPBBT-UHFFFAOYSA-N	Completed	Organic compounds	Organoheterocyclic compounds	Pyridines and derivatives	Pyridinecarboxylic acids and derivatives	Pyridinecarboxylic acids				
+GJAWHXHKYYXBSV-UHFFFAOYSA-N	Completed	Organic compounds	Organoheterocyclic compounds	Pyridines and derivatives	Pyridinecarboxylic acids and derivatives	Pyridinecarboxylic acids				
+DRAJWRKLRBNJRQ-UHFFFAOYSA-N	Completed	Organic compounds	Organic nitrogen compounds	Organonitrogen compounds		Organonitrogen compounds				
+VBUYCZFBVCCYFD-UHFFFAOYSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Sugar acids and derivatives				
+DRAJWRKLRBNJRQ-UHFFFAOYSA-M	Completed	Organic compounds	Organic acids and derivatives	Organic carbonic acids and derivatives		Organic carbonic acids and derivatives				
+HCZHHEIFKROPDY-UHFFFAOYSA-N	Completed	Organic compounds	Organoheterocyclic compounds	Quinolines and derivatives	Quinoline carboxylic acids	Quinoline carboxylic acids				
+YGPSJZOEDVAXAB-UHFFFAOYSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbonyl compounds	Ketones	Aryl ketones	Phenylketones	Alkyl-phenylketones	
+HEBKCHPVOIAQTA-QWWZWVQMSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Sugar alcohols				
+QZAYGJVTTNCVMB-UHFFFAOYSA-N	Completed	Organic compounds	Organoheterocyclic compounds	Indoles and derivatives	Tryptamines and derivatives	Serotonins				
+DXALOGXSFLZLLN-WTZPKTTFSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl glycosides	Fatty acyl glycosides of mono- and disaccharides				
+JYVXNLLUYHCIIH-LURJTMIESA-N	Completed	Organic compounds	Organoheterocyclic compounds	Lactones	Delta valerolactones	Delta valerolactones				
+MTCFGRXMJLQNBG-REOHCLBHSA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Alpha amino acids and derivatives	Serine and derivatives		
+TYEYBOSBBBHJIV-UHFFFAOYSA-N	Completed	Organic compounds	Organic acids and derivatives	Keto acids and derivatives	Short-chain keto acids and derivatives	Short-chain keto acids and derivatives				
+DNIAPMSPPWPWGF-GSVOUGTGSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Alcohols and polyols	Polyols	1,2-diols			
+NBSCHQHZLSJFNQ-GASJEMHNSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Monosaccharides	Hexoses	Hexose phosphates		
+APJYDQYYACXCRM-UHFFFAOYSA-N	Completed	Organic compounds	Organoheterocyclic compounds	Indoles and derivatives	Tryptamines and derivatives	Tryptamines and derivatives				
+GWHCXVQVJPWHRF-KTKRTIGZSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates	Very long-chain fatty acids				
+HXXFSFRBOHSIMQ-VFUOTHLCSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Monosaccharides	Monosaccharide phosphates			
+WQZGKKKJIJFFOK-DVKNGEFBSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Monosaccharides	Hexoses			
+AGBQKNBQESQNJD-UHFFFAOYSA-N	Completed	Organic compounds	Organoheterocyclic compounds	Dithiolanes	Lipoic acids and derivatives	Lipoic acids and derivatives				
+LCTONWCANYUPML-UHFFFAOYSA-N	Completed	Organic compounds	Organic acids and derivatives	Keto acids and derivatives	Alpha-keto acids and derivatives	Alpha-keto acids and derivatives				
+NCIKQJBVUNUXLW-UHFFFAOYSA-N	Completed	Organic compounds	Organoheterocyclic compounds	Indoles and derivatives	Tryptamines and derivatives	Tryptamines and derivatives				
+OTCCIMWXFLJLIA-BYPYZUCNSA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Alpha amino acids and derivatives	Aspartic acid and derivatives		
+AMBQHHVBBHTQBF-UOUCRYGSSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Prenol lipids	Terpene glycosides	Iridoid O-glycosides				
+RQEUFEKYXDPUSK-UHFFFAOYSA-N	Completed	Organic compounds	Organic nitrogen compounds	Organonitrogen compounds	Amines	Aralkylamines				
+SRBFZHDQGSBBOR-ZRMNMSDTSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Monosaccharides	Pentoses			
+SRBFZHDQGSBBOR-AGQMPKSLSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Monosaccharides	Pentoses			
+BJEPYKJPYRNKOW-UHFFFAOYSA-N	Completed	Organic compounds	Organic acids and derivatives	Hydroxy acids and derivatives	Beta hydroxy acids and derivatives	Beta hydroxy acids and derivatives				
+WQZGKKKJIJFFOK-VSOAQEOCSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Monosaccharides	Hexoses			
+RSWGJHLUYNHPMX-ONCXSQPRSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Prenol lipids	Diterpenoids	Diterpenoids				
+VZCYOOQTPOCHFL-UPHRSURJSA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Dicarboxylic acids and derivatives	Dicarboxylic acids and derivatives				
+WRIRWRKPLXCTFD-UHFFFAOYSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbonyl compounds	1,3-dicarbonyl compounds				
+XJCCHWKNFMUJFE-UHFFFAOYSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Oligosaccharides				
+XJCCHWKNFMUJFE-CGQAXDJHSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Oligosaccharides				
+RGHNJXZEOKUKBD-MBMOQRBOSA-N	Completed	Organic compounds	Organic acids and derivatives	Hydroxy acids and derivatives	Medium-chain hydroxy acids and derivatives	Medium-chain hydroxy acids and derivatives				
+WQZGKKKJIJFFOK-QTVWNMPRSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Monosaccharides	Hexoses			
+UNXHWFMMPAWVPI-ZXZARUISSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Sugar alcohols				
+QEFRNWWLZKMPFJ-ZXPFJRLXSA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Alpha amino acids and derivatives	Alpha amino acids		
+JWJCTZKFYGDABJ-UHFFFAOYSA-N	Completed	Organic compounds	Benzenoids	Phenols	Methoxyphenols	Methoxyphenols				
+HUEBIMLTDXKIPR-UHFFFAOYSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty acid esters	Fatty acid methyl esters				
+MEBVSLLKZSAIGK-UHFFFAOYSA-N	Completed	Organic compounds	Organoheterocyclic compounds	Piperidines	Phenylpiperidines	Phenylpiperidines				
+YWWVWXASSLXJHU-AATRIKPKSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates	Long-chain fatty acids				
+ZJXZSIYSNXKHEA-UHFFFAOYSA-N	Completed	Organic compounds	Organic acids and derivatives	Organic phosphoric acids and derivatives	Phosphate esters	Alkyl phosphates	Monoalkyl phosphates			
+IHCCAYCGZOLTEU-UHFFFAOYSA-N	Completed	Organic compounds	Organoheterocyclic compounds	Furans	Furoic acid and derivatives	Furoic acids				
+NOEGNKMFWQHSLB-UHFFFAOYSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbonyl compounds	Aldehydes	Aryl-aldehydes			
+QYDYPVFESGNLHU-KHPPLWFESA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty acid esters	Fatty acid methyl esters				
+BAVYZALUXZFZLV-UHFFFAOYSA-N	Completed	Organic compounds	Organic nitrogen compounds	Organonitrogen compounds	Amines	Primary amines	Monoalkylamines			
+VZCYOOQTPOCHFL-UPHRSURJSA-L	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Dicarboxylic acids and derivatives	Dicarboxylic acids and derivatives				
+ZIYVHBGGAOATLY-UHFFFAOYSA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Dicarboxylic acids and derivatives	Dicarboxylic acids and derivatives				
+BHQCQFFYRZLCQQ-OELDTZBJSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Steroids and steroid derivatives	Bile acids, alcohols and derivatives	Hydroxy bile acids, alcohols and derivatives	Trihydroxy bile acids, alcohols and derivatives			
+ARGKVCXINMKCAZ-BKCQJFQGSA-N	Completed	Organic compounds	Phenylpropanoids and polyketides	Flavonoids	Flavonoid glycosides	Flavonoid O-glycosides	Flavonoid-7-O-glycosides			
+AXXQAQVLCYQMQZ-UHFFFAOYSA-N	Completed	Organic compounds	Benzenoids	Phenanthrenes and derivatives	Hydrophenanthrenes	Hydrophenanthrenes				
+JOCBASBOOFNAJA-UHFFFAOYSA-N	Completed	Organic compounds	Organic acids and derivatives	Organic sulfonic acids and derivatives	Organosulfonic acids and derivatives	Organosulfonic acids				
+FSPGJSRKHCJARC-UHFFFAOYSA-N	Completed	Organic compounds	Benzenoids	Phenanthrenes and derivatives	Hydrophenanthrenes	Hydrophenanthrenes				
+GONYVNMFEDYGMU-UHFFFAOYSA-N	Completed	Organic compounds	Benzenoids	Phenanthrenes and derivatives	Hydrophenanthrenes	Hydrophenanthrenes				
+SVUQHVRAGMNPLW-UHFFFAOYSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Glycerolipids	Monoradylglycerols	Monoacylglycerols	1-monoacylglycerols			
+WBYWAXJHAXSJNI-VOTSOKGWSA-N	Completed	Organic compounds	Phenylpropanoids and polyketides	Cinnamic acids and derivatives	Cinnamic acids	Cinnamic acids				
+DSLZVSRJTYRBFB-DUHBMQHGSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Sugar acids and derivatives	Glucuronic acid derivatives			
+UTOPWMOLSKOLTQ-UHFFFAOYSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates	Very long-chain fatty acids				
+DZKXJUASMGQEMA-UHFFFAOYSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty acid esters	Wax esters	Wax monoesters			
+DGEZNRSVGBDHLK-UHFFFAOYSA-N	Completed	Organic compounds	Organoheterocyclic compounds	Phenanthrolines		Phenanthrolines				
+CDAISMWEOUEBRE-CDRYSYESSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Alcohols and polyols	Secondary alcohols	Cyclohexanols			
+IHYJTAOFMMMOPX-LURJTMIESA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Alpha amino acids and derivatives	N-acyl-alpha amino acids and derivatives	N-acyl-alpha amino acids	
+TUNFSRHWOTWDNC-UHFFFAOYSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates	Long-chain fatty acids				
+KTHDTJVBEPMMGL-VKHMYHEASA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Alpha amino acids and derivatives	N-acyl-alpha amino acids and derivatives	N-acyl-alpha amino acids	N-acyl-L-alpha-amino acids
+OKJIRPAQVSHGFK-UHFFFAOYSA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Alpha amino acids and derivatives	N-acyl-alpha amino acids and derivatives	N-acyl-alpha amino acids	
+DZBLNYYGAKHAOJ-UHFFFAOYSA-N	Completed	Organic compounds	Organic acids and derivatives	Hydroxy acids and derivatives	Medium-chain hydroxy acids and derivatives	Medium-chain hydroxy acids and derivatives				
+SQVRNKJHWKZAKO-LUWBGTNYSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Sugar acids and derivatives	Sugar amino acids and derivatives	Pyranoid amino acids and derivatives	Neuraminic acids and derivatives	N-acylneuraminic acids and derivatives
+FBPFZTCFMRRESA-KVTDHHQDSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Sugar alcohols				
+SZHOJFHSIKHZHA-UHFFFAOYSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates	Long-chain fatty acids				
+LCQLHJZYVOQKHU-VKHMYHEASA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Alpha amino acids and derivatives	Glutamic acid and derivatives		
+XUJNEKJLAYXESH-REOHCLBHSA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Alpha amino acids and derivatives	Cysteine and derivatives		
+VEYYWZRYIYDQJM-UHFFFAOYSA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Alpha amino acids and derivatives	N-acyl-alpha amino acids and derivatives	N-acyl-alpha amino acids	
+JDTUMPKOJBQPKX-GBNDHIKLSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Monosaccharides	Monosaccharide phosphates			
+VGONTNSXDCQUGY-RRKCRQDMSA-N	Completed	Organic compounds	Nucleosides, nucleotides, and analogues	Purine nucleosides	Purine 2'-deoxyribonucleosides	Purine 2'-deoxyribonucleosides				
+HCAJEUSONLESMK-UHFFFAOYSA-N	Completed	Organic compounds	Organic acids and derivatives	Sulfamic acid derivatives	Cyclamates	Cyclamates				
+VYFYYTLLBUKUHU-UHFFFAOYSA-N	Completed	Organic compounds	Benzenoids	Phenols	Benzenediols	Catechols	Catecholamines and derivatives			
+WVMBPWMAQDVZCM-UHFFFAOYSA-N	Completed	Organic compounds	Benzenoids	Benzene and substituted derivatives	Benzoic acids and derivatives	Aminobenzoic acids and derivatives	Aminobenzoic acids			
+CMWTZPSULFXXJA-VIFPVBQESA-N	Completed	Organic compounds	Benzenoids	Naphthalenes		Naphthalenes				
+MYKUKUCHPMASKF-UHFFFAOYSA-N	Completed	Organic compounds	Organoheterocyclic compounds	Pyridines and derivatives	Pyrrolidinylpyridines	Pyrrolidinylpyridines				
+NGVDGCNFYWLIFO-UHFFFAOYSA-N	Completed	Organic compounds	Organoheterocyclic compounds	Pyridines and derivatives	Pyridine carboxaldehydes	Pyridoxals and derivatives				
+NGHMDNPXVRFFGS-IUYQGCFVSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Monosaccharides	Monosaccharide phosphates			
+GSEJCLTVZPLZKY-UHFFFAOYSA-N	Completed	Organic compounds	Organic nitrogen compounds	Organonitrogen compounds	Amines	Alkanolamines	1,2-aminoalcohols			
+LXNHXLLTXMVWPM-UHFFFAOYSA-N	Completed	Organic compounds	Organoheterocyclic compounds	Pyridines and derivatives	Pyridoxines	Pyridoxines				
+AQCRXZYYMOXFAN-UHFFFAOYSA-N	Completed	Organic compounds	Organic nitrogen compounds	Organonitrogen compounds	Amines	Aralkylamines				
+SNDPXSYFESPGGJ-BYPYZUCNSA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Alpha amino acids and derivatives	Alpha amino acids	L-alpha-amino acids	
+GNISQJGXJIDKDJ-YFKPBYRVSA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Alpha amino acids and derivatives	Alpha amino acids	L-alpha-amino acids	
+FATBGEAMYMYZAF-KTKRTIGZSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty amides	Fatty amides				
+GDTXICBNEOEPAZ-FPLPWBNLSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates	Long-chain fatty acids				
+WDJHALXBUFZDSR-UHFFFAOYSA-M	Completed	Organic compounds	Organic acids and derivatives	Keto acids and derivatives	Short-chain keto acids and derivatives	Short-chain keto acids and derivatives				
+DSCFFEYYQKSRSV-UHFFFAOYSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Alcohols and polyols	Secondary alcohols	Cyclohexanols			
+JCMUOFQHZLPHQP-BQBZGAKWSA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Peptides	Oligopeptides			
+MUBZPKHOEPUJKR-UHFFFAOYSA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Dicarboxylic acids and derivatives	Dicarboxylic acids and derivatives				
+ZHMWOVGZCINIHW-SPHYCDKFSA-N	Completed	Organic compounds	Organoheterocyclic compounds	Oxepanes		Oxepanes				
+AHJKRLASYNVKDZ-UHFFFAOYSA-N	Completed	Organic compounds	Benzenoids	Benzene and substituted derivatives	Diphenylmethanes	Diphenylmethanes				
+JVGVDSSUAVXRDY-UHFFFAOYSA-N	Completed	Organic compounds	Phenylpropanoids and polyketides	Phenylpropanoic acids		Phenylpropanoic acids				
+UCNVFOCBFJOQAL-UHFFFAOYSA-N	Completed	Organic compounds	Benzenoids	Benzene and substituted derivatives	Diphenylmethanes	Diphenylmethanes				
+IPCSVZSSVZVIGE-UHFFFAOYSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates	Long-chain fatty acids				
+JPAUCQAJHLSMQW-XPORZQOISA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Glycosyl compounds	Phenolic glycosides			
+GLYJVQDYLFAUFC-UHFFFAOYSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty acid esters	Fatty acid esters				
+YIXDEYPPAGPYDP-IUYQGCFVSA-N	Completed	Organic compounds	Organoheterocyclic compounds	Lactones	Gamma butyrolactones	Gamma butyrolactones				
+CUOKHACJLGPRHD-UHFFFAOYSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Monosaccharides	Pentoses			
+ISWSIDIOOBJBQZ-UHFFFAOYSA-N	Completed	Organic compounds	Benzenoids	Phenols	1-hydroxy-4-unsubstituted benzenoids	1-hydroxy-4-unsubstituted benzenoids				
+COLNVLDHVKWLRT-INHGFZCOSA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Alpha amino acids and derivatives	Phenylalanine and derivatives		
+WRMNZCZEMHIOCP-UHFFFAOYSA-N	Completed	Organic compounds	Benzenoids	Benzene and substituted derivatives		Benzene and substituted derivatives				
+LSBDFXRDZJMBSC-UHFFFAOYSA-N	Completed	Organic compounds	Benzenoids	Benzene and substituted derivatives	Phenylacetamides	Phenylacetamides				
+ATHGHQPFGPMSJY-UHFFFAOYSA-N	Completed	Organic compounds	Organic nitrogen compounds	Organonitrogen compounds	Amines	Secondary amines	Dialkylamines			
+KDYFGRWQOYBRFD-UHFFFAOYSA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Dicarboxylic acids and derivatives	Dicarboxylic acids and derivatives				
+GHOKWGTUZJEAQD-ZETCQYMHSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Alcohols and polyols	Secondary alcohols				
+HVDGDHBAMCBBLR-PBHICJAKSA-N	Completed	Organic compounds	Lignans, neolignans and related compounds	Furanoid lignans	Tetrahydrofuran lignans	9,9'-epoxylignans	Dibenzylbutyrolactone lignans			
+SMEROWZSTRWXGI-HVATVPOCSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Steroids and steroid derivatives	Bile acids, alcohols and derivatives	Hydroxy bile acids, alcohols and derivatives	Monohydroxy bile acids, alcohols and derivatives			
+CIWBSHSKHKDKBQ-JLAZNSOCSA-N	Completed	Organic compounds	Organoheterocyclic compounds	Dihydrofurans	Furanones	Butenolides				
+QWVGKYWNOKOFNN-UHFFFAOYSA-N	Completed	Organic compounds	Benzenoids	Phenols	Cresols	Ortho cresols				
+BIRSGZKFKXLSJQ-SQOUGZDYSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Monosaccharides	Monosaccharide phosphates			
+XNGIFLGASWRNHJ-UHFFFAOYSA-N	Completed	Organic compounds	Benzenoids	Benzene and substituted derivatives	Benzoic acids and derivatives	Benzoic acids				
+RLCKHJSFHOZMDR-GUDVDZBRSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Prenol lipids	Diterpenoids	Acyclic diterpenoids				
+ZTVZLYBCZNMWCF-WDSKDSINSA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Alpha amino acids and derivatives	Alpha amino acids	L-alpha-amino acids	
+WLJVNTCWHIRURA-UHFFFAOYSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates	Medium-chain fatty acids				
+XUWHAWMETYGRKB-UHFFFAOYSA-N	Completed	Organic compounds	Organoheterocyclic compounds	Piperidines	Piperidinones	Piperidinones				
+YPFDHNVEDLHUCE-UHFFFAOYSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Alcohols and polyols	Primary alcohols				
+NHZMQXZHNVQTQA-UHFFFAOYSA-O	Completed	Organic compounds	Organoheterocyclic compounds	Pyridines and derivatives	Pyridoxamines	Pyridoxamine 5'-phosphates				
+BEJNERDRQOWKJM-UHFFFAOYSA-N	Completed	Organic compounds	Organoheterocyclic compounds	Pyrans	Pyranones and derivatives	Pyranones and derivatives				
+XOHUEYCVLUUEJJ-UHFFFAOYSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Sugar acids and derivatives				
+JINBYESILADKFW-UHFFFAOYSA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Alpha amino acids and derivatives	Alpha amino acids		
+PPQRONHOSHZGFQ-LMVFSUKVSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Monosaccharides	Pentoses	Pentose phosphates		
+FNZLKVNUWIIPSJ-UHNVWZDZSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Monosaccharides	Pentoses	Pentose phosphates		
+UASRYODFRYWBRC-UUOKFMHZSA-N	Completed	Organic compounds	Nucleosides, nucleotides, and analogues	Purine nucleotides	Cyclic purine nucleotides	2',3'-cyclic purine nucleotides				
+PUETUDUXMCLALY-HOTGVXAUSA-N	Completed	Organic compounds	Lignans, neolignans and related compounds	Dibenzylbutane lignans	Dibenzylbutanediol lignans	Dibenzylbutanediol lignans				
+JXOHGGNKMLTUBP-HSUXUTPPSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Alcohols and polyols	Cyclic alcohols and derivatives	Cyclitols and derivatives	Shikimic acids and derivatves		
+QKFAFSGJTMHRRY-AVHZNCSWSA-M	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Monosaccharides	Hexoses	Glucosinolates	Alkylglucosinolates	
+BCVIOZZGJNOEQS-XKNYDFJKSA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Peptides	Dipeptides			
+PHZOWSSBXJXFOR-PTGZALFTSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Monosaccharides	Hexoses	Glucosinolates	Alkylglucosinolates	
+YYGNTYWPHWGJRM-AAJYLUCBSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Prenol lipids	Triterpenoids	Triterpenoids				
+LKDRXBCSQODPBY-OEXCPVAWSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Monosaccharides				
+UYTPUPDQBNUYGX-UHFFFAOYSA-N	Completed	Organic compounds	Organoheterocyclic compounds	Imidazopyrimidines	Purines and purine derivatives	Purines and purine derivatives				
+BKAWJIRCKVUVED-UHFFFAOYSA-N	Completed	Organic compounds	Organoheterocyclic compounds	Azoles	Thiazoles	4,5-disubstituted thiazoles				
+GYOZYWVXFNDGLU-XLPZGREQSA-N	Completed	Organic compounds	Nucleosides, nucleotides, and analogues	Pyrimidine nucleotides	Pyrimidine deoxyribonucleotides	Pyrimidine deoxyribonucleoside monophosphates	Pyrimidine 2'-deoxyribonucleoside monophosphates			
+FDGQSTZJBFJUBT-UHFFFAOYSA-N	Completed	Organic compounds	Organoheterocyclic compounds	Imidazopyrimidines	Purines and purine derivatives	Purinones	Hypoxanthines			
+FMAORJIQYMIRHF-BCDHYOAOSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Monosaccharides	Pentoses			
+UJLXYODCHAELLY-XLPZGREQSA-N	Completed	Organic compounds	Nucleosides, nucleotides, and analogues	Pyrimidine nucleotides	Pyrimidine deoxyribonucleotides	Pyrimidine deoxyribonucleoside diphosphates	Pyrimidine 2'-deoxyribonucleoside diphosphates			
+RWQNBRDOKXIBIV-UHFFFAOYSA-N	Completed	Organic compounds	Organoheterocyclic compounds	Diazines	Pyrimidines and pyrimidine derivatives	Hydroxypyrimidines				
+QUEDXNHFTDJVIY-DQCZWYHMSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Prenol lipids	Quinone and hydroquinone lipids	Vitamin E compounds	Tocopherols			
+STCOOQWBFONSKY-UHFFFAOYSA-N	Completed	Organic compounds	Organic acids and derivatives	Organic phosphoric acids and derivatives	Phosphate esters	Alkyl phosphates	Trialkyl phosphates			
+XQXPVVBIMDBYFF-UHFFFAOYSA-N	Completed	Organic compounds	Benzenoids	Phenols	1-hydroxy-2-unsubstituted benzenoids	1-hydroxy-2-unsubstituted benzenoids				
+BTCSSZJGUNDROE-UHFFFAOYSA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Gamma amino acids and derivatives			
+FYGDTMLNYKFZSV-UHFFFAOYSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Oligosaccharides				
+YJCJVMMDTBEITC-UHFFFAOYSA-N	Completed	Organic compounds	Organic acids and derivatives	Hydroxy acids and derivatives	Medium-chain hydroxy acids and derivatives	Medium-chain hydroxy acids and derivatives				
+MBBOMCVGYCRMEA-UHFFFAOYSA-N	Completed	Organic compounds	Organoheterocyclic compounds	Indoles and derivatives	Indoles	3-alkylindoles				
+GRSZFWQUAKGDAV-KQYNXXCUSA-N	Completed	Organic compounds	Nucleosides, nucleotides, and analogues	Purine nucleotides	Purine ribonucleotides	Purine ribonucleoside monophosphates				
+ISAKRJDGNUQOIC-UHFFFAOYSA-N	Completed	Organic compounds	Organoheterocyclic compounds	Diazines	Pyrimidines and pyrimidine derivatives	Pyrimidones				
+IBPDKUYWDGDBQW-UHFFFAOYSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Glycerophospholipids	Glycerophosphates	Glycerophosphates				
+NCYCYZXNIZJOKI-OVSJKPMPSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Prenol lipids	Retinoids	Retinoids				
+QIPKQEKUQASMNI-UHFFFAOYSA-N	Completed	Organic compounds	Organoheterocyclic compounds	Diazines	Pyrimidines and pyrimidine derivatives	Hydroxypyrimidines				
+ZDPHROOEEOARMN-UHFFFAOYSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates	Medium-chain fatty acids				
+FBZONXHGGPHHIY-UHFFFAOYSA-N	Completed	Organic compounds	Organoheterocyclic compounds	Quinolines and derivatives	Quinoline carboxylic acids	Quinoline carboxylic acids				
+HEBKCHPVOIAQTA-NGQZWQHPSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Sugar alcohols				
+DJJCXFVJDGTHFX-XVFCMESISA-N	Completed	Organic compounds	Nucleosides, nucleotides, and analogues	Pyrimidine nucleotides	Pyrimidine ribonucleotides	Pyrimidine ribonucleoside monophosphates				
+QSQLTHHMFHEFIY-UHFFFAOYSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty acid esters	Fatty acid methyl esters				
+VQAYFKKCNSOZKM-IOSLPCCCSA-N	Completed	Organic compounds	Nucleosides, nucleotides, and analogues	Purine nucleosides		Purine nucleosides				
+QXKAIJAYHKCRRA-FLRLBIABSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Sugar acids and derivatives				
+XXBSUZSONOQQGK-FLRLBIABSA-N	Completed	Organic compounds	Organoheterocyclic compounds	Lactones	Delta valerolactones	Delta valerolactones				
+HXEACLLIILLPRG-RXMQYKEDSA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Alpha amino acids and derivatives	Alpha amino acids	D-alpha-amino acids	
+WHBMMWSBFZVSSR-UHFFFAOYSA-N	Completed	Organic compounds	Organic acids and derivatives	Hydroxy acids and derivatives	Beta hydroxy acids and derivatives	Beta hydroxy acids and derivatives				
+GUBGYTABKSRVRQ-QKKXKWKRSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Glycosyl compounds	O-glycosyl compounds			
+VHJLVAABSRFDPM-QWWZWVQMSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Alcohols and polyols	Polyols	1,2-diols			
+ZAKOWWREFLAJOT-CEFNRUSXSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Prenol lipids	Quinone and hydroquinone lipids	Vitamin E compounds				
+UCUNFLYVYCGDHP-BYPYZUCNSA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Alpha amino acids and derivatives	Alpha amino acids	L-alpha-amino acids	
+HDAXVUIHUZAWPC-UHFFFAOYSA-N	Completed	Organic compounds	Organometallic compounds	Organometalloid compounds	Organosilicon compounds	Organoheterosilanes	Trialkylheterosilanes			
+GXIURPTVHJPJLF-UHFFFAOYSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Sugar acids and derivatives				
+ICUSJPNKTSVHAM-UHFFFAOYSA-N	Completed	Organic compounds	Organoheterocyclic compounds			Organoheterocyclic compounds				
+RBNPOMFGQQGHHO-UWTATZPHSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Sugar acids and derivatives				
+KZJWDPNRJALLNS-VJSFXXLFSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Steroids and steroid derivatives	Stigmastanes and derivatives	Stigmastanes and derivatives				
+KDXKERNSBIXSRK-UHFFFAOYSA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Alpha amino acids and derivatives	Alpha amino acids		
+FBUKVWPVBMHYJY-UHFFFAOYSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates	Medium-chain fatty acids				
+HSNZZMHEPUFJNZ-QMTIVRBISA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Monosaccharides	Heptoses			
+QHKABHOOEWYVLI-UHFFFAOYSA-N	Completed	Organic compounds	Organic acids and derivatives	Keto acids and derivatives	Short-chain keto acids and derivatives	Short-chain keto acids and derivatives				
+DWRXFEITVBNRMK-JXOAFFINSA-N	Completed	Organic compounds	Nucleosides, nucleotides, and analogues	Pyrimidine nucleosides		Pyrimidine nucleosides				
+BWDBEAQIHAEVLV-UHFFFAOYSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty alcohols	Fatty alcohols				
+QAIPRVGONGVQAS-RQOWECAXSA-N	Completed	Organic compounds	Phenylpropanoids and polyketides	Cinnamic acids and derivatives	Hydroxycinnamic acids and derivatives	Hydroxycinnamic acids				
+UIUJIQZEACWQSV-UHFFFAOYSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates	Straight chain fatty acids				
+NFWKVWVWBFBAOV-MISYRCLQSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Prenol lipids	Diterpenoids	Diterpenoids				
+FSVCELGFZIQNCK-UHFFFAOYSA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Alpha amino acids and derivatives	Alpha amino acids		
+SEOVTRFCIGRIMH-UHFFFAOYSA-N	Completed	Organic compounds	Organoheterocyclic compounds	Indoles and derivatives	Indolyl carboxylic acids and derivatives	Indole-3-acetic acid derivatives				
+FMAORJIQYMIRHF-HERZVMAMSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Monosaccharides	Pentoses			
+DSLZVSRJTYRBFB-LLEIAEIESA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Sugar acids and derivatives	Glucuronic acid derivatives			
+VRYALKFFQXWPIH-PBXRRBTRSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty alcohols	Fatty alcohols				
+PMMURAAUARKVCB-ZXXMMSQZSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Monosaccharides	Hexoses			
+CWKYCXPGVIFXOH-UHFFFAOYSA-N	Completed	Organic compounds	Organoheterocyclic compounds	Heteroaromatic compounds		Heteroaromatic compounds				
+HMLZLHKHNBLLJD-UHFFFAOYSA-N	Completed	Organic compounds	Organoheterocyclic compounds	Imidazopyrimidines	Purines and purine derivatives	Xanthines				
+XQGDGRNHLJLQOV-QMMMGPOBSA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Alpha amino acids and derivatives	Aspartic acid and derivatives		
+QUNWUDVFRNGTCO-WFGJKAKNSA-N	Completed	Organic compounds	Organoheterocyclic compounds	Imidazopyrimidines	Purines and purine derivatives	Xanthines				
+KCXVZYZYPLLWCC-UHFFFAOYSA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Tetracarboxylic acids and derivatives	Tetracarboxylic acids and derivatives				
+NBZBKCUXIYYUSX-UHFFFAOYSA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Alpha amino acids and derivatives	Alpha amino acids		
+JVQYSWDUAOAHFM-UHFFFAOYSA-N	Completed	Organic compounds	Organic acids and derivatives	Keto acids and derivatives	Short-chain keto acids and derivatives	Short-chain keto acids and derivatives				
+YHXHKYRQLYQUIH-UHFFFAOYSA-N	Completed	Organic compounds	Benzenoids	Phenols	1-hydroxy-2-unsubstituted benzenoids	1-hydroxy-2-unsubstituted benzenoids				
+UDMZPLROONOSEF-UHFFFAOYSA-N	Completed	Organic compounds	Benzenoids	Benzene and substituted derivatives	Biphenyls and derivatives	Chlorinated biphenyls	Polychlorinated biphenyls			
+SGNBVLSWZMBQTH-PODYLUTMSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Steroids and steroid derivatives	Ergostane steroids	Ergosterols and derivatives				
+DNVPQKQSNYMLRS-APGDWVJJSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Steroids and steroid derivatives	Ergostane steroids	Ergosterols and derivatives				
+FWJKNZONDWOGMI-UHFFFAOYSA-N	Completed	Organic compounds	Organoheterocyclic compounds	Diazines	Pyrimidines and pyrimidine derivatives	Pyrimidones	Barbituric acid derivatives			
+GLDOVTGHNKAZLK-UHFFFAOYSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty alcohols	Long-chain fatty alcohols				
+WQGWDDDVZFFDIG-UHFFFAOYSA-N	Completed	Organic compounds	Benzenoids	Phenols	Benzenetriols and derivatives	Pyrogallols and derivatives	5-unsubstituted pyrrogallols			
+SFLSHLFXELFNJZ-QMMMGPOBSA-N	Completed	Organic compounds	Benzenoids	Phenols	Benzenediols	Catechols				
+OIVLITBTBDPEFK-UHFFFAOYSA-N	Completed	Organic compounds	Organoheterocyclic compounds	Diazines	Pyrimidines and pyrimidine derivatives	Pyrimidones				
+XUDJZDNUVZHSKZ-UHFFFAOYSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty acid esters	Fatty acid methyl esters				
+CZWARROQQFCFJB-UHFFFAOYSA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Alpha amino acids and derivatives	Alpha amino acids		
+QZZGJDVWLFXDLK-UHFFFAOYSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates	Very long-chain fatty acids				
+STECJAGHUSJQJN-USLFZFAMSA-N	Completed	Organic compounds	Organic acids and derivatives	Hydroxy acids and derivatives	Beta hydroxy acids and derivatives	Beta hydroxy acids and derivatives				
+DIVQKHQLANKJQO-UHFFFAOYSA-N	Completed	Organic compounds	Benzenoids	Phenols	Methoxyphenols	Methoxyphenols				
+CAAULPUQFIIOTL-UHFFFAOYSA-N	Completed	Organic compounds	Organic acids and derivatives	Organic phosphoric acids and derivatives	Phosphate esters	Alkyl phosphates	Monoalkyl phosphates			
+FZXCPFJMYOQZCA-UHFFFAOYSA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Alpha amino acids and derivatives			
+RZRNAYUHWVFMIP-KTKRTIGZSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Glycerolipids	Monoradylglycerols	Monoacylglycerols	1-monoacylglycerols			
+OPKOKAMJFNKNAS-UHFFFAOYSA-N	Completed	Organic compounds	Organic nitrogen compounds	Organonitrogen compounds	Amines	Alkanolamines	1,2-aminoalcohols			
+RWSOTUBLDIXVET-UHFFFAOYSA-N	Completed	Inorganic compounds	Homogeneous non-metal compounds	Other non-metal organides	Other non-metal sulfides	Other non-metal sulfides				
+AFENDNXGAFYKQO-VKHMYHEASA-N	Completed	Organic compounds	Organic acids and derivatives	Hydroxy acids and derivatives	Alpha hydroxy acids and derivatives	Alpha hydroxy acids and derivatives				
+AFENDNXGAFYKQO-UHFFFAOYSA-N	Completed	Organic compounds	Organic acids and derivatives	Hydroxy acids and derivatives	Alpha hydroxy acids and derivatives	Alpha hydroxy acids and derivatives				
+YGSDEFSMJLZEOE-UHFFFAOYSA-N	Completed	Organic compounds	Benzenoids	Benzene and substituted derivatives	Benzoic acids and derivatives	Hydroxybenzoic acid derivatives	Salicylic acid and derivatives	Salicylic acids		
+UCTLRSWJYQTBFZ-DDPQNLDTSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Steroids and steroid derivatives	Cholestane steroids	Cholesterols and derivatives				
+JPIJQSOTBSSVTP-STHAYSLISA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Sugar acids and derivatives				
+DOUMFZQKYFQNTF-WUTVXBCWSA-N	Completed	Organic compounds	Phenylpropanoids and polyketides	Cinnamic acids and derivatives	Hydroxycinnamic acids and derivatives	Coumaric acids and derivatives				
+XMHIUKTWLZUKEX-UHFFFAOYSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates	Very long-chain fatty acids				
+BBQSWPCXIWMWGH-UHFFFAOYSA-N	Completed	Organic compounds	Organoheterocyclic compounds	Quinolines and derivatives	Dihydrofuranoquinolines	Dihydrofuranoquinolines				
+UMEKPPOFCOUEDT-UHFFFAOYSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Glycerolipids	Monoradylglycerols	Monoacylglycerols	1-monoacylglycerols			
+HXEACLLIILLPRG-YFKPBYRVSA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Alpha amino acids and derivatives	Alpha amino acids	L-alpha-amino acids	
+VBSPBYNZPRRGSB-UJPOAAIJSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Glycosyl compounds	O-glycosyl compounds			
+YMAWOPBAYDPSLA-UHFFFAOYSA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Peptides	Dipeptides			
+BVJSUAQZOZWCKN-UHFFFAOYSA-N	Completed	Organic compounds	Benzenoids	Benzene and substituted derivatives	Benzyl alcohols	Benzyl alcohols				
+WQEPLUUGTLDZJY-UHFFFAOYSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates	Long-chain fatty acids				
+NBSCHQHZLSJFNQ-QTVWNMPRSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Monosaccharides	Hexoses	Hexose phosphates		
+ISYWECDDZWTKFF-UHFFFAOYSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates	Long-chain fatty acids				
+DZTHIGRZJZPRDV-GFCCVEGCSA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Alpha amino acids and derivatives	N-acyl-alpha amino acids and derivatives	N-acyl-alpha amino acids	
+HDTRYLNUVZCQOY-LIZSDCNHSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Glycosyl compounds	O-glycosyl compounds			
+OXQKEKGBFMQTML-RYRJNEICSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Sugar alcohols				
+RITKHVBHSGLULN-WHFBIAKZSA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Alpha amino acids and derivatives	N-acyl-alpha amino acids and derivatives	N-acyl-alpha amino acids	
+DNIAPMSPPWPWGF-UHFFFAOYSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Alcohols and polyols	Polyols	1,2-diols			
+GOUHYARYYWKXHS-UHFFFAOYSA-N	Completed	Organic compounds	Benzenoids	Benzene and substituted derivatives	Benzoic acids and derivatives	Benzoic acids				
+LCPDWSOZIOUXRV-UHFFFAOYSA-N	Completed	Organic compounds	Benzenoids	Benzene and substituted derivatives	Phenoxyacetic acid derivatives	Phenoxyacetic acid derivatives				
+MUPFEKGTMRGPLJ-ZQSKZDJDSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Oligosaccharides				
+DZAIOXUZHHTJKN-UHFFFAOYSA-N	Completed	Organic compounds	Organic acids and derivatives	Hydroxy acids and derivatives	Beta hydroxy acids and derivatives	Beta hydroxy acids and derivatives				
+UFYGCFHQAXXBCF-UHFFFAOYSA-N	Completed	Organic compounds	Organic acids and derivatives	Hydroxy acids and derivatives	Short-chain hydroxy acids and derivatives	Short-chain hydroxy acids and derivatives				
+BTNMPGBKDVTSJY-UHFFFAOYSA-N	Completed	Organic compounds	Benzenoids	Benzene and substituted derivatives	Phenylpyruvic acid derivatives	Phenylpyruvic acid derivatives				
+IMGVNJNCCGXBHD-UYBVJOGSSA-O	Completed	Organic compounds	Nucleosides, nucleotides, and analogues	Flavin nucleotides		Flavin nucleotides				
+HVYWMOMLDIMFJA-BQPALTLPSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Steroids and steroid derivatives	Cholestane steroids	Cholesterols and derivatives				
+GSXOAOHZAIYLCY-SRQIZXRXSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Monosaccharides	Hexoses	Hexose phosphates		
+ACZFBYCNAVEFLC-YFKPBYRVSA-N	Completed	Organic compounds	Organoheterocyclic compounds	Azoles	Imidazoles	Substituted imidazoles	Imidazolyl carboxylic acids and derivatives			
+WWTTXMMZHOBTAM-UHFFFAOYSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Glycerolipids	Monoradylglycerols	Monoacylglycerols	1-monoacylglycerols			
+FBPFZTCFMRRESA-IUAGDLHUSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Sugar alcohols				
+NFBQIWJDUKFHJP-ZRMNMSDTSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Monosaccharides	Hexoses			
+RVEKLXYYCHAMDF-AOSYACOCSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates	Long-chain fatty acids				
+RWSXRVCMGQZWBV-WDSKDSINSA-M	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Peptides	Oligopeptides			
+JJMDCOVWQOJGCB-UHFFFAOYSA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Delta amino acids and derivatives			
+ZBIGLIMGCLJKHN-KTKRTIGZSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates	Long-chain fatty acids				
+NWWHMRQNLCVBKH-COUJEVKVSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Glycerolipids	Monoradylglycerols	Monoacylglycerols	1-monoacylglycerols			
+TYWMIZZBOVGFOV-UHFFFAOYSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty alcohols	Fatty alcohols				
+IWDCLRJOBJJRNH-UHFFFAOYSA-N	Completed	Organic compounds	Benzenoids	Phenols	Cresols	Para cresols				
+OHJMTUPIZMNBFR-UHFFFAOYSA-N	Completed	Organic compounds	Organic acids and derivatives	Carboximidic acids and derivatives	Carboximidic acids	Isoureas				
+WVDDGKGOMKODPV-UHFFFAOYSA-N	Completed	Organic compounds	Benzenoids	Benzene and substituted derivatives	Benzyl alcohols	Benzyl alcohols				
+KIWLCEXSSGNBJU-UHFFFAOYSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Glycerolipids	Monoradylglycerols	Monoacylglycerols	1-monoacylglycerols			
+SGMJBNSHAZVGMC-PWNYCUMCSA-N	Completed	Organic compounds	Organoheterocyclic compounds	Lactones	Gamma butyrolactones	Gamma butyrolactones				
+YCCMTCQQDULIFE-UHFFFAOYSA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Alpha amino acids and derivatives	Alpha amino acid amides		
+LOIYMIARKYCTBW-OWOJBTEDSA-N	Completed	Organic compounds	Organoheterocyclic compounds	Azoles	Imidazoles	Substituted imidazoles	Imidazolyl carboxylic acids and derivatives			
+UIUJIQZEACWQSV-UHFFFAOYSA-M	Completed	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates	Straight chain fatty acids				
+NGEWQZIDQIYUNV-UHFFFAOYSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates	Hydroxy fatty acids				
+ILRYLPWNYFXEMH-WHFBIAKZSA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Alpha amino acids and derivatives	Cysteine and derivatives	L-cysteine-S-conjugates	
+WQQSIXKPRAUZJL-UGDNZRGBSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Disaccharides	Disaccharide phosphates			
+VZCYOOQTPOCHFL-UPHRSURJSA-L	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Dicarboxylic acids and derivatives	Dicarboxylic acids and derivatives	 	 
+GVJHHUAWPYXKBD-IEOSBIPESA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Prenol lipids	Quinone and hydroquinone lipids	Vitamin E compounds	Tocopherols	 
+VHJLVAABSRFDPM-QWWZWVQMSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Alcohols and polyols	Polyols	1,2-diols	 
+AFENDNXGAFYKQO-VKHMYHEASA-N	Completed	Organic compounds	Organic acids and derivatives	Hydroxy acids and derivatives	Alpha hydroxy acids and derivatives	Alpha hydroxy acids and derivatives	 	 
+KTVPXOYAKDPRHY-SOOFDHNKSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Monosaccharides	Pentoses	Pentose phosphates
+VZCYOOQTPOCHFL-UPHRSURJSA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Dicarboxylic acids and derivatives	Dicarboxylic acids and derivatives	 	 
+GUBGYTABKSRVRQ-QKKXKWKRSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Glycosyl compounds	O-glycosyl compounds	 
+NBSCHQHZLSJFNQ-VFUOTHLCSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Monosaccharides	Hexoses	Hexose phosphates
+DRAJWRKLRBNJRQ-UHFFFAOYSA-M	Completed	Organic compounds	Organic acids and derivatives	Organic carbonic acids and derivatives		Organic carbonic acids and derivatives	 	 
+PYMYPHUHKUWMLA-VPENINKCSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Monosaccharides	Pentoses	 
+HMFHBZSHGGEWLO-SOOFDHNKSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Monosaccharides	Pentoses	 
+WHBMMWSBFZVSSR-GSVOUGTGSA-N	Completed	Organic compounds	Organic acids and derivatives	Hydroxy acids and derivatives	Beta hydroxy acids and derivatives	Beta hydroxy acids and derivatives	 	 
+VHJLVAABSRFDPM-IMJSIDKUSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Alcohols and polyols	Polyols	1,2-diols	
+YHXHKYRQLYQUIH-UHFFFAOYSA-N	Completed	Organic compounds	Benzenoids	Phenols	1-hydroxy-2-unsubstituted benzenoids	1-hydroxy-2-unsubstituted benzenoids	 	 
+NCYCYZXNIZJOKI-OVSJKPMPSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Prenol lipids	Retinoids	Retinoids	 	 
+PPQRONHOSHZGFQ-LMVFSUKVSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Monosaccharides	Pentoses	Pentose phosphates
+RBNPOMFGQQGHHO-UWTATZPHSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Sugar acids and derivatives	 	 
+KTVPXOYAKDPRHY-UHFFFAOYSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Monosaccharides	Pentoses	Pentose phosphates
+KTVPXOYAKDPRHY-UHFFFAOYSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Monosaccharides	Pentoses	Pentose phosphates
+VZCYOOQTPOCHFL-UHFFFAOYSA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Dicarboxylic acids and derivatives	Dicarboxylic acids and derivatives		
+GUBGYTABKSRVRQ-UHFFFAOYSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Glycosyl compounds	O-glycosyl compounds	
+ZDXPYRJPNDTMRX-UHFFFAOYSA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Alpha amino acids and derivatives	Alpha amino acids	
+VHJLVAABSRFDPM-UHFFFAOYSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Alcohols and polyols	Polyols	1,2-diols	
+COLNVLDHVKWLRT-UHFFFAOYSA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Alpha amino acids and derivatives	Phenylalanine and derivatives	
+AYFVYJQAPQTCCC-UHFFFAOYSA-N	Completed	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Alpha amino acids and derivatives	Alpha amino acids	
+GVJHHUAWPYXKBD-UHFFFAOYSA-N	Completed	Organic compounds	Lipids and lipid-like molecules	Prenol lipids	Quinone and hydroquinone lipids	Vitamin E compounds	Tocopherols	
+SRBFZHDQGSBBOR-UHFFFAOYSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Monosaccharides	Pentoses	
+HMFHBZSHGGEWLO-UHFFFAOYSA-N	Completed	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Monosaccharides	Pentoses	

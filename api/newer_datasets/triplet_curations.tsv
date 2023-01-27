@@ -1,0 +1,525 @@
+species	organ	disease	to_remove
+aedes aegypti	Gastrointestinal Tract	No	
+aedes aegypti	Tissues	No	
+anthophila	Pollen	No	
+apis mellifera	Gastrointestinal Tract	No	
+apis mellifera	Head	No	
+apis mellifera	Hemolymph	No	
+apis mellifera	Ileum	No	
+apis mellifera	Rectum	No	
+arabidopsis	Plant Leaves	No	
+arabidopsis	Plant Roots	No	
+arabidopsis	Tissues	No	
+arabidopsis thaliana	Cotyledon	No	
+arabidopsis thaliana	Extracellular Fluid	No	
+arabidopsis thaliana	Flowering Tops	No	DELETE
+arabidopsis thaliana	Flowers	No	
+arabidopsis thaliana	Plant Leaves	No	
+arabidopsis thaliana	Plant Roots	No	
+arabidopsis thaliana	Plant Shoots	No	
+arabidopsis thaliana	Pollen	No	
+arabidopsis thaliana	Seeds	No	
+arabidopsis thaliana	Tissues	No	
+arachis hypogaea	Plant Leaves	No	
+aspergillus fumigatus	Cells	No	
+aspergillus oryzae	Cells	No	
+astyanax mexicanus	Brain	No	
+astyanax mexicanus	Liver	No	
+astyanax mexicanus	Muscle, Skeletal	No	
+atractylodes lancea	Plant Roots	No	
+auxenochlorella protothecoides	Cells	No	
+bacillus subtilis	Cells	No	
+bacillus thuringiensis	Cells	No	
+bacteria	Cells	No	DELETE
+bacteria	Culture Media	No	DELETE
+bacteria	Extracellular Fluid	No	DELETE
+beta vulgaris	Plant Leaves	No	
+beta vulgaris	Plant Roots	No	
+bifidobacterium	Culture Media, Conditioned	No	
+boechera stricta	Plant Leaves	No	
+bos primigenius	Plasma	No	
+bos taurus	Cerebrospinal Fluid	No	
+bos taurus	Chromaffin Cells	No	
+bos taurus	Culture Media	No	
+bos taurus	Feces	No	
+bos taurus	Follicular Fluid	No	
+bos taurus	Liver	No	
+bos taurus	Milk	No	
+bos taurus	Muscle, Skeletal	No	
+bos taurus	Plasma	No	
+bos taurus	Serum	No	
+bos taurus	Urine	No	
+bos taurus	Uterus	No	
+botrytis fuckeliana	Cells	No	
+brachypodium	Plant Leaves	No	
+brassica	Plant Leaves	No	
+brassica	Plant Roots	No	
+brassica napus	Plant Roots	No	
+brassica napus	Plant Shoots	No	
+brassica rapa	Plant Leaves	No	
+brettanomyces bruxellensis	Cells	No	
+caenorhabditis elegans	Cells	No	
+caenorhabditis elegans	Tissues	No	
+callosobruchus maculatus	Tissues	No	
+camelus	Milk	No	
+canis lupus familiaris	Cerebrospinal Fluid	No	
+canis lupus familiaris	Feces	No	
+canis lupus familiaris	Plasma	No	
+canis lupus familiaris	Serum	No	
+canis lupus familiaris	Urine	No	
+capra aegagrus hircus	Milk	No	
+capra aegagrus hircus	Plasma	No	
+capra aegagrus hircus	Serum	No	
+carabidae	Tissues	No	
+caryocar	Seeds	No	
+cavia porcellus	Plasma	No	
+chelonioidea	Serum	No	
+chenopodium quinoa	Plant Leaves	No	
+chlamydomonas	Cells	No	
+chlamydomonas nivalis	Cells	No	
+chlamydomonas reinhardtii	Cells	No	
+chlorella minutissima	Cells	No	
+chlorella protothecoides	Cells	No	
+chlorella sorokiniana	Cells	No	
+chlorella vulgaris	Cells	No	
+chlorophyta	Cells	No	
+chromobacterium	Cells	No	
+citrus	Plant Leaves	No	
+citrus	Plant Roots	No	
+citrus reticulata	Plant Leaves	No	
+citrus sinensis	Flowering Tops	No	
+citrus sinensis	Fruit	No	
+citrus sinensis	Plant Leaves	No	
+citrus sinensis	Plant Roots	No	
+clostridium	Cells	No	
+clostridium perfringens	Cells	No	
+coffea	Cells	No	
+coffea	Seeds	No	
+coffea canephora	Seeds	No	
+coffea liberica	Seeds	No	
+cryptococcus neoformans	Cells	No	
+cucumis melo	Xylem	No	
+cucumis sativus	Plant Leaves	No	
+cucumis sativus	Plant Roots	No	
+cucurbita maxima	Plant Leaves	No	
+cyprinodon diabolis	Muscle, Skeletal	No	
+danio rerio	Embryonic Structures	No	
+dehalococcoides mccartyi	Culture Media, Conditioned	No	
+desulfovibrio desulfuricans	Culture Media	No	
+dioscorea polystachya	Tissues	No	
+drosophila melanogaster	Head	No	
+drosophila melanogaster	Larva	No	
+drosophila melanogaster	Tissues	No	
+drosophila suzukii	Tissues	No	
+eisenia fetida	Tissues	No	
+elaeis guineensis	Seeds	No	
+equus caballus	Cecum	No	
+equus caballus	Feces	No	
+equus caballus	Plasma	No	
+equus caballus	Serum	No	
+equus caballus	Spinal Cord	No	
+eriobotrya japonica	Plant Leaves	No	
+escherichia coli	Cells	No	
+escherichia coli	Culture Media	No	
+euglena gracilis	Cells	No	
+eutrema salsugineum	Plant Roots	No	
+eutrema salsugineum	Plant Shoots	No	
+faecalibacterium prausnitzii	Cells	No	
+faecalibacterium prausnitzii	Extracellular Fluid	No	
+felis catus	Feces	No	
+felis catus	Kidney	No	
+felis catus	Plasma	No	
+felis catus	Serum	No	
+felis catus	Urine	No	
+ficus carica	Fruit	No	
+fragaria ananassa	Fruit	No	
+fragaria ananassa	Plant Leaves	No	
+gallus domesticus	Liver	No	
+gallus gallus domesticus	Cells	No	
+gallus gallus domesticus	Feces	No	
+gallus gallus domesticus	Liver	No	
+gallus gallus domesticus	Lung	No	
+gallus gallus domesticus	Plasma	No	
+glycine max	Plant Roots	No	
+glycine max	Plant Stems	No	
+glycine max	Seeds	No	
+glycine max	Soybeans	No	
+gossypium	Flowers	No	
+gossypium	Fruit	No	
+gossypium	Plant Leaves	No	
+gossypium	Plant Stems	No	
+gossypium	Seeds	No	
+gossypium hirsutum	Extracellular Fluid	No	
+halobacterium salinarum	Cells	No	
+halomonas elongata	Cells	No	
+helicobacter pylori	Cells	No	
+helicobacter pylori	Culture Media	No	
+homo sapiens	Adipose Tissue, White	No	
+homo sapiens	Adrenal Glands	Adrenal Cortex Neoplasms	
+homo sapiens	Alveolar Epithelial Cells	No	
+homo sapiens	Amniotic Fluid	No	
+homo sapiens	Blood	No	
+homo sapiens	Blood Cells	No	
+homo sapiens	Blood Platelets	No	
+homo sapiens	Brain	No	
+homo sapiens	Breast	Breast Neoplasms	
+homo sapiens	Capillaries	No	
+homo sapiens	Cells	Colonic Neoplasms	
+homo sapiens	Cells	Glioblastoma	
+homo sapiens	Cells	Leukemia, Myeloid, Chronic-Phase	
+homo sapiens	Cells	Maple Syrup Urine Disease	
+homo sapiens	Cells	Multiple Myeloma	
+homo sapiens	Cells	Neoplasms	
+homo sapiens	Cells	Neoplasms, Mesothelial	
+homo sapiens	Cells	No	
+homo sapiens	Cells	Prostatic Neoplasms	
+homo sapiens	Cerebrospinal Fluid	No	
+homo sapiens	Cervix Mucus	No	
+homo sapiens	Colon	Colonic Neoplasms	
+homo sapiens	Colon	Colorectal Neoplasms	
+homo sapiens	Culture Media	Neoplasms, Mesothelial	
+homo sapiens	Culture Media	No	
+homo sapiens	Diaphragm	No	
+homo sapiens	Duodenum	No	
+homo sapiens	Embryonic Stem Cells	No	
+homo sapiens	Endothelial Cells	No	
+homo sapiens	Endothelium, Lymphatic	No	
+homo sapiens	Epithelial Cells	Carcinoma, Bronchogenic	
+homo sapiens	Epithelial Cells	No	
+homo sapiens	Erythrocytes	No	
+homo sapiens	Exosomes	No	
+homo sapiens	Extracellular Fluid	No	
+homo sapiens	Eye	No	
+homo sapiens	Feces	No	
+homo sapiens	Fetal Blood	No	
+homo sapiens	Fibroblasts	No	
+homo sapiens	Follicular Fluid	No	
+homo sapiens	Gastrointestinal Contents	No	
+homo sapiens	HEK293 Cells	Kidney Neoplasms	
+homo sapiens	HEK293 Cells	No	
+homo sapiens	HT29 Cells	Colonic Neoplasms	
+homo sapiens	HeLa Cells	No	
+homo sapiens	Hep G2 Cells	No	
+homo sapiens	Heterografts	Neoplasms	
+homo sapiens	K562 Cells	No	
+homo sapiens	Keratinocytes	No	
+homo sapiens	Kidney	Carcinoma, Renal Cell	
+homo sapiens	Kidney	No	
+homo sapiens	Leukocytes	No	
+homo sapiens	Liver	Carcinoma, Hepatocellular	
+homo sapiens	Liver	Liver Neoplasms	
+homo sapiens	Liver	No	
+homo sapiens	Lung	Carcinoma, Bronchogenic	
+homo sapiens	Lung	No	
+homo sapiens	Mammary Glands, Human	No	
+homo sapiens	Mesenchymal Stem Cells	No	
+homo sapiens	Milk	No	
+homo sapiens	Milk, Human	No	DELETE
+homo sapiens	Muscle, Skeletal	No	
+homo sapiens	Ovary	Carcinoma, Ovarian Epithelial	
+homo sapiens	Ovary	No	
+homo sapiens	Ovary	Ovarian Neoplasms	
+homo sapiens	Pancreas	No	
+homo sapiens	Pancreas	Pancreatic Neoplasms	
+homo sapiens	Placenta	No	
+homo sapiens	Plasma	No	
+homo sapiens	Prostate	Prostatic Neoplasms	
+homo sapiens	Saliva	No	
+homo sapiens	Serum	No	
+homo sapiens	Skin	No	
+homo sapiens	Spermatozoa	No	
+homo sapiens	Sputum	No	
+homo sapiens	Stem Cells	No	
+homo sapiens	Synoviocytes	No	
+homo sapiens	T-Lymphocyte Subsets	No	
+homo sapiens	T-Lymphocytes	No	
+homo sapiens	Tissues	Neoplasms	
+homo sapiens	Tissues	No	
+homo sapiens	Trachea	No	
+homo sapiens	Urinary Bladder	Urinary Bladder Neoplasms	
+homo sapiens	Urine	No	
+hordeum vulgare	Plant Leaves	No	
+hordeum vulgare	Tissues	No	
+isochrysis galbana	Cells	No	
+juglans regia	Nuts	No	
+juglans regia	Plant Leaves	No	
+lactobacillales	Cells	No	
+lactuca sativa	Plant Leaves	No	
+lactuca sativa	Plant Roots	No	
+lactuca sativa	Seeds	No	
+lampsilis siliquoidea	Hemolymph	No	
+lolium perenne	Plant Leaves	No	
+lolium perenne	Plant Shoots	No	
+lumbricus terrestris	Cell Extracts	No	
+lumbricus terrestris	Tissues	No	
+lycopersicon esculentum	Fruit	No	
+lycopersicon esculentum	Xylem	No	
+macaca mulatta	Colon	No	
+macaca mulatta	Feces	No	
+macaca mulatta	Intestines	No	
+macaca mulatta	Liver	No	
+macaca mulatta	Lung	No	
+macaca mulatta	Plasma	No	
+macaca mulatta	Serum	No	
+malus x domestica	Fruit	No	
+medicago truncatula	Plant Leaves	No	
+medicago truncatula	Plant Roots	No	
+meleagris gallopavo	Cecum	No	
+meleagris gallopavo	Muscle, Skeletal	No	
+mentha piperita	Plant Leaves	No	
+mercenaria mercenaria	Animal Shells	No	
+merizodus soledadinus	Tissues	No	
+mesembryanthemum crystallinum	Trichomes	No	
+mesocricetus auratus	CHO Cells	No	
+mesocricetus auratus	Ovary	No	
+metacarcinus magister	Tissues	No	
+methylomonas denitrificans	Cells	No	
+methylomonas denitrificans	Culture Media	No	
+mirounga angustirostris	Plasma	No	
+momordica cochinchinensis	Plant Leaves	No	
+montipora capitata	Tissues	No	
+morinda citrifolia	Fruit and Vegetable Juices	No	
+mus musculus	Adipose Tissue	No	
+mus musculus	Adipose Tissue, Brown	No	
+mus musculus	Adipose Tissue, White	No	
+mus musculus	Adrenal Glands	No	
+mus musculus	Aorta	No	
+mus musculus	Ascitic Fluid	No	
+mus musculus	Bone Marrow	No	
+mus musculus	Brain	No	
+mus musculus	Bulbourethral Glands	No	
+mus musculus	Cecum	No	
+mus musculus	Cells	Neoplasms	
+mus musculus	Cells	No	
+mus musculus	Cells	Polycystic Kidney Diseases	
+mus musculus	Cells	Prostatic Neoplasms	
+mus musculus	Cerebellar Cortex	No	
+mus musculus	Cerebellum	No	
+mus musculus	Colon	No	
+mus musculus	Corpus Striatum	No	
+mus musculus	Culture Media	No	
+mus musculus	Epithelial Cells	No	
+mus musculus	Erythrocytes	No	
+mus musculus	Esophagus	No	
+mus musculus	Eye	No	
+mus musculus	Feces	No	
+mus musculus	Ganglia, Spinal	No	
+mus musculus	Gastrointestinal Contents	No	
+mus musculus	Heart	No	
+mus musculus	Heart Ventricles	No	
+mus musculus	Hep G2 Cells	No	
+mus musculus	Heterografts	Neoplasms	
+mus musculus	Hippocampus	No	
+mus musculus	Hypothalamus	No	
+mus musculus	Ileum	No	
+mus musculus	Intestine, Large	No	
+mus musculus	Intestine, Small	No	
+mus musculus	Intestines	No	
+mus musculus	Intra-Abdominal Fat	No	
+mus musculus	Kidney	No	
+mus musculus	Leukocytes	No	
+mus musculus	Liver	No	
+mus musculus	Lung	No	
+mus musculus	Macrophages, Peritoneal	No	
+mus musculus	Mammary Glands, Animal	No	
+mus musculus	Milk	No	
+mus musculus	Mouse Embryonic Stem Cells	No	
+mus musculus	Muscle Fibers, Skeletal	No	
+mus musculus	Muscle, Skeletal	No	
+mus musculus	Neurons	No	
+mus musculus	Peritoneal Cavity	No	
+mus musculus	Placenta	No	
+mus musculus	Plasma	No	
+mus musculus	Prostate	No	
+mus musculus	Pyloric Antrum	No	
+mus musculus	RAW 264.7 Cells	No	
+mus musculus	Sciatic Nerve	No	
+mus musculus	Serum	No	
+mus musculus	Skin	Carcinoma, Squamous Cell	
+mus musculus	Skin	No	
+mus musculus	Spinal Cord	No	
+mus musculus	Spleen	No	
+mus musculus	Stem Cells	No	
+mus musculus	Stomach	No	
+mus musculus	Subcutaneous Fat	No	
+mus musculus	T-Lymphocyte Subsets	No	
+mus musculus	T-Lymphocytes	No	
+mus musculus	Tissues	Neoplasms	
+mus musculus	Tissues	No	
+mus musculus	Trophoblasts	No	
+mus musculus	Urinary Bladder	No	
+mus musculus	Urine	No	
+mus sp.	Blood	No	
+mus sp.	Cerebellum	No	
+mus sp.	Muscle, Skeletal	No	
+mus sp.	Spleen	No	
+mus sp.	Urine	No	
+musa acuminata	Fruit	No	
+mycoplasma	Cells	No	
+nannochloropsis salina	Cells	No	
+nicotiana tabacum	Plant Leaves	No	
+olea europaea	Fruit	No	
+olea europaea	Plant Leaves	No	
+ornithogalum cuspidatum	Plant Leaves	No	
+oryctolagus cuniculus	Aorta	No	
+oryctolagus cuniculus	Heart	No	
+oryctolagus cuniculus	Plasma	No	
+oryctolagus cuniculus	Serum	No	
+oryza sativa	Extracellular Fluid	No	
+oryza sativa	Plant Leaves	No	
+oryza sativa	Seeds	No	
+ovis aries	Adipose Tissue, White	No	
+ovis aries	Amniotic Fluid	No	
+ovis aries	Blood	No	
+ovis aries	Brain	No	
+ovis aries	Carotid Arteries	No	
+ovis aries	Endometrium	No	
+ovis aries	Endothelial Cells	No	
+ovis aries	Endothelium, Lymphatic	No	
+ovis aries	Feces	No	
+ovis aries	Lung	No	
+ovis aries	Muscle, Skeletal	No	
+ovis aries	Plasma	No	
+ovis aries	Pulmonary Artery	No	
+ovis aries	Serum	No	
+ovis aries	Urine	No	
+ovis aries	Uterine Artery	No	
+pan troglodytes	Liver	No	
+panicum miliaceum	Tissues	No	
+papio hamadryas	Liver	No	
+parthenium argentatum	Plant Roots	No	
+perca fluviatilis	Liver	No	
+perkinsus marinus	Cells	No	
+phaeodactylum tricornutum	Cells	No	
+phaseolus	Plant Leaves	No	
+phaseolus	Plant Stems	No	
+phaseolus lunatus	Flowering Tops	No	
+phaseolus lunatus	Flowers	No	
+phaseolus lunatus	Fruit	No	
+phoenix canariensis	Plant Leaves	No	
+phyla dulcis	Plant Shoots	No	
+physalis philadelphica	Plant Leaves	No	
+phytophthora infestans	Mycelium	No	
+pichia pastoris	Cells	No	
+plasmodium falciparum	Erythrocytes	No	
+pocillopora damicornis	Tissues	No	
+populus tremula	Plant Leaves	No	
+populus tremula	Plant Stems	No	
+populus trichocarpa	Wood	No	
+propionibacterium	Cells	No	
+prunus persica	Fruit	No	
+prunus persica	Xylem	No	
+pseudomonas aeruginosa	Cells	No	
+pseudomonas aeruginosa	Culture Media	No	
+pseudomonas syringae	Cells	No	
+pteriomorphia	Gills	No	
+pteriomorphia	Gonads	No	
+pteriomorphia	Tissues	No	
+pteropoda	Tissues	No	
+quercus lobata	Plant Leaves	No	
+quillaja saponaria	Plant Leaves	No	
+quillaja saponaria	Plant Stems	No	
+ralstonia eutropha	Cells	No	
+rattus norvegicus	Kidney	No	
+rattus norvegicus	Lung	No	
+rattus norvegicus	Plasma	No	
+rattus norvegicus	Serum	No	
+rattus rattus	Brain	No	
+rattus rattus	Cecum	No	
+rattus rattus	Cerebellar Cortex	No	
+rattus rattus	Cerebrospinal Fluid	No	
+rattus rattus	Duodenum	No	
+rattus rattus	Esophagus	No	
+rattus rattus	Extracellular Fluid	No	
+rattus rattus	Feces	No	
+rattus rattus	Heart	No	
+rattus rattus	Ileum	No	
+rattus rattus	Kidney	No	
+rattus rattus	Liver	Carcinoma, Hepatocellular	
+rattus rattus	Liver	No	
+rattus rattus	Lung	No	
+rattus rattus	Muscle, Skeletal	No	
+rattus rattus	Nucleus Pulposus	No	
+rattus rattus	Plasma	No	
+rattus rattus	Prostate	No	
+rattus rattus	Serum	No	
+rattus rattus	Tissues	No	
+rattus rattus	Urine	No	
+saccharomyces cerevisiae	Cells	No	
+saccharomyces cerevisiae	Culture Media	No	
+saccharophagus degradans	Cells	No	
+saccharum officinarum	Plant Leaves	No	
+saccharum officinarum	Plant Roots	No	
+salmonella enterica	Cells	No	
+schrenkiella parvula	Plant Roots	No	
+schrenkiella parvula	Plant Shoots	No	
+selachii	Plasma	No	
+solanum lycopersicum	Cells	No	
+solanum lycopersicum	Fruit	No	
+solanum lycopersicum	Plant Leaves	No	
+solanum lycopersicum	Plant Roots	No	
+solanum lycopersicum	Plant Shoots	No	
+solanum lycopersicum	Tissues	No	
+solanum lycopersicum	Xylem	No	
+solanum tuberosum	Fruit	No	
+solanum tuberosum	Plant Tubers	No	
+sorghum	Plant Roots	No	
+spinacia oleracea	Plant Leaves	No	
+spinacia oleracea	Plant Roots	No	
+staphylococcus aureus	Cells	No	
+stevia rebaudiana	Plant Leaves	No	
+streptococcus mutans	Cells	No	
+streptococcus pneumoniae	Culture Media	No	
+streptomyces cattleya	Cells	No	
+sus domesticus	Brain	No	
+sus domesticus	Cells	No	
+sus domesticus	Colon	No	
+sus domesticus	Feces	No	
+sus domesticus	Hippocampus	No	
+sus domesticus	Jejunum	No	
+sus domesticus	Liver	No	
+sus domesticus	Lung	No	
+sus domesticus	Plasma	No	
+sus domesticus	Serum	No	
+sus scrofa domesticus	Brain	No	
+sus scrofa domesticus	Cecum	No	
+sus scrofa domesticus	Cerebrospinal Fluid	No	
+sus scrofa domesticus	Colon	No	
+sus scrofa domesticus	Colon, Ascending	No	
+sus scrofa domesticus	Duodenum	No	
+sus scrofa domesticus	Feces	No	
+sus scrofa domesticus	Ileum	No	
+sus scrofa domesticus	Jejunum	No	
+sus scrofa domesticus	Liver	No	
+sus scrofa domesticus	Plasma	No	
+sus scrofa domesticus	Rectum	No	
+sus scrofa domesticus	Serum	No	
+sus scrofa domesticus	Skin	No	
+sus scrofa domesticus	Urine	No	
+synechococcus	Cells	No	
+synechococcus elongatus	Cells	No	
+thalassiosira pseudonana	Cells	No	
+theobroma cacao	Plant Roots	No	
+toxoplasma gondii	Cells	No	
+trifolium pratense	Flowering Tops	No	
+trifolium repens	Tissues	No	
+triticum aestivum	Flour	No	
+triticum aestivum	Plant Components, Aerial	No	
+triticum aestivum	Plant Leaves	No	
+triticum aestivum	Plant Roots	No	
+triticum aestivum	Plant Stems	No	
+triticum aestivum	Seeds	No	
+trypanosoma brucei	Cells	No	
+vanilla	Plant Leaves	No	
+verrucomicrobia	Culture Media	No	
+vibrio fischeri	Cells	No	
+vicia faba	Extracellular Fluid	No	
+vigna radiata	Tissues	No	
+vitis vinifera	Fruit	No	
+vitis vinifera	Plant Leaves	No	
+vitis vinifera	Plant Shoots	No	
+vitis vinifera	Tissues	No	
+zea mays	Plant Leaves	No	
+zea mays	Plant Roots	No	
+zea mays	Seeds	No	
+zea mays	Soybeans	No	DELETE

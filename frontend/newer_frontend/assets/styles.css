@@ -1,0 +1,152 @@
+/* App layout */
+html {
+    overflow: scroll;
+    overflow-x: hidden;
+}
+
+/*
+::-webkit-scrollbar {
+    width: 0;
+    background: transparent;  
+}
+*/
+
+::-webkit-scrollbar-thumb {
+    background: #FF0000;
+}
+
+.app-layout {
+    font-family: sans-serif;
+    line-height: 20px;
+    /* border: black 1px solid; */
+}
+
+/* Tables and table container */
+.table-container {
+    margin-top: 4vh;
+    height: calc(100vh - 125px);
+}
+
+.dash-spreadsheet.dash-freeze-top, .dash-spreadsheet.dash-virtualized {
+    max-height: inherit !important;
+}
+
+.dash-table-container {
+    /* margin-top: 30px; */
+    max-height: calc(100vh - 15px);
+}
+
+.study-stats-table {
+    margin-top: 30px;
+}
+
+.cluster-stats-table {
+    margin-top: 4vh;
+    margin-bottom: 3vh;
+}
+
+tr, th, td {
+    font-size: 15px;
+}
+
+/* Plots and plot container */
+.cluster-plot {
+    margin-top: 1vh;
+}
+
+.plot-container {
+    margin-top: 4vh;
+    height: calc(38vh);
+}
+
+.linkage-plot-container {
+    margin-top: 8vh;
+}
+
+.spectral-plot-container {
+    margin-top: 3vh;
+    margin-bottom: 6vh;
+}
+
+.spectra-buttons {
+    width: 100%;
+    text-align: center;
+}
+
+/* Radio items */
+.phenotype-button {
+    margin-left: 15px;
+}
+
+.radio-group-container {
+    width: 100%;
+    text-align: center;
+    display: flex;
+    flex-wrap: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.add-margin-top-1 {
+    margin-top: 1px;
+}
+
+.radio-group .form-check {
+    padding-left: 0;
+    display: inline-block;
+}
+
+.radio-group .btn-group > .form-check:not(:last-child) > .btn {
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+}
+
+.radio-group .btn-group > .form-check:not(:first-child) > .btn {
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+    margin-left: -1px;
+}
+
+.venn-thumbnail-container {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height:100px;
+    width:100px;
+}
+
+.modal-overarching {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:100000px;
+}
+
+.sunburst-container {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;    
+    height:1000px;
+    width:1000px;
+}
+
+/*https://community.plotly.com/t/maintaining-formatting-with-markdown-in-datatable/52013*/
+p {
+    margin-bottom: 0;
+    text-align : center;
+ }
+
+/*https://community.plotly.com/t/backgroundcolor-dash/8694/2*/
+/*body { margin-bottom: '-17%'; height: 100%;border: 1px solid red; max-height: 2000px; background-color: lightblue;}*/
+body { background-color: #fff4e4;}
+
+
+.navbar-brand{
+    font-size: 50px;
+}
+
+.nav-link{
+    color: red;
+}
+
+/*.hr{ color:#1A3E68}*/
