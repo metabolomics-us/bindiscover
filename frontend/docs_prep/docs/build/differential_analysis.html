@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html class="writer-html5" lang="en" >
+<head>
+  <meta charset="utf-8" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Differential Analysis &mdash; BinDiscover 0.0 documentation</title>
+      <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+      <link rel="stylesheet" href="_static/css/theme.css" type="text/css" />
+  <!--[if lt IE 9]>
+    <script src="_static/js/html5shiv.min.js"></script>
+  <![endif]-->
+  
+        <script data-url_root="./" id="documentation_options" src="_static/documentation_options.js"></script>
+        <script src="_static/jquery.js"></script>
+        <script src="_static/underscore.js"></script>
+        <script src="_static/doctools.js"></script>
+        <script crossorigin="anonymous" integrity="sha256-Ae2Vz/4ePdIu6ZyI/5ZGsYnb+m0JlOmKPjt6XZ9JJkA=" src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.3.4/require.min.js"></script>
+        <script async="async" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+        <script>window.MathJax = {"tex": {"inlineMath": [["$", "$"], ["\\(", "\\)"]], "processEscapes": true}, "options": {"ignoreHtmlClass": "tex2jax_ignore|mathjax_ignore|document", "processHtmlClass": "tex2jax_process|mathjax_process|math|output_area"}}</script>
+    <script src="_static/js/theme.js"></script>
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" />
+    <link rel="next" title="Sunburst Diagram" href="sunburst.html" />
+    <link rel="prev" title="Phylometabolomic Trees" href="phylo_trees.html" /> 
+</head>
+
+<body class="wy-body-for-nav"> 
+  <div class="wy-grid-for-nav">
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search" >
+            <a href="index.html" class="icon icon-home"> BinDiscover
+          </a>
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+        </div><div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
+              <p class="caption" role="heading"><span class="caption-text">API</span></p>
+<ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="ontological_differential_analysis.html">Ontological Differential Analysis</a></li>
+<li class="toctree-l1"><a class="reference internal" href="phylo_trees.html">Phylometabolomic Trees</a></li>
+<li class="toctree-l1 current"><a class="current reference internal" href="#">Differential Analysis</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="#Summary">Summary</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#Step-1---Triplets">Step 1 - Triplets</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#Note:-Multiple-Triplets">Note: Multiple Triplets</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="#Step-2---Differential-Analysis">Step 2 - Differential Analysis</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="sunburst.html">Sunburst Diagram</a></li>
+<li class="toctree-l1"><a class="reference internal" href="upset.html">Upset Plot</a></li>
+<li class="toctree-l1"><a class="reference internal" href="binbrowser.html">BinBrowser</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">Value Tables</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="triplets.html">Triplets</a></li>
+<li class="toctree-l1"><a class="reference internal" href="compounds.html">Compounds</a></li>
+</ul>
+
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap"><nav class="wy-nav-top" aria-label="Mobile navigation menu" >
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="index.html">BinDiscover</a>
+      </nav>
+
+      <div class="wy-nav-content">
+        <div class="rst-content">
+          <div role="navigation" aria-label="Page navigation">
+  <ul class="wy-breadcrumbs">
+      <li><a href="index.html" class="icon icon-home"></a> &raquo;</li>
+      <li>Differential Analysis</li>
+      <li class="wy-breadcrumbs-aside">
+            <a href="_sources/differential_analysis.ipynb.txt" rel="nofollow"> View page source</a>
+      </li>
+  </ul>
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+             
+  
+<style>
+/* CSS overrides for sphinx_rtd_theme */
+
+/* 24px margin */
+.nbinput.nblast.container,
+.nboutput.nblast.container {
+    margin-bottom: 19px;  /* padding has already 5px */
+}
+
+/* ... except between code cells! */
+.nblast.container + .nbinput.container {
+    margin-top: -19px;
+}
+
+.admonition > p:before {
+    margin-right: 4px;  /* make room for the exclamation icon */
+}
+
+/* Fix math alignment, see https://github.com/rtfd/sphinx_rtd_theme/pull/686 */
+.math {
+    text-align: unset;
+}
+</style>
+<section id="Differential-Analysis">
+<h1>Differential Analysis<a class="headerlink" href="#Differential-Analysis" title="Permalink to this headline"></a></h1>
+<section id="Summary">
+<h2>Summary<a class="headerlink" href="#Summary" title="Permalink to this headline"></a></h2>
+<p>Doing “normal” differential analyhsis programatically is a two-step process. In the first step, sets of metadata triplets are created. In the second step, those sets are used as input to the actual calculator.</p>
+</section>
+<section id="Step-1---Triplets">
+<h2>Step 1 - Triplets<a class="headerlink" href="#Step-1---Triplets" title="Permalink to this headline"></a></h2>
+<p>Making a post request to</p>
+<div class="highlight-none notranslate"><div class="highlight"><pre><span></span>http://bindiscover.metabolomics.us:4999/leafmetadataresource/
+</pre></div>
+</div>
+<p>With the format</p>
+<div class="highlight-none notranslate"><div class="highlight"><pre><span></span>{
+    &quot;triplet_from&quot;: [&quot;zea mays - Plant Roots - No Disease&quot;,&quot;citrus sinensis - Plant Roots - No Disease&quot;], #any triplet from our data
+    &quot;triplet_to&quot;: [&quot;arabidopsis thaliana - Plant Roots - No Disease&quot;]
+}
+</pre></div>
+</div>
+<p>Where values are possible triplets will yield a record-oriented metadata table, e.g.</p>
+<div class="highlight-none notranslate"><div class="highlight"><pre><span></span>&quot;[
+    {\&quot;from_or_to\&quot;:\&quot;from\&quot;,\&quot;triplet_id\&quot;:\&quot;zea mays - Plant Roots - No Disease\&quot;,\&quot;sample_count\&quot;:359},{\&quot;from_or_to\&quot;:\&quot;from\&quot;,\&quot;triplet_id\&quot;:\&quot;citrus sinensis - Plant Roots - No Disease\&quot;,\&quot;sample_count\&quot;:12},
+    {\&quot;from_or_to\&quot;:\&quot;to\&quot;,\&quot;triplet_id\&quot;:\&quot;arabidopsis thaliana - Plant Roots - No Disease\&quot;,\&quot;sample_count\&quot;:408}
+]&quot;
+</pre></div>
+</div>
+<section id="Note:-Multiple-Triplets">
+<h3>Note: Multiple Triplets<a class="headerlink" href="#Note:-Multiple-Triplets" title="Permalink to this headline"></a></h3>
+<p>Normal differential analysis compares one triplet to another triplet. We see that we can combine multiple triplets here, without thinking about their relative positions in an ontology</p>
+</section>
+</section>
+<section id="Step-2---Differential-Analysis">
+<h2>Step 2 - Differential Analysis<a class="headerlink" href="#Step-2---Differential-Analysis" title="Permalink to this headline"></a></h2>
+<p>Making a post request to</p>
+<div class="highlight-none notranslate"><div class="highlight"><pre><span></span>http://bindiscover.metabolomics.us:4999/hgdaresource/
+</pre></div>
+</div>
+<p>with the format</p>
+<div class="highlight-none notranslate"><div class="highlight"><pre><span></span>{
+    &quot;metadata_datatable&quot;:
+        [
+            {\&quot;from_or_to\&quot;:\&quot;from\&quot;,\&quot;triplet_id\&quot;:\&quot;zea mays - Plant Roots - No Disease\&quot;,\&quot;sample_count\&quot;:359},{\&quot;from_or_to\&quot;:\&quot;from\&quot;,\&quot;triplet_id\&quot;:\&quot;citrus sinensis - Plant Roots - No Disease\&quot;,\&quot;sample_count\&quot;:12},
+            {\&quot;from_or_to\&quot;:\&quot;to\&quot;,\&quot;triplet_id\&quot;:\&quot;arabidopsis thaliana - Plant Roots - No Disease\&quot;,\&quot;sample_count\&quot;:408}
+        ],
+    &quot;bin_type&quot;:&quot;known&quot; #values are &#39;known&#39;, &#39;unknown&#39;, and &#39;class&#39; (compound classes)
+}
+</pre></div>
+</div>
+<p>will yield the core information for the differential analysis, eg</p>
+<div class="highlight-none notranslate"><div class="highlight"><pre><span></span>&quot;[
+    {\&quot;compound_id\&quot;: 14717, \&quot;identifier\&quot;: \&quot;OOWQBDFWEXAXPB-UHFFFAOYSA-N\&quot;, \&quot;english_name\&quot;: \&quot;hexadecylglycerol\&quot;, \&quot;bin_type_dict\&quot;: \&quot;known\&quot;, \&quot;significance_welch\&quot;: 0.6109507199, \&quot;fold_change_average\&quot;: 0.007302779200000001},
+    {\&quot;compound_id\&quot;: 2214, \&quot;identifier\&quot;: \&quot;LOLKAJARZKDJTD-UHFFFAOYSA-N\&quot;, \&quot;english_name\&quot;: \&quot;ethylsuccinate\&quot;, \&quot;bin_type_dict\&quot;: \&quot;known\&quot;, \&quot;significance_welch\&quot;: 0.1504452139, \&quot;fold_change_average\&quot;: -0.031181263}...
+&quot;
+</pre></div>
+</div>
+</section>
+</section>
+
+
+           </div>
+          </div>
+          <footer><div class="rst-footer-buttons" role="navigation" aria-label="Footer">
+        <a href="phylo_trees.html" class="btn btn-neutral float-left" title="Phylometabolomic Trees" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left" aria-hidden="true"></span> Previous</a>
+        <a href="sunburst.html" class="btn btn-neutral float-right" title="Sunburst Diagram" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right" aria-hidden="true"></span></a>
+    </div>
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>&#169; Copyright 2023, Parker Bremer.</p>
+  </div>
+
+  Built with <a href="https://www.sphinx-doc.org/">Sphinx</a> using a
+    <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a>
+    provided by <a href="https://readthedocs.org">Read the Docs</a>.
+   
+
+</footer>
+        </div>
+      </div>
+    </section>
+  </div>
+  <script>
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script> 
+
+</body>
+</html>

@@ -1,0 +1,659 @@
+<!DOCTYPE html>
+<html class="writer-html5" lang="en" >
+<head>
+  <meta charset="utf-8" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Triplets &mdash; BinDiscover 0.0 documentation</title>
+      <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+      <link rel="stylesheet" href="_static/css/theme.css" type="text/css" />
+  <!--[if lt IE 9]>
+    <script src="_static/js/html5shiv.min.js"></script>
+  <![endif]-->
+  
+        <script data-url_root="./" id="documentation_options" src="_static/documentation_options.js"></script>
+        <script src="_static/jquery.js"></script>
+        <script src="_static/underscore.js"></script>
+        <script src="_static/doctools.js"></script>
+        <script crossorigin="anonymous" integrity="sha256-Ae2Vz/4ePdIu6ZyI/5ZGsYnb+m0JlOmKPjt6XZ9JJkA=" src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.3.4/require.min.js"></script>
+        <script async="async" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+        <script>window.MathJax = {"tex": {"inlineMath": [["$", "$"], ["\\(", "\\)"]], "processEscapes": true}, "options": {"ignoreHtmlClass": "tex2jax_ignore|mathjax_ignore|document", "processHtmlClass": "tex2jax_process|mathjax_process|math|output_area"}}</script>
+    <script src="_static/js/theme.js"></script>
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" />
+    <link rel="next" title="Compounds" href="compounds.html" />
+    <link rel="prev" title="BinBrowser" href="binbrowser.html" /> 
+</head>
+
+<body class="wy-body-for-nav"> 
+  <div class="wy-grid-for-nav">
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search" >
+            <a href="index.html" class="icon icon-home"> BinDiscover
+          </a>
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+        </div><div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
+              <p class="caption" role="heading"><span class="caption-text">API</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="ontological_differential_analysis.html">Ontological Differential Analysis</a></li>
+<li class="toctree-l1"><a class="reference internal" href="phylo_trees.html">Phylometabolomic Trees</a></li>
+<li class="toctree-l1"><a class="reference internal" href="differential_analysis.html">Differential Analysis</a></li>
+<li class="toctree-l1"><a class="reference internal" href="sunburst.html">Sunburst Diagram</a></li>
+<li class="toctree-l1"><a class="reference internal" href="upset.html">Upset Plot</a></li>
+<li class="toctree-l1"><a class="reference internal" href="binbrowser.html">BinBrowser</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">Value Tables</span></p>
+<ul class="current">
+<li class="toctree-l1 current"><a class="current reference internal" href="#">Triplets</a></li>
+<li class="toctree-l1"><a class="reference internal" href="compounds.html">Compounds</a></li>
+</ul>
+
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap"><nav class="wy-nav-top" aria-label="Mobile navigation menu" >
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="index.html">BinDiscover</a>
+      </nav>
+
+      <div class="wy-nav-content">
+        <div class="rst-content">
+          <div role="navigation" aria-label="Page navigation">
+  <ul class="wy-breadcrumbs">
+      <li><a href="index.html" class="icon icon-home"></a> &raquo;</li>
+      <li>Triplets</li>
+      <li class="wy-breadcrumbs-aside">
+            <a href="_sources/triplets.ipynb.txt" rel="nofollow"> View page source</a>
+      </li>
+  </ul>
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+             
+  
+<style>
+/* CSS overrides for sphinx_rtd_theme */
+
+/* 24px margin */
+.nbinput.nblast.container,
+.nboutput.nblast.container {
+    margin-bottom: 19px;  /* padding has already 5px */
+}
+
+/* ... except between code cells! */
+.nblast.container + .nbinput.container {
+    margin-top: -19px;
+}
+
+.admonition > p:before {
+    margin-right: 4px;  /* make room for the exclamation icon */
+}
+
+/* Fix math alignment, see https://github.com/rtfd/sphinx_rtd_theme/pull/686 */
+.math {
+    text-align: unset;
+}
+</style>
+<section id="Triplets">
+<h1>Triplets<a class="headerlink" href="#Triplets" title="Permalink to this headline"></a></h1>
+<p>The following triplets are possible value choices for known compounds in BinDiscover</p>
+<div class="highlight-none notranslate"><div class="highlight"><pre><span></span>danio rerio - Embryonic Structures - No Disease
+pteriomorphia - Tissues - No Disease
+sus scrofa domesticus - Plasma - No Disease
+lactuca sativa - Plant Roots - No Disease
+olea europaea - Fruit - No Disease
+macaca mulatta - Serum - No Disease
+glycine max - Soybeans - No Disease
+homo sapiens - Cells - No Disease
+homo sapiens - Plasma - No Disease
+mus musculus - Leukocytes - No Disease
+atractylodes lancea - Plant Roots - No Disease
+morinda citrifolia - Fruit and Vegetable Juice...
+vitis vinifera - Tissues - No Disease
+oryza sativa - Plant Leaves - No Disease
+mus musculus - Intra-Abdominal Fat - No Disease
+bos taurus - Plasma - No Disease
+arabidopsis thaliana - Plant Roots - No Disease
+momordica cochinchinensis - Plant Leaves - No ...
+apis mellifera - Rectum - No Disease
+homo sapiens - Milk - No Disease
+ovis aries - Adipose Tissue, White - No Disease
+mus musculus - Muscle Fibers, Skeletal - No Di...
+homo sapiens - Adipose Tissue, White - No Disease
+phaseolus lunatus - Fruit - No Disease
+zea mays - Plant Leaves - No Disease
+dioscorea polystachya - Tissues - No Disease
+bos taurus - Urine - No Disease
+astyanax mexicanus - Liver - No Disease
+pseudomonas aeruginosa - Culture Media - No Di...
+phaseolus - Plant Stems - No Disease
+homo sapiens - Keratinocytes - No Disease
+homo sapiens - Hep G2 Cells - No Disease
+streptococcus mutans - Cells - No Disease
+quillaja saponaria - Plant Leaves - No Disease
+schrenkiella parvula - Plant Roots - No Disease
+pan troglodytes - Liver - No Disease
+drosophila melanogaster - Tissues - No Disease
+homo sapiens - Liver - No Disease
+homo sapiens - Skin - No Disease
+arachis hypogaea - Plant Leaves - No Disease
+homo sapiens - Ovary - Carcinoma, Ovarian Epit...
+callosobruchus maculatus - Tissues - No Disease
+escherichia coli - Culture Media - No Disease
+astyanax mexicanus - Muscle, Skeletal - No Dis...
+streptomyces cattleya - Cells - No Disease
+macaca mulatta - Colon - No Disease
+homo sapiens - Pancreas - Pancreatic Neoplasms
+mus musculus - T-Lymphocytes - No Disease
+mus sp. - Blood - No Disease
+homo sapiens - Blood Platelets - No Disease
+brassica napus - Plant Roots - No Disease
+eisenia fetida - Tissues - No Disease
+mus musculus - Adipose Tissue - No Disease
+homo sapiens - Colon - Colonic Neoplasms
+oryctolagus cuniculus - Serum - No Disease
+rattus rattus - Heart - No Disease
+homo sapiens - Epithelial Cells - No Disease
+macaca mulatta - Plasma - No Disease
+ovis aries - Muscle, Skeletal - No Disease
+gossypium - Fruit - No Disease
+brachypodium - Plant Leaves - No Disease
+caenorhabditis elegans - Tissues - No Disease
+solanum lycopersicum - Plant Roots - No Disease
+sus scrofa domesticus - Liver - No Disease
+homo sapiens - Blood - No Disease
+mus musculus - Ganglia, Spinal - No Disease
+parthenium argentatum - Plant Roots - No Disease
+drosophila melanogaster - Head - No Disease
+chlorella protothecoides - Cells - No Disease
+merizodus soledadinus - Tissues - No Disease
+ovis aries - Brain - No Disease
+desulfovibrio desulfuricans - Culture Media - ...
+arabidopsis thaliana - Cotyledon - No Disease
+sus scrofa domesticus - Brain - No Disease
+chlamydomonas nivalis - Cells - No Disease
+citrus - Plant Leaves - No Disease
+arabidopsis thaliana - Pollen - No Disease
+halobacterium salinarum - Cells - No Disease
+medicago truncatula - Plant Roots - No Disease
+homo sapiens - Prostate - Prostatic Neoplasms
+gallus gallus domesticus - Cells - No Disease
+mus musculus - Sciatic Nerve - No Disease
+methylomonas denitrificans - Cells - No Disease
+mercenaria mercenaria - Animal Shells - No Dis...
+sus domesticus - Liver - No Disease
+brettanomyces bruxellensis - Cells - No Disease
+meleagris gallopavo - Muscle, Skeletal - No Di...
+sus domesticus - Feces - No Disease
+saccharomyces cerevisiae - Cells - No Disease
+sus domesticus - Cells - No Disease
+bos primigenius - Plasma - No Disease
+homo sapiens - Fibroblasts - No Disease
+homo sapiens - Cells - Maple Syrup Urine Disease
+rattus rattus - Urine - No Disease
+auxenochlorella protothecoides - Cells - No Di...
+mus musculus - Colon - No Disease
+triticum aestivum - Seeds - No Disease
+homo sapiens - Gastrointestinal Contents - No ...
+phaseolus lunatus - Flowering Tops - No Disease
+mus musculus - Epithelial Cells - No Disease
+mus musculus - Muscle, Skeletal - No Disease
+sus scrofa domesticus - Ileum - No Disease
+verrucomicrobia - Culture Media - No Disease
+beta vulgaris - Plant Leaves - No Disease
+homo sapiens - Muscle, Skeletal - No Disease
+mus musculus - Hep G2 Cells - No Disease
+citrus sinensis - Plant Leaves - No Disease
+mesembryanthemum crystallinum - Trichomes - No...
+homo sapiens - Endothelium, Lymphatic - No Dis...
+pseudomonas aeruginosa - Cells - No Disease
+euglena gracilis - Cells - No Disease
+dehalococcoides mccartyi - Culture Media, Cond...
+mus musculus - Intestine, Small - No Disease
+arabidopsis thaliana - Plant Shoots - No Disease
+mus musculus - Trophoblasts - No Disease
+chenopodium quinoa - Plant Leaves - No Disease
+homo sapiens - Follicular Fluid - No Disease
+rattus rattus - Kidney - No Disease
+gossypium - Plant Stems - No Disease
+eriobotrya japonica - Plant Leaves - No Disease
+sus scrofa domesticus - Skin - No Disease
+ovis aries - Carotid Arteries - No Disease
+mus sp. - Cerebellum - No Disease
+meleagris gallopavo - Cecum - No Disease
+rattus rattus - Plasma - No Disease
+rattus rattus - Liver - No Disease
+mus musculus - Cells - Prostatic Neoplasms
+homo sapiens - Lung - Carcinoma, Bronchogenic
+eutrema salsugineum - Plant Roots - No Disease
+ovis aries - Plasma - No Disease
+gallus gallus domesticus - Lung - No Disease
+coffea liberica - Seeds - No Disease
+prunus persica - Fruit - No Disease
+capra aegagrus hircus - Milk - No Disease
+homo sapiens - Exosomes - No Disease
+ovis aries - Serum - No Disease
+brassica - Plant Leaves - No Disease
+chlorella vulgaris - Cells - No Disease
+mus musculus - Tissues - Neoplasms
+pteriomorphia - Gonads - No Disease
+mus musculus - Mammary Glands, Animal - No Dis...
+synechococcus elongatus - Cells - No Disease
+chlamydomonas - Cells - No Disease
+mus musculus - Stem Cells - No Disease
+gallus domesticus - Liver - No Disease
+homo sapiens - Culture Media - Neoplasms, Meso...
+homo sapiens - Epithelial Cells - Carcinoma, B...
+spinacia oleracea - Plant Leaves - No Disease
+physalis philadelphica - Plant Leaves - No Dis...
+oryctolagus cuniculus - Plasma - No Disease
+bos taurus - Serum - No Disease
+bos taurus - Uterus - No Disease
+mus musculus - Spleen - No Disease
+homo sapiens - Cells - Neoplasms
+rattus rattus - Prostate - No Disease
+sus domesticus - Serum - No Disease
+drosophila melanogaster - Larva - No Disease
+pocillopora damicornis - Tissues - No Disease
+homo sapiens - Tissues - No Disease
+mus musculus - Cerebellar Cortex - No Disease
+mus musculus - Heart Ventricles - No Disease
+mus musculus - Cerebellum - No Disease
+mus musculus - Hippocampus - No Disease
+homo sapiens - Kidney - Carcinoma, Renal Cell
+felis catus - Serum - No Disease
+triticum aestivum - Plant Roots - No Disease
+medicago truncatula - Plant Leaves - No Disease
+lampsilis siliquoidea - Hemolymph - No Disease
+homo sapiens - Leukocytes - No Disease
+solanum lycopersicum - Plant Leaves - No Disease
+ornithogalum cuspidatum - Plant Leaves - No Di...
+macaca mulatta - Feces - No Disease
+malus x domestica - Fruit - No Disease
+bos taurus - Muscle, Skeletal - No Disease
+citrus sinensis - Flowering Tops - No Disease
+homo sapiens - Cerebrospinal Fluid - No Disease
+felis catus - Plasma - No Disease
+staphylococcus aureus - Cells - No Disease
+citrus reticulata - Plant Leaves - No Disease
+ovis aries - Pulmonary Artery - No Disease
+homo sapiens - HEK293 Cells - Kidney Neoplasms
+pteriomorphia - Gills - No Disease
+cucumis melo - Xylem - No Disease
+toxoplasma gondii - Cells - No Disease
+mus musculus - Intestine, Large - No Disease
+mentha piperita - Plant Leaves - No Disease
+oryctolagus cuniculus - Aorta - No Disease
+sus domesticus - Colon - No Disease
+oryza sativa - Seeds - No Disease
+vitis vinifera - Plant Shoots - No Disease
+chelonioidea - Serum - No Disease
+musa acuminata - Fruit - No Disease
+homo sapiens - Lung - No Disease
+mus musculus - Bulbourethral Glands - No Disease
+citrus sinensis - Plant Roots - No Disease
+homo sapiens - HEK293 Cells - No Disease
+citrus - Plant Roots - No Disease
+canis lupus familiaris - Cerebrospinal Fluid -...
+mus musculus - Skin - No Disease
+trifolium repens - Tissues - No Disease
+mus musculus - T-Lymphocyte Subsets - No Disease
+sus scrofa domesticus - Cecum - No Disease
+homo sapiens - Urinary Bladder - Urinary Bladd...
+ovis aries - Uterine Artery - No Disease
+sus domesticus - Plasma - No Disease
+felis catus - Feces - No Disease
+lolium perenne - Plant Shoots - No Disease
+macaca mulatta - Lung - No Disease
+populus tremula - Plant Stems - No Disease
+gossypium hirsutum - Extracellular Fluid - No ...
+bacillus subtilis - Cells - No Disease
+homo sapiens - Mammary Glands, Human - No Disease
+aspergillus oryzae - Cells - No Disease
+camelus - Milk - No Disease
+prunus persica - Xylem - No Disease
+homo sapiens - Ovary - Ovarian Neoplasms
+homo sapiens - Urine - No Disease
+isochrysis galbana - Cells - No Disease
+arabidopsis - Plant Leaves - No Disease
+mesocricetus auratus - CHO Cells - No Disease
+gallus gallus domesticus - Liver - No Disease
+methylomonas denitrificans - Culture Media - N...
+mus musculus - Adipose Tissue, White - No Disease
+olea europaea - Plant Leaves - No Disease
+phyla dulcis - Plant Shoots - No Disease
+homo sapiens - Embryonic Stem Cells - No Disease
+homo sapiens - Brain - No Disease
+rattus norvegicus - Kidney - No Disease
+mus musculus - Corpus Striatum - No Disease
+homo sapiens - Feces - No Disease
+bos taurus - Chromaffin Cells - No Disease
+rattus rattus - Duodenum - No Disease
+homo sapiens - HeLa Cells - No Disease
+mus musculus - RAW 264.7 Cells - No Disease
+gossypium - Plant Leaves - No Disease
+salmonella enterica - Cells - No Disease
+aedes aegypti - Tissues - No Disease
+solanum tuberosum - Plant Tubers - No Disease
+saccharomyces cerevisiae - Culture Media - No ...
+homo sapiens - Fetal Blood - No Disease
+sus domesticus - Lung - No Disease
+homo sapiens - Extracellular Fluid - No Disease
+mesocricetus auratus - Ovary - No Disease
+rattus rattus - Muscle, Skeletal - No Disease
+mus musculus - Ileum - No Disease
+mus musculus - Eye - No Disease
+faecalibacterium prausnitzii - Extracellular F...
+equus caballus - Serum - No Disease
+caenorhabditis elegans - Cells - No Disease
+lycopersicon esculentum - Fruit - No Disease
+cavia porcellus - Plasma - No Disease
+saccharum officinarum - Plant Roots - No Disease
+chlamydomonas reinhardtii - Cells - No Disease
+perca fluviatilis - Liver - No Disease
+juglans regia - Plant Leaves - No Disease
+mus musculus - Macrophages, Peritoneal - No Di...
+phaeodactylum tricornutum - Cells - No Disease
+mus musculus - Tissues - No Disease
+selachii - Plasma - No Disease
+spinacia oleracea - Plant Roots - No Disease
+halomonas elongata - Cells - No Disease
+mus musculus - Urine - No Disease
+coffea - Cells - No Disease
+panicum miliaceum - Tissues - No Disease
+mus musculus - Neurons - No Disease
+homo sapiens - Tissues - Neoplasms
+quillaja saponaria - Plant Stems - No Disease
+canis lupus familiaris - Plasma - No Disease
+sus scrofa domesticus - Jejunum - No Disease
+mus sp. - Urine - No Disease
+fragaria ananassa - Plant Leaves - No Disease
+bos taurus - Cerebrospinal Fluid - No Disease
+homo sapiens - Ovary - No Disease
+rattus rattus - Tissues - No Disease
+phaseolus lunatus - Flowers - No Disease
+sus scrofa domesticus - Urine - No Disease
+mycoplasma - Cells - No Disease
+rattus rattus - Feces - No Disease
+vigna radiata - Tissues - No Disease
+elaeis guineensis - Seeds - No Disease
+chlorophyta - Cells - No Disease
+canis lupus familiaris - Serum - No Disease
+nicotiana tabacum - Plant Leaves - No Disease
+sus scrofa domesticus - Colon - No Disease
+gallus gallus domesticus - Plasma - No Disease
+rattus rattus - Cecum - No Disease
+drosophila suzukii - Tissues - No Disease
+cryptococcus neoformans - Cells - No Disease
+solanum lycopersicum - Xylem - No Disease
+hordeum vulgare - Tissues - No Disease
+coffea - Seeds - No Disease
+vitis vinifera - Plant Leaves - No Disease
+pteropoda - Tissues - No Disease
+thalassiosira pseudonana - Cells - No Disease
+quercus lobata - Plant Leaves - No Disease
+mus musculus - Cells - Polycystic Kidney Diseases
+rattus rattus - Brain - No Disease
+juglans regia - Nuts - No Disease
+beta vulgaris - Plant Roots - No Disease
+homo sapiens - Alveolar Epithelial Cells - No ...
+mus musculus - Prostate - No Disease
+homo sapiens - Cells - Leukemia, Myeloid, Chro...
+streptococcus pneumoniae - Culture Media - No ...
+bos taurus - Liver - No Disease
+phytophthora infestans - Mycelium - No Disease
+homo sapiens - Erythrocytes - No Disease
+ovis aries - Amniotic Fluid - No Disease
+mus sp. - Muscle, Skeletal - No Disease
+nannochloropsis salina - Cells - No Disease
+theobroma cacao - Plant Roots - No Disease
+vanilla - Plant Leaves - No Disease
+mus musculus - Cells - No Disease
+carabidae - Tissues - No Disease
+rattus rattus - Lung - No Disease
+clostridium - Cells - No Disease
+cucumis sativus - Plant Roots - No Disease
+mus musculus - Urinary Bladder - No Disease
+rattus rattus - Extracellular Fluid - No Disease
+homo sapiens - Pancreas - No Disease
+astyanax mexicanus - Brain - No Disease
+bacillus thuringiensis - Cells - No Disease
+homo sapiens - Cells - Multiple Myeloma
+lumbricus terrestris - Tissues - No Disease
+rattus rattus - Serum - No Disease
+chlorella minutissima - Cells - No Disease
+papio hamadryas - Liver - No Disease
+canis lupus familiaris - Urine - No Disease
+saccharophagus degradans - Cells - No Disease
+arabidopsis thaliana - Plant Leaves - No Disease
+sus domesticus - Brain - No Disease
+mus musculus - Lung - No Disease
+ovis aries - Urine - No Disease
+mus musculus - Heart - No Disease
+triticum aestivum - Plant Stems - No Disease
+homo sapiens - Adrenal Glands - Adrenal Cortex...
+glycine max - Seeds - No Disease
+equus caballus - Cecum - No Disease
+arabidopsis - Plant Roots - No Disease
+mus musculus - Erythrocytes - No Disease
+boechera stricta - Plant Leaves - No Disease
+mus musculus - Spinal Cord - No Disease
+homo sapiens - Trachea - No Disease
+rattus norvegicus - Lung - No Disease
+equus caballus - Spinal Cord - No Disease
+zea mays - Plant Roots - No Disease
+homo sapiens - Heterografts - Neoplasms
+mus musculus - Plasma - No Disease
+lumbricus terrestris - Cell Extracts - No Disease
+apis mellifera - Ileum - No Disease
+vicia faba - Extracellular Fluid - No Disease
+mirounga angustirostris - Plasma - No Disease
+homo sapiens - Liver - Carcinoma, Hepatocellular
+glycine max - Plant Roots - No Disease
+ovis aries - Blood - No Disease
+mus musculus - Gastrointestinal Contents - No ...
+cucurbita maxima - Plant Leaves - No Disease
+bos taurus - Milk - No Disease
+mus musculus - Intestines - No Disease
+mus musculus - Culture Media - No Disease
+escherichia coli - Cells - No Disease
+sus scrofa domesticus - Duodenum - No Disease
+mus musculus - Hypothalamus - No Disease
+homo sapiens - T-Lymphocyte Subsets - No Disease
+saccharum officinarum - Plant Leaves - No Disease
+synechococcus - Cells - No Disease
+ovis aries - Feces - No Disease
+homo sapiens - T-Lymphocytes - No Disease
+homo sapiens - Sputum - No Disease
+perkinsus marinus - Cells - No Disease
+populus trichocarpa - Wood - No Disease
+homo sapiens - HT29 Cells - Colonic Neoplasms
+mus musculus - Kidney - No Disease
+sus scrofa domesticus - Rectum - No Disease
+sus scrofa domesticus - Feces - No Disease
+aedes aegypti - Gastrointestinal Tract - No Di...
+sorghum - Plant Roots - No Disease
+homo sapiens - Cells - Neoplasms, Mesothelial
+metacarcinus magister - Tissues - No Disease
+propionibacterium - Cells - No Disease
+lactobacillales - Cells - No Disease
+lycopersicon esculentum - Xylem - No Disease
+mus musculus - Adrenal Glands - No Disease
+mus musculus - Feces - No Disease
+mus musculus - Bone Marrow - No Disease
+ficus carica - Fruit - No Disease
+brassica napus - Plant Shoots - No Disease
+chlorella sorokiniana - Cells - No Disease
+phoenix canariensis - Plant Leaves - No Disease
+oryza sativa - Extracellular Fluid - No Disease
+rattus rattus - Cerebrospinal Fluid - No Disease
+triticum aestivum - Plant Leaves - No Disease
+schrenkiella parvula - Plant Shoots - No Disease
+apis mellifera - Gastrointestinal Tract - No D...
+canis lupus familiaris - Feces - No Disease
+ovis aries - Endothelium, Lymphatic - No Disease
+homo sapiens - Kidney - No Disease
+felis catus - Urine - No Disease
+botrytis fuckeliana - Cells - No Disease
+ovis aries - Lung - No Disease
+mus musculus - Stomach - No Disease
+mus musculus - Cecum - No Disease
+mus musculus - Skin - Carcinoma, Squamous Cell
+glycine max - Plant Stems - No Disease
+lolium perenne - Plant Leaves - No Disease
+homo sapiens - Breast - Breast Neoplasms
+homo sapiens - Cells - Prostatic Neoplasms
+stevia rebaudiana - Plant Leaves - No Disease
+mus sp. - Spleen - No Disease
+homo sapiens - Duodenum - No Disease
+homo sapiens - Placenta - No Disease
+plasmodium falciparum - Erythrocytes - No Disease
+trifolium pratense - Flowering Tops - No Disease
+mus musculus - Brain - No Disease
+eutrema salsugineum - Plant Shoots - No Disease
+solanum lycopersicum - Plant Shoots - No Disease
+rattus rattus - Cerebellar Cortex - No Disease
+ovis aries - Endothelial Cells - No Disease
+arabidopsis thaliana - Tissues - No Disease
+mus musculus - Subcutaneous Fat - No Disease
+mus musculus - Adipose Tissue, Brown - No Disease
+sus domesticus - Jejunum - No Disease
+montipora capitata - Tissues - No Disease
+rattus norvegicus - Plasma - No Disease
+triticum aestivum - Plant Components, Aerial -...
+gallus gallus domesticus - Feces - No Disease
+solanum lycopersicum - Fruit - No Disease
+trypanosoma brucei - Cells - No Disease
+bos taurus - Culture Media - No Disease
+bos taurus - Follicular Fluid - No Disease
+arabidopsis thaliana - Flowers - No Disease
+homo sapiens - Cells - Glioblastoma
+mus musculus - Peritoneal Cavity - No Disease
+macaca mulatta - Liver - No Disease
+macaca mulatta - Intestines - No Disease
+bos taurus - Feces - No Disease
+homo sapiens - Cervix Mucus - No Disease
+solanum tuberosum - Fruit - No Disease
+mus musculus - Pyloric Antrum - No Disease
+pichia pastoris - Cells - No Disease
+oryctolagus cuniculus - Heart - No Disease
+mus musculus - Placenta - No Disease
+lactuca sativa - Seeds - No Disease
+equus caballus - Feces - No Disease
+rattus rattus - Nucleus Pulposus - No Disease
+brassica - Plant Roots - No Disease
+homo sapiens - Amniotic Fluid - No Disease
+rattus rattus - Liver - Carcinoma, Hepatocellular
+rattus rattus - Ileum - No Disease
+arabidopsis thaliana - Seeds - No Disease
+mus musculus - Mouse Embryonic Stem Cells - No...
+brassica rapa - Plant Leaves - No Disease
+zea mays - Seeds - No Disease
+homo sapiens - Capillaries - No Disease
+homo sapiens - Mesenchymal Stem Cells - No Dis...
+phaseolus - Plant Leaves - No Disease
+equus caballus - Plasma - No Disease
+mus musculus - Serum - No Disease
+homo sapiens - Endothelial Cells - No Disease
+gossypium - Flowers - No Disease
+fragaria ananassa - Fruit - No Disease
+rattus norvegicus - Serum - No Disease
+arabidopsis - Tissues - No Disease
+coffea canephora - Seeds - No Disease
+solanum lycopersicum - Cells - No Disease
+sus domesticus - Hippocampus - No Disease
+homo sapiens - Saliva - No Disease
+mus musculus - Liver - No Disease
+mus musculus - Milk - No Disease
+felis catus - Kidney - No Disease
+aspergillus fumigatus - Cells - No Disease
+arabidopsis thaliana - Extracellular Fluid - N...
+sus scrofa domesticus - Serum - No Disease
+apis mellifera - Hemolymph - No Disease
+citrus sinensis - Fruit - No Disease
+homo sapiens - Spermatozoa - No Disease
+mus musculus - Aorta - No Disease
+vitis vinifera - Fruit - No Disease
+gossypium - Seeds - No Disease
+clostridium perfringens - Cells - No Disease
+rattus rattus - Esophagus - No Disease
+pseudomonas syringae - Cells - No Disease
+capra aegagrus hircus - Plasma - No Disease
+homo sapiens - Blood Cells - No Disease
+homo sapiens - Stem Cells - No Disease
+vibrio fischeri - Cells - No Disease
+populus tremula - Plant Leaves - No Disease
+bifidobacterium - Culture Media, Conditioned -...
+apis mellifera - Head - No Disease
+sus scrofa domesticus - Cerebrospinal Fluid - ...
+cyprinodon diabolis - Muscle, Skeletal - No Di...
+mus musculus - Ascitic Fluid - No Disease
+homo sapiens - Colon - Colorectal Neoplasms
+mus musculus - Heterografts - Neoplasms
+sus scrofa domesticus - Colon, Ascending - No ...
+homo sapiens - Eye - No Disease
+faecalibacterium prausnitzii - Cells - No Disease
+cucumis sativus - Plant Leaves - No Disease
+homo sapiens - Diaphragm - No Disease
+homo sapiens - Culture Media - No Disease
+ovis aries - Endometrium - No Disease
+hordeum vulgare - Plant Leaves - No Disease
+lactuca sativa - Plant Leaves - No Disease
+solanum lycopersicum - Tissues - No Disease
+anthophila - Pollen - No Disease
+homo sapiens - Liver - Liver Neoplasms
+mus musculus - Cells - Neoplasms
+homo sapiens - Cells - Colonic Neoplasms
+capra aegagrus hircus - Serum - No Disease
+homo sapiens - Synoviocytes - No Disease
+triticum aestivum - Flour - No Disease
+mus musculus - Esophagus - No Disease
+caryocar - Seeds - No Disease
+homo sapiens - Serum - No Disease
+homo sapiens - K562 Cells - No Disease
+helicobacter pylori - Culture Media - No Disease
+</pre></div>
+</div>
+</section>
+
+
+           </div>
+          </div>
+          <footer><div class="rst-footer-buttons" role="navigation" aria-label="Footer">
+        <a href="binbrowser.html" class="btn btn-neutral float-left" title="BinBrowser" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left" aria-hidden="true"></span> Previous</a>
+        <a href="compounds.html" class="btn btn-neutral float-right" title="Compounds" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right" aria-hidden="true"></span></a>
+    </div>
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>&#169; Copyright 2023, Parker Bremer.</p>
+  </div>
+
+  Built with <a href="https://www.sphinx-doc.org/">Sphinx</a> using a
+    <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a>
+    provided by <a href="https://readthedocs.org">Read the Docs</a>.
+   
+
+</footer>
+        </div>
+      </div>
+    </section>
+  </div>
+  <script>
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script> 
+
+</body>
+</html>

@@ -184,5 +184,6 @@ dependencies:
   - zipp=3.11.0=pyhd8ed1ab_0
   - zstd=1.5.2=h6239696_4
   - pip:
+    - dash-player==1.1.0
     - tanglegram==0.2.0
 prefix: /home/rictuar/anaconda3/envs/binvestigate_gui_2

@@ -27,7 +27,7 @@ dash.register_page(__name__)
 
 #when containerized, the url is not the local 127.0.0.1
 base_url_api = f"http://api_alias:4999/"
-#base_url_api = f"http://127.0.0.1:4999/"
+# base_url_api = f"http://127.0.0.1:4999/"
 
 #populate constants for functionality#########
 species_networkx,species_node_dict=hierarchical_differential_analysis_helper.extract_networkx_selections_species()
@@ -348,12 +348,14 @@ def query_table(
         raise PreventUpdate
 
     input_metadata=pd.DataFrame.from_records(tree_table_metadata_derived_virtual_data)
+    print(input_metadata.triplet_id.tolist())
 
     tree_output={
         "metadata_triplets":input_metadata.triplet_id.tolist(),
         "bin_type":'knowns',
         "data_type":'percent_present'
     }
+    
 
     response = requests.post(base_url_api + "/treeresource/", json=tree_output)
 

@@ -12,15 +12,17 @@ app = dash.Dash(__name__, use_pages=True, external_stylesheets=[dbc.themes.BOOTS
 
 #custom ordering of navbar
 my_page_link_list=[
-    dbc.NavLink('Home', href='/',style = {'color': 'white','font-weight':'bold'},className='navlink-parker'),#,className='nav-link')),
-    dbc.NavLink('Ontological Dif. Analysis', href='/hierarchical-differential-analysis',style = {'color': 'white','font-weight':'bold'}),
-    dbc.NavLink('Phylo Trees', href='/tree-generator',style = {'color': 'white','font-weight':'bold'}),
-    dbc.NavLink('Dif. Analysis', href='/differential-analysis',style = {'color': 'white','font-weight':'bold'}),
+    html.Div(dbc.NavLink('Home', href='/',style = {'color': 'white','font-weight':'bold',"textAlign": "center","vertical-align":"middle"},className='navlink-parker align-middle'),className='px-2'),
+    html.Div(dbc.NavLink('Ontological Differential Analysis', href='/hierarchical-differential-analysis',style = {'color': 'white','font-weight':'bold',"textAlign": "center"}),className='px-2'),
+    html.Div(dbc.NavLink('Phylo. Trees', href='/tree-generator',style = {'color': 'white','font-weight':'bold',"textAlign": "center"}),className='px-2'),
+    html.Div(dbc.NavLink('Differential Analysis', href='/differential-analysis',style = {'color': 'white','font-weight':'bold',"textAlign": "center"}),className='px-2'),
     #default compound for sunburst to make linkin from differential datatables work
-    dbc.NavLink('Sunburst', href='/sunburst/2',style = {'color': 'white','font-weight':'bold'}),
-    dbc.NavLink('Upset Plot', href='/upset',style = {'color': 'white','font-weight':'bold'}),
+    html.Div(dbc.NavLink('Sunburst', href='/sunburst/2',style = {'color': 'white','font-weight':'bold',"textAlign": "center"}),className='px-2'),
+    html.Div(dbc.NavLink('Upset Plot', href='/upset',style = {'color': 'white','font-weight':'bold',"textAlign": "center"}),className='px-2'),
     
-    dbc.NavLink('BinBrowser', href='/bin-browser/2',style = {'color': 'white','font-weight':'bold'}),
+    html.Div(dbc.NavLink('BinBrowser', href='/bin-browser/2',style = {'color': 'white','font-weight':'bold',"textAlign": "center"}),className='px-2'),
+
+    html.Div(dbc.NavLink('Tutorials F.A.Q.', href='/tutorials',style = {'color': 'white','font-weight':'bold',"textAlign": "center"}),className='px-2'),
 ]
 
 app.layout = html.Div([
@@ -55,5 +57,5 @@ app.layout = html.Div([
 
 
 if __name__ == "__main__":
-    app.run(debug=False, host='0.0.0.0')
+    app.run(debug=False, host='0.0.0.0',port=8050)
     #app.run(debug=True)

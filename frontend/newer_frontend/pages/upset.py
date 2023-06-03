@@ -11,7 +11,7 @@ import xlsxwriter
 
 #when containerized, the url is not the local 127.0.0.1
 base_url_api = f"http://api_alias:4999/"
-#base_url_api = "http://127.0.0.1:4999/"
+# base_url_api = "http://127.0.0.1:4999/"
 
 dash.register_page(__name__)
 
@@ -189,10 +189,10 @@ def perform_query_table(
             "slider_percent_present_value":slider_percent_present_value,
             "toggle_average_true_value":True,
             "radio_items_filter_value":radio_items_filter_value,
-            "radio_items_bin_type_upset_value":radio_items_bin_type_upset_value
         }
 
         response = requests.post(base_url_api + "/venntableresource/", json=venn_data_table_output)
+        
         total_panda = pd.read_json(response.json(), orient="records")
 
         total_panda=total_panda.loc[
