@@ -35,13 +35,14 @@ my_engine=create_engine(my_connection)#,echo=True)
 
 api.add_resource(VennTableResource,'/venntableresource/')
 api.add_resource(SunburstResource,'/sunburstresource/')
-api.add_resource(LeafResource,'/leafresource/')
 api.add_resource(LeafMetadataResource,'/leafmetadataresource/')
 api.add_resource(HGDAMetadataResource,'/hgdametadataresource/')
+api.add_resource(LeafResource,'/leafresource/')
 api.add_resource(HGDAResource,'/hgdaresource/')
 api.add_resource(BinResource,'/binresource/')
-api.add_resource(TreeResource,'/treeresource/')
 api.add_resource(TreeMetadataResource,'/treemetadataresource/')
+api.add_resource(TreeResource,'/treeresource/')
+
 
 if __name__ == '__main__':
     app.run(debug=False,port=4999,host='0.0.0.0')

@@ -23,11 +23,17 @@ class VennTableResource(Resource):
         '''
         '''
 
+        print(request.json)
+
         dropdown_triplet_selection_value=request.json["dropdown_triplet_selection_value"]
         slider_percent_present_value=request.json["slider_percent_present_value"]
-        toggle_average_true_value=request.json["toggle_average_true_value"]
+        toggle_average_true_value=bool(request.json["toggle_average_true_value"])
         radio_items_filter_value=request.json["radio_items_filter_value"]
         
+        # print(toggle_average_true_value)
+        # print(type(toggle_average_true_value))
+        # print('------------------------')
+
         my_VennTableQuery=VennTableQuery()
         my_VennTableQuery.build_query(
             dropdown_triplet_selection_value,

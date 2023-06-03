@@ -24,6 +24,8 @@ class HGDAResource(Resource):
         connection=my_engine.connect()
         end=time.time()
 
+        print(request.json['metadata_datatable'])
+
         multiple_metadata_panda=pd.DataFrame.from_dict(request.json['metadata_datatable'])
         my_GroupQueryResult=GroupQueryResult(multiple_metadata_panda,request.json['bin_type'],connection)
 
